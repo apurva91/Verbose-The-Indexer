@@ -2,7 +2,7 @@ import re
 import pdftotext
 import os
 import time
-input_pdf="algo.pdf"
+input_pdf="Files/algo.pdf"
 
 text_pdf = pdftotext.PDF(open(input_pdf,'rb'))
 
