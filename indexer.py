@@ -24,7 +24,7 @@ def search_text(table, input_file):
 	i = 0
 	for line in text:
 		i = i+1
-		x = list(filter(None,re.split('\n| |\\|,|\.|˚|\)|\(|-|\?|\"|:|—|”|;|\'',line)))
+		x = list(filter(None,re.split('\n| |,|\.|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'',line)))
 		for word in x:
 			wordl = word.lower()
 			if wordl in table:
