@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface>
+  <object class="tk.Frame" id="Frame_1">
+    <property name="height">500</property>
+    <property name="width">500</property>
+    <layout>
+      <property name="column">0</property>
+      <property name="propagate">True</property>
+      <property name="row">0</property>
+    </layout>
+    <child>
+      <object class="tk.Entry" id="Enter Query">
+        <property name="insertontime">0</property>
+        <property name="insertwidth">2</property>
+        <property name="selectborderwidth">2</property>
+        <property name="text" translatable="yes">Entry_1</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Button" id="Search">
+        <property name="anchor">nw</property>
+        <property name="compound">bottom</property>
+        <property name="font">TkFixedFont</property>
+        <property name="justify">left</property>
+        <property name="pady">0</property>
+        <property name="text" translatable="yes">Search</property>
+        <property name="underline">0</property>
+        <layout>
+          <property name="column">1</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+        </layout>
+      </object>
+    </child>
+  </object>
+</interface>

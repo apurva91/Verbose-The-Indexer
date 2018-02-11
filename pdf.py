@@ -1,44 +1,39 @@
-import re
 import pdftotext
-import os
 import time
-input_pdf="Files/algo.pdf"
+import re
+import os
+from indexer import *
+from algorithms import *
+import sys
+input_dir="Files"
+listed_files = list_files(input_dir)
+table = {}
 
-text_pdf = pdftotext.PDF(open(input_pdf,'rb'))
-
-table={}
-i = 0
-for page in text_pdf:
-	i = i+1
-	x = list(filter(None,re.split('\n| |,|\.|˚|\)|\(|-|\?|\"|:|—|”|;',page)))
-	for word in x:
-		wordl = word.lower()
-		if wordl in table:
-			table[wordl].append(i)
-		else:
-			table[wordl] = [i]
-
-keys_list = table.keys()
-
-def multiple_words(table, listofwords):
-	x = time.time()
-	intersect = set(table[listofwords[0].lower()])
-
-	for i in range(1,len(listofwords)):
-		intersect = intersect & set(table[listofwords[i].lower()])
-	y = time.time()
-	print (y-x)
-	return intersect
-
-
-def search_keys(keys_list,query):
-	myre = re.compile("[\w]*" + query + "[\w-]*")
-	result = []
-	for key in keys_list:
-		if myre.match(key):
-			result.append(key)
-	return result
-
+# for text,pdfs in listed_files:
+# 	for x in text:
+# 		z= time.time()
+# 		y= time.time()
+# 		print ("Indexed " + x.split("/")[-1] + "In " + str(y-z)[0:5] + "Seconds")
+# 	for x in pdfs:
+# 		z= time.time()
+# 		y= time.time()
+# 		print ("Indexed " + x.split("/")[-1] + "In " + str(y-z)[0:5] + "Seconds")
+ini_time = time.time()
+for text in listed_files[0]:
+		z= time.time()
+		table=search_text(table, text)
+		y= time.time()
+		print ("Indexed " + text.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+for pdf in listed_files[1]:
+		z= time.time()
+		table=search_PDF(table, pdf)
+		y= time.time()
+		print ("Indexed " + pdf.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+fin_time = time.time()
+sizev = sys.getsizeof(table)
+print (str(fin_time - ini_time)[0:5] + " seconds to index the directory \"" + input_dir + "\" . Used a total of " + str(sizev/1024/1024)[0:5] + " MB. ")
+'''
 query = "in general practice"
 result = multiple_words(table, query.split())
 print (result)
+'''
