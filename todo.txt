@@ -1,3 +1,5 @@
 Add dictionary for files in word
 Did you mean
 Add indexes to each word
+https://stackoverflow.com/questions/11821322/elegant-way-to-store-dictionary-permanently-with-python
+See this link for how to store dictionaries using json
