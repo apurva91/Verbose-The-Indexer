@@ -2,8 +2,11 @@ import pdftotext, sys, time, re, os
 from indexer import *
 from algorithms import *
 from filedump import *
+from ui.py import *
 
 input_dir="Files"
+
+
 listed_files = list_files(input_dir)
 table = {}
 

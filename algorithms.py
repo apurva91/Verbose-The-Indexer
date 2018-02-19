@@ -11,10 +11,8 @@ def result(table,query):
 	y = time.time()
 	print ("These are the results found. Time Taken: " + str(y-x) + " seconds.")
 	for dkey in answer:
-		print ("Filename: " + dkey)
+		print ("Filename: " + dkey.split("/")[-1])
 		print (answer[dkey])
-	
-	
 
 def intersect_file(table,query):
 	listofwords = query.split()
@@ -46,12 +44,7 @@ def search_keys(table,query):
 			result.append(key)
 	return result
 
-'''''''''''''''''''''''''''''''''''''''''''''
-Think for a second
-a dict -> word -> book -> page number
-2 method
-1. find out list of common books for all words, now after that take intersection of books
-now for these books in the list search the list
-Number of books O(n)*O(n)
-
+'''
+Now what about how will you index
+inedxing is simple add occurence on 
 '''

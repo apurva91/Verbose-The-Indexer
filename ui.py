@@ -1,43 +1,45 @@
 import gi
 gi.require_version('Gtk', '3.0')
-from gi.repository import Gtk, Gio, Gdk
+from gi.repository import Gtk, Gio, Gdk, GObject
 import os
 
 s = Gdk.Screen.get_default()
 screen_width = s.get_width()
 screen_height = s.get_height()
 
-class MainWindow(Gtk.Window):
-	
-	query_entry = Gtk.Entry()
+builder = Gtk.Builder()
+builder.add_from_file("verbose.glade")
 
-	def __init__(self):
-		Gtk.Window.__init__(self, title="Verbose")
-		self.set_border_width(20)
-		# self.set_default_size(700, 400)
+prev_entry=""
 
-		box_outer = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=6)
-		self.add(box_outer)
 
-		box_search = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL, spacing=6)
-		box_outer.pack_start(box_search,True,True,0)
+class Handlers:
+	def folder_chooser_clicked(self,button):
+		dialog = Gtk.FileChooserDialog("Please choose a folder", None,
+			Gtk.FileChooserAction.SELECT_FOLDER,
+			(Gtk.STOCK_CANCEL, Gtk.ResponseType.CANCEL,
+			 "Select", Gtk.ResponseType.OK))
+		dialog.set_default_size(800, 400)
 
-		self.query_entry.set_text("Search Here")
-		box_search.pack_start(self.query_entry, True, True, 0)
+		response = dialog.run()
+		if response == Gtk.ResponseType.OK:
+			# input_dir = dialog.get_filename()
+			print("Folder selected: " + dialog.get_filename())
+		elif response == Gtk.ResponseType.CANCEL:
+			print("Cancel clicked")
 
-		search_button = Gtk.Button(label="Search")
-		search_button.connect("clicked", self.on_search_button_clicked)
-		box_search.pack_start(search_button, True, True, 0)
+		dialog.destroy()
 
-		list_result = Gtk.ListBox()
-		
+	def search_button_clicked(self,button):
+		global prev_entry
+		entry = builder.get_object("query_entry").get_text()
+		if  prev_entry != entry:
+			prev_entry = entry
+			print (entry)
 
-	def on_search_button_clicked(self,widget):
-		value = self.query_entry.get_text()
-		print (value)
 
-win = MainWindow()
-
-win.connect("delete-event", Gtk.main_quit)
-win.show_all()
+builder.connect_signals(Handlers())
+window = builder.get_object("verbose")
+window.connect("delete-event", Gtk.main_quit)
+window.show_all()
 Gtk.main()
