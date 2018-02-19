@@ -2,20 +2,39 @@ import time
 import re
 import os
 
+regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
+
+def recent_search_write(query):
+	with open("recent.dump", "a") as myfile:
+		myfile.write("||"+query)
+
+def recent_search_read():
+	if os.path.isfile("recent.dump"):
+		with open('recent.dump','r') as f:
+			x = f.read()
+		x = x.split("||")[::-1]
+		x.pop()
+		return x
+	else:
+		return []
+
 def did_you_mean():
 	print ("DID YOU MEAN XYZ")
 
 def result(table,query):
 	x = time.time()
+	recent_search_write(query)
 	answer = intersect_file(table,query)
 	y = time.time()
-	print ("These are the results found. Time Taken: " + str(y-x) + " seconds.")
+	
+	return ["Searched in " + str(y-x) + " seconds.",answer]
+
 	for dkey in answer:
 		print ("Filename: " + dkey.split("/")[-1])
 		print (answer[dkey])
 
 def intersect_file(table,query):
-	listofwords = query.split()
+	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
 	try:
 		books = set(table[listofwords[0].lower()].keys())		
 		for i in range(1,len(listofwords)):
@@ -43,6 +62,12 @@ def search_keys(table,query):
 		if myre.match(key):
 			result.append(key)
 	return result
+
+def open_text(filename, linenumber):
+	os.system("gedit "+filename+ " +"+linenumber)
+
+def open_pdf(filename, pagenumber):
+	os.system("okular +"+filename + " -p " + pagenumber)
 
 '''
 Now what about how will you index

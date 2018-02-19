@@ -19,6 +19,7 @@ def main_search(tableold,input_file):
 	return tableold
 '''
 
+
 def search_PDF(tableold, input_file):
 	table={}
 	if check_dump(input_file):
@@ -39,7 +40,6 @@ def search_PDF(tableold, input_file):
 
 	tableold = merge_dump(tableold,table,input_file)
 	return tableold
-
 
 def search_text(tableold, input_file):
 	table={}
@@ -62,6 +62,22 @@ def search_text(tableold, input_file):
 
 	tableold = merge_dump(tableold,table,input_file)
 	return tableold
+
+def index_folder(table,input_dir):
+	listed_files = list_files(input_dir)
+	ini_time = time.time()
+	for text in listed_files[0]:
+			z= time.time()
+			table=search_text(table, text)
+			y= time.time()
+			print ("Indexed " + text.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+	for pdf in listed_files[1]:
+			z= time.time()
+			table=search_PDF(table, pdf)
+			y= time.time()
+			print ("Indexed " + pdf.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+	fin_time = time.time()
+	return table
 
 def list_files(folder):
 	list_folder = os.listdir(folder)
