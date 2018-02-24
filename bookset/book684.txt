@@ -1,0 +1,1227 @@
+The Project Gutenberg EBook of Worldwide Effects of Nuclear War: Some
+Perspectives, by United States Arms Control and Disarmament Agency
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Worldwide Effects of Nuclear War: Some Perspectives
+
+Author: United States Arms Control and Disarmament Agency
+
+Posting Date: August 12, 2008 [EBook #684]
+Release Date: October, 1996
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WORLDWIDE EFFECTS OF NUCLEAR WAR ***
+
+
+
+
+Produced by Gregory Walker
+
+
+
+
+
+
+
+
+
+For an HTML version of this document and additional public domain
+documents on nuclear history, visit Trinity Atomic Web Site:
+http://www.envirolink.org/issues/nuketesting/
+
+
+
+
+
+WORLDWIDE EFFECTS OF NUCLEAR WAR - - - SOME PERSPECTIVES
+
+U.S. Arms Control and Disarmament Agency, 1975.
+
+
+
+CONTENTS
+
+
+  Foreword
+  Introduction
+  The Mechanics of Nuclear Explosions
+  Radioactive Fallout
+    A. Local Fallout
+    B. Worldwide Effects of Fallout
+  Alterations of the Global Environment
+    A. High Altitude Dust
+    B. Ozone
+  Some Conclusions
+
+  Note 1: Nuclear Weapons Yield
+  Note 2: Nuclear Weapons Design
+  Note 3: Radioactivity
+  Note 4: Nuclear Half-Life
+  Note 5: Oxygen, Ozone and Ultraviolet Radiation
+
+
+
+FOREWORD
+
+Much research has been devoted to the effects of nuclear weapons.  But
+studies have been concerned for the most part with those immediate
+consequences which would be suffered by a country that was the direct
+target of nuclear attack.  Relatively few studies have examined the
+worldwide, long term effects.
+
+Realistic and responsible arms control policy calls for our knowing
+more about these wider effects and for making this knowledge available
+to the public.  To learn more about them, the Arms Control and
+Disarmament Agency (ACDA) has initiated a number of projects, including
+a National Academy of Sciences study, requested in April 1974.  The
+Academy's study, Long-Term Worldwide Effects of Multiple Nuclear
+Weapons Detonations, a highly technical document of more than 200
+pages, is now available.  The present brief publication seeks to
+include its essential findings, along with the results of related
+studies of this Agency, and to provide as well the basic background
+facts necessary for informed perspectives on the issue.
+
+New discoveries have been made, yet much uncertainty inevitably
+persists. Our knowledge of nuclear warfare rests largely on theory and
+hypothesis, fortunately untested by the usual processes of trial and
+error; the paramount goal of statesmanship is that we should never
+learn from the experience of nuclear war.
+
+The uncertainties that remain are of such magnitude that of themselves
+they must serve as a further deterrent to the use of nuclear weapons.
+At the same time, knowledge, even fragmentary knowledge, of the broader
+effects of nuclear weapons underlines the extreme difficulty that
+strategic planners of any nation would face in attempting to predict
+the results of a nuclear war.  Uncertainty is one of the major
+conclusions in our studies, as the haphazard and unpredicted derivation
+of many of our discoveries emphasizes. Moreover, it now appears that a
+massive attack with many large-scale nuclear detonations could cause
+such widespread and long-lasting environmental damage that the
+aggressor country might suffer serious physiological, economic, and
+environmental effects even without a nuclear response by the country
+attacked.
+
+An effort has been made to present this paper in language that does not
+require a scientific background on the part of the reader.
+Nevertheless it must deal in schematized processes, abstractions, and
+statistical generalizations.  Hence one supremely important perspective
+must be largely supplied by the reader: the human perspective--the
+meaning of these physical effects for individual human beings and for
+the fabric of civilized life.
+
+ Fred C. Ikle
+ Director
+ U.S. Arms Control and Disarmament Agency
+
+
+
+INTRODUCTION
+
+It has now been two decades since the introduction of thermonuclear
+fusion weapons into the military inventories of the great powers, and
+more than a decade since the United States, Great Britain, and the
+Soviet Union ceased to test nuclear weapons in the atmosphere.  Today
+our understanding of the technology of thermonuclear weapons seems
+highly advanced, but our knowledge of the physical and biological
+consequences of nuclear war is continuously evolving.
+
+Only recently, new light was shed on the subject in a study which the
+Arms Control and Disarmament Agency had asked the National Academy of
+Sciences to undertake.  Previous studies had tended to focus very
+largely on radioactive fallout from a nuclear war; an important aspect
+of this new study was its inquiry into all possible consequences,
+including the effects of large-scale nuclear detonations on the ozone
+layer which helps protect life on earth from the sun's ultraviolet
+radiations.  Assuming a total detonation of 10,000 megatons--a
+large-scale but less than total nuclear "exchange," as one would say in
+the dehumanizing jargon of the strategists--it was concluded that as
+much as 30-70 percent of the ozone might be eliminated from the
+northern hemisphere (where a nuclear war would presumably take place)
+and as much as 20-40 percent from the southern hemisphere.  Recovery
+would probably take about 3-10 years, but the Academy's study notes
+that long term global changes cannot be completely ruled out.
+
+The reduced ozone concentrations would have a number of consequences
+outside the areas in which the detonations occurred.  The Academy study
+notes, for example, that the resultant increase in ultraviolet would
+cause "prompt incapacitating cases of sunburn in the temperate zones
+and snow blindness in northern countries . . ."
+
+Strange though it might seem, the increased ultraviolet radiation could
+also be accompanied by a drop in the average temperature.  The size of
+the change is open to question, but the largest changes would probably
+occur at the higher latitudes, where crop production and ecological
+balances are sensitively dependent on the number of frost-free days and
+other factors related to average temperature.  The Academy's study
+concluded that ozone changes due to nuclear war might decrease global
+surface temperatures by only negligible amounts or by as much as a few
+degrees.  To calibrate the significance of this, the study mentioned
+that a cooling of even 1 degree centigrade would eliminate commercial
+wheat growing in Canada.
+
+Thus, the possibility of a serious increase in ultraviolet radiation
+has been added to widespread radioactive fallout as a fearsome
+consequence of the large-scale use of nuclear weapons.  And it is
+likely that we must reckon with still other complex and subtle
+processes, global in scope, which could seriously threaten the health
+of distant populations in the event of an all-out nuclear war.
+
+Up to now, many of the important discoveries about nuclear weapon
+effects have been made not through deliberate scientific inquiry but by
+accident. And as the following historical examples show, there has been
+a series of surprises.
+
+"Castle/Bravo" was the largest nuclear weapon ever detonated by the
+United States.  Before it was set off at Bikini on February 28, 1954,
+it was expected to explode with an energy equivalent of about 8 million
+tons of TNT.  Actually, it produced almost twice that explosive
+power--equivalent to 15 million tons of TNT.
+
+If the power of the bomb was unexpected, so were the after-effects.
+About 6 hours after the explosion, a fine, sandy ash began to sprinkle
+the Japanese fishing vessel Lucky Dragon, some 90 miles downwind of the
+burst point, and Rongelap Atoll, 100 miles downwind.  Though 40 to 50
+miles away from the proscribed test area, the vessel's crew and the
+islanders received heavy doses of radiation from the weapon's
+"fallout"--the coral rock, soil, and other debris sucked up in the
+fireball and made intensively radioactive by the nuclear reaction.  One
+radioactive isotope in the fallout, iodine-131, rapidly built up to
+serious concentration in the thyroid glands of the victims,
+particularly young Rongelapese children.
+
+More than any other event in the decade of testing large nuclear
+weapons in the atmosphere, Castle/Bravo's unexpected contamination of
+7,000 square miles of the Pacific Ocean dramatically illustrated how
+large-scale nuclear war could produce casualties on a colossal scale,
+far beyond the local effects of blast and fire alone.
+
+A number of other surprises were encountered during 30 years of nuclear
+weapons development.  For example, what was probably man's most
+extensive modification of the global environment to date occurred in
+September 1962, when a nuclear device was detonated 250 miles above
+Johnson Island.  The 1.4-megaton burst produced an artificial belt of
+charged particles trapped in the earth's magnetic field.  Though 98
+percent of these particles were removed by natural processes after the
+first year, traces could be detected 6 or 7 years later.  A number of
+satellites in low earth orbit at the time of the burst suffered severe
+electronic damage resulting in malfunctions and early failure.  It
+became obvious that man now had the power to make long term changes in
+his near-space environment.
+
+Another unexpected effect of high-altitude bursts was the blackout of
+high-frequency radio communications.  Disruption of the ionosphere
+(which reflects radio signals back to the earth) by nuclear bursts over
+the Pacific has wiped out long-distance radio communications for hours
+at distances of up to 600 miles from the burst point.
+
+Yet another surprise was the discovery that electromagnetic pulses can
+play havoc with electrical equipment itself, including some in command
+systems that control the nuclear arms themselves.
+
+Much of our knowledge was thus gained by chance--a fact which should
+imbue us with humility as we contemplate the remaining uncertainties
+(as well as the certainties) about nuclear warfare.  What we have
+learned enables us, nonetheless, to see more clearly.  We know, for
+instance, that some of the earlier speculations about the after-effects
+of a global nuclear war were as far-fetched as they were
+horrifying--such as the idea that the worldwide accumulation of
+radioactive fallout would eliminate all life on the planet, or that it
+might produce a train of monstrous genetic mutations in all living
+things, making future life unrecognizable.  And this accumulation of
+knowledge which enables us to rule out the more fanciful possibilities
+also allows us to reexamine, with some scientific rigor, other
+phenomena which could seriously affect the global environment and the
+populations of participant and nonparticipant countries alike.
+
+This paper is an attempt to set in perspective some of the longer term
+effects of nuclear war on the global environment, with emphasis on
+areas and peoples distant from the actual targets of the weapons.
+
+
+
+THE MECHANICS OF NUCLEAR EXPLOSIONS
+
+In nuclear explosions, about 90 percent of the energy is released in
+less than one millionth of a second.  Most of this is in the form of
+the heat and shock waves which produce the damage.  It is this
+immediate and direct explosive power which could devastate the urban
+centers in a major nuclear war.
+
+Compared with the immediate colossal destruction suffered in target
+areas, the more subtle, longer term effects of the remaining 10 percent
+of the energy released by nuclear weapons might seem a matter of
+secondary concern.  But the dimensions of the initial catastrophe
+should not overshadow the after-effects of a nuclear war.  They would
+be global, affecting nations remote from the fighting for many years
+after the holocaust, because of the way nuclear explosions behave in
+the atmosphere and the radioactive products released by nuclear bursts.
+
+When a weapon is detonated at the surface of the earth or at low
+altitudes, the heat pulse vaporizes the bomb material, target, nearby
+structures, and underlying soil and rock, all of which become entrained
+in an expanding, fast-rising fireball.  As the fireball rises, it
+expands and cools, producing the distinctive mushroom cloud, signature
+of nuclear explosions.
+
+The altitude reached by the cloud depends on the force of the
+explosion. When yields are in the low-kiloton range, the cloud will
+remain in the lower atmosphere and its effects will be entirely local.
+But as yields exceed 30 kilotons, part of the cloud will punch into the
+stratosphere, which begins about 7 miles up.  With yields of 2-5
+megatons or more, virtually all of the cloud of radioactive debris and
+fine dust will climb into the stratosphere.  The heavier materials
+reaching the lower edge of the stratosphere will soon settle out, as
+did the Castle/Bravo fallout at Rongelap.  But the lighter particles
+will penetrate high into the stratosphere, to altitudes of 12 miles and
+more, and remain there for months and even years.  Stratospheric
+circulation and diffusion will spread this material around the world.
+
+
+
+RADIOACTIVE FALLOUT
+
+Both the local and worldwide fallout hazards of nuclear explosions
+depend on a variety of interacting factors: weapon design, explosive
+force, altitude and latitude of detonation, time of year, and local
+weather conditions.
+
+All present nuclear weapon designs require the splitting of heavy
+elements like uranium and plutonium.  The energy released in this
+fission process is many millions of times greater, pound for pound,
+than the most energetic chemical reactions.  The smaller nuclear
+weapon, in the low-kiloton range, may rely solely on the energy
+released by the fission process, as did the first bombs which
+devastated Hiroshima and Nagasaki in 1945.  The larger yield nuclear
+weapons derive a substantial part of their explosive force from the
+fusion of heavy forms of hydrogen--deuterium and tritium.  Since there
+is virtually no limitation on the volume of fusion materials in a
+weapon, and the materials are less costly than fissionable materials,
+the fusion, "thermonuclear," or "hydrogen" bomb brought a radical
+increase in the explosive power of weapons.  However, the fission
+process is still necessary to achieve the high temperatures and
+pressures needed to trigger the hydrogen fusion reactions.  Thus, all
+nuclear detonations produce radioactive fragments of heavy elements
+fission, with the larger bursts producing an additional radiation
+component from the fusion process.
+
+The nuclear fragments of heavy-element fission which are of greatest
+concern are those radioactive atoms (also called radionuclides) which
+decay by emitting energetic electrons or gamma particles.  (See
+"Radioactivity" note.) An important characteristic here is the rate of
+decay.  This is measured in terms of "half-life"--the time required for
+one-half of the original substance to decay--which ranges from days to
+thousands of years for the bomb-produced radionuclides of principal
+interest.  (See "Nuclear Half-Life" note.) Another factor which is
+critical in determining the hazard of radionuclides is the chemistry of
+the atoms.  This determines whether they will be taken up by the body
+through respiration or the food cycle and incorporated into tissue.  If
+this occurs, the risk of biological damage from the destructive
+ionizing radiation (see "Radioactivity" note) is multiplied.
+
+Probably the most serious threat is cesium-137, a gamma emitter with a
+half-life of 30 years.  It is a major source of radiation in nuclear
+fallout, and since it parallels potassium chemistry, it is readily
+taken into the blood of animals and men and may be incorporated into
+tissue.
+
+Other hazards are strontium-90, an electron emitter with a half-life of
+28 years, and iodine-131 with a half-life of only 8 days.  Strontium-90
+follows calcium chemistry, so that it is readily incorporated into the
+bones and teeth, particularly of young children who have received milk
+from cows consuming contaminated forage.  Iodine-131 is a similar
+threat to infants and children because of its concentration in the
+thyroid gland. In addition, there is plutonium-239, frequently used in
+nuclear explosives. A bone-seeker like strontium-90, it may also become
+lodged in the lungs, where its intense local radiation can cause cancer
+or other damage. Plutonium-239 decays through emission of an alpha
+particle (helium nucleus) and has a half-life of 24,000 years.
+
+To the extent that hydrogen fusion contributes to the explosive force
+of a weapon, two other radionuclides will be released: tritium
+(hydrogen-3), an electron emitter with a half-life of 12 years, and
+carbon-14, an electron emitter with a half-life of 5,730 years.  Both
+are taken up through the food cycle and readily incorporated in organic
+matter.
+
+Three types of radiation damage may occur: bodily damage (mainly
+leukemia and cancers of the thyroid, lung, breast, bone, and
+gastrointestinal tract); genetic damage (birth defects and
+constitutional and degenerative diseases due to gonodal damage suffered
+by parents); and development and growth damage (primarily growth and
+mental retardation of unborn infants and young children).  Since heavy
+radiation doses of about 20 roentgen or more (see "Radioactivity" note)
+are necessary to produce developmental defects, these effects would
+probably be confined to areas of heavy local fallout in the nuclear
+combatant nations and would not become a global problem.
+
+
+A. Local Fallout
+
+Most of the radiation hazard from nuclear bursts comes from short-lived
+radionuclides external to the body; these are generally confined to the
+locality downwind of the weapon burst point.  This radiation hazard
+comes from radioactive fission fragments with half-lives of seconds to
+a few months, and from soil and other materials in the vicinity of the
+burst made radioactive by the intense neutron flux of the fission and
+fusion reactions.
+
+It has been estimated that a weapon with a fission yield of 1 million
+tons TNT equivalent power (1 megaton) exploded at ground level in a 15
+miles-per-hour wind would produce fallout in an ellipse extending
+hundreds of miles downwind from the burst point.  At a distance of
+20-25 miles downwind, a lethal radiation dose (600 rads) would be
+accumulated by a person who did not find shelter within 25 minutes
+after the time the fallout began.  At a distance of 40-45 miles, a
+person would have at most 3 hours after the fallout began to find
+shelter.  Considerably smaller radiation doses will make people
+seriously ill.  Thus, the survival prospects of persons immediately
+downwind of the burst point would be slim unless they could be
+sheltered or evacuated.
+
+It has been estimated that an attack on U.S. population centers by 100
+weapons of one-megaton fission yield would kill up to 20 percent of the
+population immediately through blast, heat, ground shock and instant
+radiation effects (neutrons and gamma rays); an attack with 1,000 such
+weapons would destroy immediately almost half the U.S. population.
+These figures do not include additional deaths from fires, lack of
+medical attention, starvation, or the lethal fallout showering to the
+ground downwind of the burst points of the weapons.
+
+Most of the bomb-produced radionuclides decay rapidly.  Even so, beyond
+the blast radius of the exploding weapons there would be areas ("hot
+spots") the survivors could not enter because of radioactive
+contamination from long-lived radioactive isotopes like strontium-90 or
+cesium-137, which can be concentrated through the food chain and
+incorporated into the body.  The damage caused would be internal, with
+the injurious effects appearing over many years.  For the survivors of
+a nuclear war, this lingering radiation hazard could represent a grave
+threat for as long as 1 to 5 years after the attack.
+
+
+B. Worldwide Effects of Fallout
+
+Much of our knowledge of the production and distribution of
+radionuclides has been derived from the period of intensive nuclear
+testing in the atmosphere during the 1950's and early 1960's.  It is
+estimated that more than 500 megatons of nuclear yield were detonated
+in the atmosphere between 1945 and 1971, about half of this yield being
+produced by a fission reaction.  The peak occurred in 1961-62, when a
+total of 340 megatons were detonated in the atmosphere by the United
+States and Soviet Union.  The limited nuclear test ban treaty of 1963
+ended atmospheric testing for the United States, Britain, and the
+Soviet Union, but two major non-signatories, France and China,
+continued nuclear testing at the rate of about 5 megatons annually.
+(France now conducts its nuclear tests underground.)
+
+A U.N. scientific committee has estimated that the cumulative per
+capita dose to the world's population up to the year 2000 as a result
+of atmospheric testing through 1970 (cutoff date of the study) will be
+the equivalent of 2 years' exposure to natural background radiation on
+the earth's surface.  For the bulk of the world's population, internal
+and external radiation doses of natural origin amount to less than
+one-tenth rad annually.  Thus nuclear testing to date does not appear
+to pose a severe radiation threat in global terms.  But a nuclear war
+releasing 10 or 100 times the total yield of all previous weapons tests
+could pose a far greater worldwide threat.
+
+The biological effects of all forms of ionizing radiation have been
+calculated within broad ranges by the National Academy of Sciences.
+Based on these calculations, fallout from the 500-plus megatons of
+nuclear testing through 1970 will produce between 2 and 25 cases of
+genetic disease per million live births in the next generation.  This
+means that between 3 and 50 persons per billion births in the
+post-testing generation will have genetic damage for each megaton of
+nuclear yield exploded.  With similar uncertainty, it is possible to
+estimate that the induction of cancers would range from 75 to 300 cases
+per megaton for each billion people in the post-test generation.
+
+If we apply these very rough yardsticks to a large-scale nuclear war in
+which 10,000 megatons of nuclear force are detonated, the effects on a
+world population of 5 billion appear enormous.  Allowing for
+uncertainties about the dynamics of a possible nuclear war,
+radiation-induced cancers and genetic damage together over 30 years are
+estimated to range from 1.5 to 30 million for the world population as a
+whole.  This would mean one additional case for every 100 to 3,000
+people or about 1/2 percent to 15 percent of the estimated peacetime
+cancer death rate in developed countries.  As will be seen, moreover,
+there could be other, less well understood effects which would
+drastically increase suffering and death.
+
+
+
+ALTERATIONS OF THE GLOBAL ENVIRONMENT
+
+A nuclear war would involve such prodigious and concentrated short term
+release of high temperature energy that it is necessary to consider a
+variety of potential environmental effects.
+
+It is true that the energy of nuclear weapons is dwarfed by many
+natural phenomena.  A large hurricane may have the power of a million
+hydrogen bombs.  But the energy release of even the most severe weather
+is diffuse; it occurs over wide areas, and the difference in
+temperature between the storm system and the surrounding atmosphere is
+relatively small.  Nuclear detonations are just the opposite--highly
+concentrated with reaction temperatures up to tens of millions of
+degrees Fahrenheit.  Because they are so different from natural
+processes, it is necessary to examine their potential for altering the
+environment in several contexts.
+
+
+A.  High Altitude Dust
+
+It has been estimated that a 10,000-megaton war with half the weapons
+exploding at ground level would tear up some 25 billion cubic meters of
+rock and soil, injecting a substantial amount of fine dust and
+particles into the stratosphere.  This is roughly twice the volume of
+material blasted loose by the Indonesian volcano, Krakatoa, whose
+explosion in 1883 was the most powerful terrestrial event ever
+recorded.  Sunsets around the world were noticeably reddened for
+several years after the Krakatoa eruption, indicating that large
+amounts of volcanic dust had entered the stratosphere.
+
+Subsequent studies of large volcanic explosions, such as Mt. Agung on
+Bali in 1963, have raised the possibility that large-scale injection of
+dust into the stratosphere would reduce sunlight intensities and
+temperatures at the surface, while increasing the absorption of heat in
+the upper atmosphere.
+
+The resultant minor changes in temperature and sunlight could affect
+crop production.  However, no catastrophic worldwide changes have
+resulted from volcanic explosions, so it is doubtful that the gross
+injection of particulates into the stratosphere by a 10,000-megaton
+conflict would, by itself, lead to major global climate changes.
+
+
+B. Ozone
+
+More worrisome is the possible effect of nuclear explosions on ozone in
+the stratosphere.  Not until the 20th century was the unique and
+paradoxical role of ozone fully recognized.  On the other hand, in
+concentrations greater than I part per million in the air we breathe,
+ozone is toxic; one major American city, Los Angeles, has established a
+procedure for ozone alerts and warnings.  On the other hand, ozone is a
+critically important feature of the stratosphere from the standpoint of
+maintaining life on the earth.
+
+The reason is that while oxygen and nitrogen in the upper reaches of
+the atmosphere can block out solar ultraviolet photons with wavelengths
+shorter than 2,420 angstroms (A), ozone is the only effective shield in
+the atmosphere against solar ultraviolet radiation between 2,500 and
+3,000 A in wavelength.  (See note 5.)  Although ozone is extremely
+efficient at filtering out solar ultraviolet in 2,500-3,000 A region of
+the spectrum, some does get through at the higher end of the spectrum.
+Ultraviolet rays in the range of 2,800 to 3,200 A which cause sunburn,
+prematurely age human skin and produce skin cancers.  As early as 1840,
+arctic snow blindness was attributed to solar ultraviolet; and we have
+since found that intense ultraviolet radiation can inhibit
+photosynthesis in plants, stunt plant growth, damage bacteria, fungi,
+higher plants, insects and annuals, and produce genetic alterations.
+
+Despite the important role ozone plays in assuring a liveable
+environment at the earth's surface, the total quantity of ozone in the
+atmosphere is quite small, only about 3 parts per million.
+Furthermore, ozone is not a durable or static constituent of the
+atmosphere.  It is constantly created, destroyed, and recreated by
+natural processes, so that the amount of ozone present at any given
+time is a function of the equilibrium reached between the creative and
+destructive chemical reactions and the solar radiation reaching the
+upper stratosphere.
+
+The mechanism for the production of ozone is the absorption by oxygen
+molecules (O2) of relatively short-wavelength ultraviolet light.  The
+oxygen molecule separates into two atoms of free oxygen, which
+immediately unite with other oxygen molecules on the surfaces of
+particles in the upper atmosphere.  It is this union which forms ozone,
+or O3.  The heat released by the ozone-forming process is the reason
+for the curious increase with altitude of the temperature of the
+stratosphere (the base of which is about 36,000 feet above the earth's
+surface).
+
+While the natural chemical reaction produces about 4,500 tons of ozone
+per second in the stratosphere, this is offset by other natural
+chemical reactions which break down the ozone.  By far the most
+significant involves nitric oxide (NO) which breaks ozone (O3) into
+molecules.  This effect was discovered only in the last few years in
+studies of the environmental problems which might be encountered if
+large fleets of supersonic transport aircraft operate routinely in the
+lower stratosphere.  According to a report by Dr. Harold S. Johnston,
+University of California at Berkeley--prepared for the Department of
+Transportation's Climatic Impact Assessment Program--it now appears
+that the NO reaction is normally responsible for 50 to 70 percent of
+the destruction of ozone.
+
+In the natural environment, there is a variety of means for the
+production of NO and its transport into the stratosphere.  Soil
+bacteria produce nitrous oxide (N2O) which enters the lower atmosphere
+and slowly diffuses into the stratosphere, where it reacts with free
+oxygen (O) to form two NO molecules.  Another mechanism for NO
+production in the lower atmosphere may be lightning discharges, and
+while NO is quickly washed out of the lower atmosphere by rain, some of
+it may reach the stratosphere.  Additional amounts of NO are produced
+directly in the stratosphere by cosmic rays from the sun and
+interstellar sources.
+
+It is because of this catalytic role which nitric oxide plays in the
+destruction of ozone that it is important to consider the effects of
+high-yield nuclear explosions on the ozone layer.  The nuclear fireball
+and the air entrained within it are subjected to great heat, followed
+by relatively rapid cooling.  These conditions are ideal for the
+production of tremendous amounts of NO from the air.  It has been
+estimated that as much as 5,000 tons of nitric oxide is produced for
+each megaton of nuclear explosive power.
+
+What would be the effects of nitric oxides driven into the stratosphere
+by an all-out nuclear war, involving the detonation of 10,000 megatons
+of explosive force in the northern hemisphere?  According to the recent
+National Academy of Sciences study, the nitric oxide produced by the
+weapons could reduce the ozone levels in the northern hemisphere by as
+much as 30 to 70 percent.
+
+To begin with, a depleted ozone layer would reflect back to the earth's
+surface less heat than would normally be the case, thus causing a drop
+in temperature--perhaps enough to produce serious effects on
+agriculture. Other changes, such as increased amounts of dust or
+different vegetation, might subsequently reverse this drop in
+temperature--but on the other hand, it might increase it.
+
+Probably more important, life on earth has largely evolved within the
+protective ozone shield and is presently adapted rather precisely to
+the amount of solar ultraviolet which does get through.  To defend
+themselves against this low level of ultraviolet, evolved external
+shielding (feathers, fur, cuticular waxes on fruit), internal shielding
+(melanin pigment in human skin, flavenoids in plant tissue), avoidance
+strategies (plankton migration to greater depths in the daytime,
+shade-seeking by desert iguanas) and, in almost all organisms but
+placental mammals, elaborate mechanisms to repair photochemical damage.
+
+It is possible, however, that a major increase in solar ultraviolet
+might overwhelm the defenses of some and perhaps many terrestrial life
+forms. Both direct and indirect damage would then occur among the
+bacteria, insects, plants, and other links in the ecosystems on which
+human well-being depends.  This disruption, particularly if it occurred
+in the aftermath of a major war involving many other dislocations,
+could pose a serious additional threat to the recovery of postwar
+society.  The National Academy of Sciences report concludes that in 20
+years the ecological systems would have essentially recovered from the
+increase in ultraviolet radiation--though not necessarily from
+radioactivity or other damage in areas close to the war zone.  However,
+a delayed effect of the increase in ultraviolet radiation would be an
+estimated 3 to 30 percent increase in skin cancer for 40 years in the
+Northern Hemisphere's mid-latitudes.
+
+
+
+SOME CONCLUSIONS
+
+We have considered the problems of large-scale nuclear war from the
+standpoint of the countries not under direct attack, and the
+difficulties they might encounter in postwar recovery.  It is true that
+most of the horror and tragedy of nuclear war would be visited on the
+populations subject to direct attack, who would doubtless have to cope
+with extreme and perhaps insuperable obstacles in seeking to
+reestablish their own societies.  It is no less apparent, however, that
+other nations, including those remote from the combat, could suffer
+heavily because of damage to the global environment.
+
+Finally, at least brief mention should be made of the global effects
+resulting from disruption of economic activities and communications.
+Since 1970, an increasing fraction of the human race has been losing
+the battle for self-sufficiency in food, and must rely on heavy
+imports.  A major disruption of agriculture and transportation in the
+grain-exporting and manufacturing countries could thus prove disastrous
+to countries importing food, farm machinery, and
+fertilizers--especially those which are already struggling with the
+threat of widespread starvation.  Moreover, virtually every economic
+area, from food and medicines to fuel and growth engendering
+industries, the less-developed countries would find they could not rely
+on the "undamaged" remainder of the developed world for trade
+essentials: in the wake of a nuclear war the industrial powers directly
+involved would themselves have to compete for resources with those
+countries that today are described as "less-developed."
+
+Similarly, the disruption of international communications--satellites,
+cables, and even high frequency radio links--could be a major obstacle
+to international recovery efforts.
+
+In attempting to project the after-effects of a major nuclear war, we
+have considered separately the various kinds of damage that could
+occur.  It is also quite possible, however, that interactions might
+take place among these effects, so that one type of damage would couple
+with another to produce new and unexpected hazards.  For example, we
+can assess individually the consequences of heavy worldwide radiation
+fallout and increased solar ultraviolet, but we do not know whether the
+two acting together might significantly increase human, animal, or
+plant susceptibility to disease.  We can conclude that massive dust
+injection into the stratosphere, even greater in scale than Krakatoa,
+is unlikely by itself to produce significant climatic and environmental
+change, but we cannot rule out interactions with other phenomena, such
+as ozone depletion, which might produce utterly unexpected results.
+
+We have come to realize that nuclear weapons can be as unpredictable as
+they are deadly in their effects.  Despite some 30 years of development
+and study, there is still much that we do not know.  This is
+particularly true when we consider the global effects of a large-scale
+nuclear war.
+
+
+
+Note 1:  Nuclear Weapons Yield
+
+The most widely used standard for measuring the power of nuclear
+weapons is "yield," expressed as the quantity of chemical explosive
+(TNT) that would produce the same energy release.  The first atomic
+weapon which leveled Hiroshima in 1945, had a yield of 13 kilotons;
+that is, the explosive power of 13,000 tons of TNT.  (The largest
+conventional bomb dropped in World War II contained about 10 tons of
+TNT.)
+
+Since Hiroshima, the yields or explosive power of nuclear weapons have
+vastly increased.  The world's largest nuclear detonation, set off in
+1962 by the Soviet Union, had a yield of 58 megatons--equivalent to 58
+million tons of TNT.  A modern ballistic missile may carry warhead
+yields up to 20 or more megatons.
+
+Even the most violent wars of recent history have been relatively
+limited in terms of the total destructive power of the non-nuclear
+weapons used. A single aircraft or ballistic missile today can carry a
+nuclear explosive force surpassing that of all the non-nuclear bombs
+used in recent wars. The number of nuclear bombs and missiles the
+superpowers now possess runs into the thousands.
+
+
+
+Note 2:  Nuclear Weapons Design
+
+Nuclear weapons depend on two fundamentally different types of nuclear
+reactions, each of which releases energy:
+
+Fission, which involves the splitting of heavy elements (e.g. uranium);
+and fusion, which involves the combining of light elements (e.g.
+hydrogen).
+
+Fission requires that a minimum amount of material or "critical mass"
+be brought together in contact for the nuclear explosion to take place.
+The more efficient fission weapons tend to fall in the yield range of
+tens of kilotons.  Higher explosive yields become increasingly complex
+and impractical.
+
+Nuclear fusion permits the design of weapons of virtually limitless
+power. In fusion, according to nuclear theory, when the nuclei of light
+atoms like hydrogen are joined, the mass of the fused nucleus is
+lighter than the two original nuclei; the loss is expressed as energy.
+By the 1930's, physicists had concluded that this was the process which
+powered the sun and stars; but the nuclear fusion process remained only
+of theoretical interest until it was discovered that an atomic fission
+bomb might be used as a "trigger" to produce, within one- or
+two-millionths of a second, the intense pressure and temperature
+necessary to set off the fusion reaction.
+
+Fusion permits the design of weapons of almost limitless power, using
+materials that are far less costly.
+
+
+
+Note 3: Radioactivity
+
+Most familiar natural elements like hydrogen, oxygen, gold, and lead
+are stable, and enduring unless acted upon by outside forces.  But
+almost all elements can exist in unstable forms.  The nuclei of these
+unstable "isotopes," as they are called, are "uncomfortable" with the
+particular mixture of nuclear particles comprising them, and they
+decrease this internal stress through the process of radioactive decay.
+
+The three basic modes of radioactive decay are the emission of alpha,
+beta and gamma radiation:
+
+Alpha--Unstable nuclei frequently emit alpha particles, actually helium
+nuclei consisting of two protons and two neutrons.  By far the most
+massive of the decay particles, it is also the slowest, rarely
+exceeding one-tenth the velocity of light.  As a result, its
+penetrating power is weak, and it can usually be stopped by a piece of
+paper.  But if alpha emitters like plutonium are incorporated in the
+body, they pose a serious cancer threat.
+
+Beta--Another form of radioactive decay is the emission of a beta
+particle, or electron.  The beta particle has only about one
+seven-thousandth the mass of the alpha particle, but its velocity is
+very much greater, as much as eight-tenths the velocity of light.  As a
+result, beta particles can penetrate far more deeply into bodily tissue
+and external doses of beta radiation represent a significantly greater
+threat than the slower, heavier alpha particles.  Beta-emitting
+isotopes are as harmful as alpha emitters if taken up by the body.
+
+Gamma--In some decay processes, the emission is a photon having no mass
+at all and traveling at the speed of light.  Radio waves, visible
+light, radiant heat, and X-rays are all photons, differing only in the
+energy level each carries.  The gamma ray is similar to the X-ray
+photon, but far more penetrating (it can traverse several inches of
+concrete).  It is capable of doing great damage in the body.
+
+Common to all three types of nuclear decay radiation is their ability
+to ionize (i.e., unbalance electrically) the neutral atoms through
+which they pass, that is, give them a net electrical charge.  The alpha
+particle, carrying a positive electrical charge, pulls electrons from
+the atoms through which it passes, while negatively charged beta
+particles can push electrons out of neutral atoms.  If energetic betas
+pass sufficiently close to atomic nuclei, they can produce X-rays which
+themselves can ionize additional neutral atoms.  Massless but energetic
+gamma rays can knock electrons out of neutral atoms in the same fashion
+as X-rays, leaving them ionized.  A single particle of radiation can
+ionize hundreds of neutral atoms in the tissue in multiple collisions
+before all its energy is absorbed.  This disrupts the chemical bonds
+for critically important cell structures like the cytoplasm, which
+carries the cell's genetic blueprints, and also produces chemical
+constituents which can cause as much damage as the original ionizing
+radiation.
+
+For convenience, a unit of radiation dose called the "rad" has been
+adopted.  It measures the amount of ionization produced per unit volume
+by the particles from radioactive decay.
+
+
+
+Note 4: Nuclear Half-Life
+
+The concept of "half-life" is basic to an understanding of radioactive
+decay of unstable nuclei.
+
+Unlike physical "systems"--bacteria, animals, men and stars--unstable
+isotopes do not individually have a predictable life span.  There is no
+way of forecasting when a single unstable nucleus will decay.
+
+Nevertheless, it is possible to get around the random behavior of an
+individual nucleus by dealing statistically with large numbers of
+nuclei of a particular radioactive isotope.  In the case of
+thorium-232, for example, radioactive decay proceeds so slowly that 14
+billion years must elapse before one-half of an initial quantity
+decayed to a more stable configuration.  Thus the half-life of this
+isotope is 14 billion years. After the elapse of second half-life
+(another 14 billion years), only one-fourth of the original quantity of
+thorium-232 would remain, one eighth after the third half-life, and so
+on.
+
+Most manmade radioactive isotopes have much shorter half-lives, ranging
+from seconds or days up to thousands of years.  Plutonium-239 (a
+manmade isotope) has a half-life of 24,000 years.
+
+For the most common uranium isotope, U-238, the half-life is 4.5
+billion years, about the age of the solar system.  The much scarcer,
+fissionable isotope of uranium, U-235, has a half-life of 700 million
+years, indicating that its present abundance is only about 1 percent of
+the amount present when the solar system was born.
+
+
+
+Note 5: Oxygen, Ozone and Ultraviolet Radiation
+
+Oxygen, vital to breathing creatures, constitutes about one-fifth of
+the earth's atmosphere.  It occasionally occurs as a single atom in the
+atmosphere at high temperature, but it usually combines with a second
+oxygen atom to form molecular oxygen (O2).  The oxygen in the air we
+breathe consists primarily of this stable form.
+
+Oxygen has also a third chemical form in which three oxygen atoms are
+bound together in a single molecule (03), called ozone.  Though less
+stable and far more rare than O2, and principally confined to upper
+levels of the stratosphere, both molecular oxygen and ozone play a
+vital role in shielding the earth from harmful components of solar
+radiation.
+
+Most harmful radiation is in the "ultraviolet" region of the solar
+spectrum, invisible to the eye at short wavelengths (under 3,000 A).
+(An angstrom unit--A--is an exceedingly short unit of length--10
+billionths of a centimeter, or about 4 billionths of an inch.) Unlike
+X-rays, ultraviolet photons are not "hard" enough to ionize atoms, but
+pack enough energy to break down the chemical bonds of molecules in
+living cells and produce a variety of biological and genetic
+abnormalities, including tumors and cancers.
+
+Fortunately, because of the earth's atmosphere, only a trace of this
+dangerous ultraviolet radiation actually reaches the earth.  By the
+time sunlight reaches the top of the stratosphere, at about 30 miles
+altitude, almost all the radiation shorter than 1,900 A has been
+absorbed by molecules of nitrogen and oxygen.  Within the stratosphere
+itself, molecular oxygen (02) absorbs the longer wavelengths of
+ultraviolet, up to 2,420 A; and ozone (O3) is formed as a result of
+this absorption process. It is this ozone then which absorbs almost all
+of the remaining ultraviolet wavelengths up to about 3,000 A, so that
+almost all of the dangerous solar radiation is cut off before it
+reaches the earth's surface.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Worldwide Effects of Nuclear War: Some
+Perspectives, by United States Arms Control and Disarmament Agency
+
+*** END OF THIS PROJECT GUTENBERG EBOOK WORLDWIDE EFFECTS OF NUCLEAR WAR ***
+
+***** This file should be named 684.txt or 684.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/8/684/
+
+Produced by Gregory Walker
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

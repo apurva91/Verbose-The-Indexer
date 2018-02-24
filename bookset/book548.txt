@@ -1,0 +1,1868 @@
+Project Gutenberg's Project Trinity 1945-1946, by Carl Maag and Steve Rohrer
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Project Trinity 1945-1946
+
+Author: Carl Maag and Steve Rohrer
+
+Posting Date: July 30, 2008 [EBook #548]
+Release Date: June, 1996
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PROJECT TRINITY 1945-1946 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT TRINITY
+
+1945-1946
+
+
+by
+
+Carl Maag and Steve Rohrer
+
+
+
+
+United States Atmospheric Nuclear Weapons Tests
+Nuclear Test Personnel Review
+
+Prepared by the Defense Nuclear Agency as Executive Agency for the
+Department of Defense
+
+Destroy this report when it is no longer needed.
+Do not return to sender.
+
+
+PLEASE NOITIFY THE DEFENSE NUCLEAR AGENCY,
+ATTN:  STTI, WASINGTON  D.C. 20305, IF
+YOUR ADDRESS IS INCORRECT, IF YOU WISH TO
+BE DELETED FROM THE DISTRIBUTION LIST, OR
+IF THE ADDRESSEE IS NO LONGER EMPLOYED BY
+YOUR ORGANIZATION.
+
+
+
+
+
+Since declassified
+
+
+
+
+
+CONTENTS:
+
+  LIST OF FIGURES
+  LIST OF ABBREVIATIONS AND ACRONYMS
+  REPORT DOCUMENTATION PAGE
+  FACT SHEET
+  PREFACE
+
+
+CHAPTERS:
+
+  1    INTRODUCTION
+  1.1  Historical Background of Project TRINITY
+  1.2  The Project TRINITY Site
+  1.3  The Project TRINITY Organization
+  1.4  Military and Civilian Participants in Project TRINITY
+
+  2    THE ACTIVITIES AT PROJECT TRINITY
+  2.1  Preshot Activities
+  2.2  Detonation and Postshot Activities
+  2.3  Activities after 16 July 1945
+
+  3    RADIATION PROTECTION AT PROJECT TRINITY
+  3.1  Organization
+  3.2  Site Monitoring Group
+  3.3  Offsite Monitoring Group
+
+  4    DOSIMETRY ANALYSIS OF PARTICIPANTS IN PROJECT TRINITY
+  4.1  Film Badge Records
+  4.2  Gamma Radiation Exposure
+
+  REFERENCE LIST
+
+
+
+LIST OF FIGURES
+
+  1-1 Location of Alamogordo Bombing Range
+  1-2 TRINITY Site and Major Installations
+  1-3 Tent Used as Guard Post at Project TRINITY
+  1-4 Truck Used as Guard Post at Project TRINITY
+  1-5 Organization of Project TRINITY
+  2-1 The TRINITY Shot-tower
+  2-2 The TRINITY Detonation, 0530 Hours, 16 July 1945
+  2-3 The South Shelter (Control Point)
+  2-4 Inside One of the Shelters
+  2-5 The Base Camp, Headquarters for Project TRINITY
+  2-5 The Base Camp, Headquarters for Project TRINITY
+  2-6 Project TRINITY Personnel Wearing Protective Clothing
+  2-7 "JUMBO" after the TRINITY Detonation
+
+
+
+LIST OF ABBREVIATIONS AND ACRONYMS
+
+The following abbreviations and acronyms are used in this volume:
+
+  AEC  Atomic Energy Commission
+  DOD  Department of Defense
+  LASL  Los Alamos Scientific Laboratory
+  MAUD [Committee for the] Military Application of Uranium Detonation
+  MED  Manhattan Engineer District
+  R/h  roentgens per hour
+  UTM  Universal Transverse Mercator
+
+
+
+REPORT DOCUMENTATION PAGE
+
+
+SECURITY CLASSIFICATION OF THIS PAGE (When Data Entered):
+UNCLASSIFIED
+
+  1. REPORT NUMBER:  DNA 6028F
+  2. GOVT ACCESSION NO.:
+  3. RECIPIENT'S CATALOG NUMBER:
+  4. TITLE (and Subtitle):  PROJECT TRINITY 1945-1946
+  5. TYPE OF REPORT & PERIOD COVERED:  Final Report
+  6. PERFORMING ORG. REPORT NUMBER:  JRB 2-816-03-423-00
+  7. AUTHOR(S):  Carl Maag, Steve Rorer
+  8. CONTRACT OR GRANT NUMBER(S):  DNA 001-79-C-0473
+  9. PERFORMING ORGANIZATION NAME AND ADDRESS:
+   JRB Associates
+   8400 Westpark Drive
+   McLean, Virginia 22102
+ 10. PROGRAM ELEMENT.  PROJECT, TASK AREA & WORK UNIT NUMBERS:
+   Subtask U99QAXMK506-08
+ 11. CONTROLLING OFFICE NAME AND ADDRESS:
+   Director
+   Defense Nuclear Agency
+   Washington, D.C. 20305
+ 12. REPORT DATE:  15 December 1982
+ 13. NUMBER OF PAGES:  76
+ 14. MONITORING AGENCY NAME & ADDRESS(if different from Controlling
+   Office):
+ 15. SECURITY CLASS. (of this report):  UNCLASSIFIED
+ 15a.  DECLASSIFICATION/DOWNGRADING SCHEDULE:  N/A Since UNCLASSIFIED
+ 16. DISTRIBUTION STATEMENT (of this Report):  Approved for public
+   release; distribution unlimited.
+ 17. DISTRIBUTION STATEMENT (of the abstract entered In Block 20, If
+   different from Report):
+ 18. SUPPLEMENTARY NOTES: This work was sponsored by the Defense
+   Nuclear Agency under RDT&E RMSS Code B350079464 U99QAXMK50608 H2590D.
+   For sale by National Technical Information Service, Springfield, VA
+   22161.
+
+   The Defense Nuclear Agency Action Officer, Lt. Col. H. L. Reese,
+   USAF, under whom this work was done, wishes to acknowledge the
+   research and editing contribution of numerous reviewers in the
+   military services and other organizations in addition to those writers
+   listed in block 7.
+
+ 19. KEY WORDS (Continue on reverse side if necessary and Identify by
+   block number):
+    TRINITY
+    Los Alamos Scientific Laboratory
+    Alamogordo Bombing Range
+    Manhattan Engineer District
+    Manhattan Project
+    Personnel Dosimetry
+    Radiation Exposure
+    Nuclear Weapons Testing
+ 20. ABSTRACT: This report describes the activities of an estimated
+   1,000 personnel, both military and civilian, in Project TRINITY, which
+   culminated in detonation of the first nuclear device, in New Mexico in
+   1945.  Scientific and diagnostic experiments to evaluate the effects
+   of the nuclear device were the primary activities engaging military
+   personnel.
+
+
+
+FACT SHEET
+
+
+Defense Nuclear Agency
+Public Affairs Office
+Washington, D C. 20305
+
+Subject: Project TRINITY
+
+Project TRINITY, conducted by the Manhattan Engineer District (MED),
+was designed to test and assess the effects of a nuclear weapon.  The
+TRINITY nuclear device was detonated on a 100-foot tower on the
+Alamogordo Bombing Range in south-central New Mexico at 0530 hours on
+16 July 1945.  The nuclear yield of the detonation was equivalent to
+the energy released by detonating 19 kilotons of TNT.  At shot-time,
+the temperature was 21.8 degrees Celsius, and surface air pressure was
+850 millibars.  The winds were nearly calm at the surface; at 10,300
+feet above mean sea level, they were from the southwest at 10 knots.
+The winds blew the cloud resulting from the detonation to the
+northeast.  From 16 July 1945 through 1946, about 1,000 military and
+civilian personnel took part in Project TRINITY or visited the test
+site.  The location of the test site and its major installations are
+shown in the accompanying figures.
+
+
+Military and Scientific Activities
+
+All participants in Project TRINITY, both military and civilian, were
+under the authority of the MED.  No military exercises were conducted.
+The Los Alamos Scientific Laboratory (LASL), which was staffed and
+administered by the University of California (under contract to the
+MED), conducted diagnostic experiments.  Civilian and military
+scientists and technicians, with assistance from other military
+personnel, placed gauges, detectors, and other instruments around
+ground zero before the detonation.  Four offsite monitoring posts were
+established in the towns of Nogal, Roswell, Socorro, and Fort Sumner,
+New Mexico.  An evacuation detachment consisting of 144 to 160
+enlisted men and officers was established in case protective measures
+or evacuation of civilians living offsite became necessary.  At least
+94 of these personnel were from the Provisional Detachment Number 1,
+Company "B," of the 9812th Technical Service Unit, Army Corps of
+Engineers.  Military police cleared the test area and recorded the
+locations of all personnel before the detonation.
+
+A radiological monitor was assigned to each of the three shelters,
+which were located to the north, west, and south of ground zero.  Soon
+after the detonation, the monitors surveyed the area immediately
+around the shelters and then proceeded out the access road to its
+intersection with the main road, Broadway.  Personnel not essential to
+postshot activities were transferred from the west and south shelters
+to the Base Camp, about 16 kilometers southwest of ground zero.
+Personnel at the north shelter were evacuated when a sudden rise in
+radiation levels was detected; it was later learned that the
+instrument had not been accurately calibrated and levels had not
+increased as much as the instrument indicated.  Specially designated
+groups conducted onsite and offsite radiological surveys.
+
+
+Safety Standards and Procedures
+
+The safety criteria established for Project TRINITY were based on
+calculations of the anticipated dangers from blast pressure, thermal
+radiation, and ionizing radiation.  The TR-7 Group, also known as the
+Medical Group, was responsible for radiological safety.  A limit of 5
+roentgens of exposure during a two-month period was established.
+
+The Site and Offsite Monitoring Groups were both part of the Medical
+Group.  The Site Monitoring Group was responsible for equipping
+personnel with protective clothing and instruments to measure
+radiation exposure, monitoring and recording personnel exposure
+according to film badge readings and time spent in the test area, and
+providing for personnel decontamination.  The Offsite Monitoring Group
+surveyed areas surrounding the test site for radioactive fallout.  In
+addition to these two monitoring groups, a small group of medical
+technicians provided radiation detection instruments and monitoring.
+
+
+Radiation Exposures at Project TRINITY
+
+Dosimetry information is available for about 815 individuals who
+either participated in Project TRINITY activities or visited the test
+site between 16 July 1945 and 1 January 1947.  The listing does not
+indicate the precise military or unit affiliation of all personnel.
+Less than six percent of the Project TRINITY participants received
+exposures greater than 2 roentgens.  Twenty-three of these
+individuals received exposures greater than 2 but less than 4
+roentgens; another 22 individuals received between 4 and 15 roentgens.
+
+
+
+PREFACE
+
+
+From 1945 to 1962, the U.S. Government, through the Manhattan Engineer
+District (MED) and its successor agency, the Atomic Energy Commission
+(AEC), conducted 235 tests of nuclear devices at sites in the United
+States and in the Atlantic and Pacific Oceans.  In all, an estimated
+220,000 Department of Defense (DOD)* participants, both military and
+civilian, were present at the tests.  Project TRINITY, the war-time
+effort to test-fire a nuclear explosive device, was the first
+atmospheric nuclear weapons test.
+
+ * The MED, which was part of the Army Corps of Engineers, administered
+ the U.S. nuclear testing program until the AEC came into existence in
+ 1946.  Before DOD was established in 1947, the Army Corps of Engineers
+ was under the War Department.
+
+In 1977, 15 years after the last above-ground nuclear weapons test,
+the Centers for Disease Control** noted a possible leukemia cluster
+among a small group of soldiers present at Shot SMOKY, a test of
+Operation PLUMBBOB, the series of atmospheric nuclear weapons tests
+conducted in 1957.  Since that initial report by the Centers for
+Disease Control, the Veterans Administration has received a number of
+claims for medical benefits from former military personnel who believe
+their health may have been affected by their participation in the
+weapons testing program.
+
+ ** The Centers for Disease Control are part of the U.S.  Department of
+ Health and Human Services (formerly the U.S.  Department of Health,
+ Education, and Welfare).
+
+In late 1977, DOD began a study to provide data to both the Centers
+for Disease Control and the Veterans Administration on potential
+exposures to ionizing radiation among the military and civilian
+participants in atmospheric nuclear weapons testing.  DOD organized an
+effort to:
+
+o Identify DOD personnel who had taken part in the atmospheric nuclear
+weapons tests
+
+o Determine the extent of the participants' exposure to ionizing
+radiation
+
+o Provide public disclosure of information concerning participation by
+military personnel in Project TRINITY.
+
+
+METHODS AND SOURCES USED TO PREPARE THIS VOLUME
+
+This report on Project TRINITY is based on historical and technical
+documents associated with the detonation of the first nuclear device
+on 16 July 1945.  The Department of Defense compiled information for
+this volume from documents that record the scientific activities
+during Project TRINITY.  These records, most of which were developed
+by participants in TRINITY, are kept in several document repositories
+throughout the United States.
+
+In compiling information for this report, historians, health
+physicists, radiation specialists, and information analysts canvassed
+document repositories known to contain materials on atmospheric
+nuclear weapons tests conducted in the southwestern United States.
+These repositories included armed services libraries, Government
+agency archives and libraries, Federal repositories, and libraries of
+scientific and technical laboratories.  Researchers examined
+classified and unclassified documents containing information on the
+participation of personnel from the MED, which supervised Project
+TRINITY, and from the Los Alamos Scientific Laboratory (LASL), which
+developed the TRINITY device.  After this initial effort, researchers
+recorded relevant information concerning the activities of MED and
+LASL personnel and catalogued the data sources.  Many of the documents
+pertaining specifically to MED and LASL participation were found in
+the Defense Nuclear Agency Technical Library and the LASL Records
+Center.
+
+Information on the fallout pattern, meteorological conditions, and
+nuclear cloud dimensions is taken from Volume 1 of the General
+Electric Company-TEMPO's "Compilation of Local Fallout Data from Test
+Detonations 1945-1962, Extracted from DASA 1251," unless more specific
+information is available elsewhere.
+
+
+ORGANIZATION OF THIS VOLUME
+
+The following chapters detail MED and LASL participation in Project
+TRINITY.  Chapter 1 provides background information, including a
+description of the TRINITY test site.  Chapter 2 describes the
+activities of MED and LASL participants before, during, and after the
+detonation.  Chapter 3 discusses the radiological safety criteria and
+procedures in effect for Project TRINITY, and chapter 4 presents the
+results of the radiation monitoring program, including information on
+film badge readings for participants in the project.
+
+The information in this report is supplemented by the Reference
+Manual: Background Materials for the CONUS Volumes." The manual
+summarizes information on radiation physics, radiation health
+concepts, exposure criteria, and measurement techniques.  It also
+lists acronyms and includes a glossary of terms used in the DOD
+reports addressing test events in the continental United States.
+
+
+
+
+
+CHAPTER 1
+
+INTRODUCTION
+
+
+Project TRINITY was the name given to the war-time effort to produce
+the first nuclear detonation.  A plutonium-fueled implosion device was
+detonated on 16 July 1945 at the Alamogordo Bombing Range in
+south-central New Mexico.
+
+Three weeks later, on 6 August, the first uranium-fueled nuclear bomb,
+a gun-type weapon code-named LITTLE BOY, was detonated over the
+Japanese city of Hiroshima.  On 9 August, the FAT MAN nuclear bomb, a
+plutonium-fueled implosion weapon identical to the TRINITY device, was
+detonated over another Japanese city, Nagasaki.  Two days later, the
+Japanese Government informed the United States of its decision to end
+the war.  On 2 September 1945, the Japanese Empire officially
+surrendered to the Allied Governments, bringing World War II to an
+end.
+
+In the years devoted to the development and construction of a nuclear
+weapon, scientists and technicians expanded their knowledge of nuclear
+fission and developed both the gun-type and the implosion mechanisms
+to release the energy of a nuclear chain reaction.  Their knowledge,
+however, was only theoretical.  They could be certain neither of the
+extent and effects of such a nuclear chain reaction, nor of the
+hazards of the resulting blast and radiation.  Protective measures
+could be based only on estimates and calculations.  Furthermore,
+scientists were reasonably confident that the gun-type uranium-fueled
+device could be successfully detonated, but they did not know if the
+more complex firing technology required in an implosion device would
+work.  Successful detonation of the TRINITY device showed that
+implosion would work, that a nuclear chain reaction would result in a
+powerful detonation, and that effective means exist to guard against
+the blast and radiation produced.
+
+
+1.1  HISTORICAL BACKGROUND OF PROJECT TRINITY
+
+The development of a nuclear weapon was a low priority for the United
+States before the outbreak of World War II.  However, scientists
+exiled from Germany had expressed concern that the Germans were
+developing a nuclear weapon.  Confirming these fears, in 1939 the
+Germans stopped all sales of uranium ore from the mines of occupied
+Czechoslovakia.  In a letter sponsored by group of concerned
+scientists, Albert Einstein informed President Roosevelt that German
+experiments had shown that an induced nuclear chain reaction was
+possible and could be used to construct extremely powerful bombs (7;
+12)*.
+
+ * All sources cited in the text are listed alphabetically in the
+ reference list at the end of this volume.  The number given in the
+ text corresponds to the number of the source document in the reference
+ list.
+
+In response to the potential threat of a German nuclear weapon, the
+United States sought a source of uranium to use in determining the
+feasibility of a nuclear chain reaction.  After Germany occupied
+Belgium in May 1940, the Belgians turned over uranium ore from their
+holdings in the Belgian Congo to the United States.  Then, in March
+1941, the element plutonium was isolated, and the plutonium-239
+isotope was found to fission as readily as the scarce uranium isotope,
+uranium-235.  The plutonium, produced in a uranium-fueled nuclear
+reactor, provided the United States with an additional source of
+material for nuclear weapons (7; 12).
+
+In the summer of 1941, the British Government published a report
+written by the Committee for Military Application of Uranium
+Detonation (MAUD).  This report stated that a nuclear weapon was
+possible and concluded that its construction should begin immediately.
+The MAUD report, and to a lesser degree the discovery of plutonium,
+encouraged American leaders to think more seriously about developing a
+nuclear weapon.  On 6 December 1941, President Roosevelt appointed the
+S-1 Committee to determine if the United States could construct a
+nuclear weapon.  Six months later, the S-1 Committee gave the
+President its report, recommending a fast-paced program that would
+cost up to $100 million and that might produce the weapon by July 1944
+(12).
+
+The President accepted the S-1 Committee's recommendations.  The
+effort to construct the weapon was turned over to the War Department,
+which assigned the task to the Army Corps of Engineers.  In September
+1942, the Corps of Engineers established the Manhattan Engineer
+District to oversee the development of a nuclear weapon.  This effort
+was code-named the "Manhattan Project" (12).
+
+Within the next two years, the MED built laboratories and production
+plants throughout the United States.  The three principal centers of
+the Manhattan Project were the Hanford, Washington, Plutonium
+Production Plant; the Oak Ridge, Tennessee, U-235 Production Plant;
+and the Los Alamos Scientific Laboratory in northern New Mexico.  At
+LASL, Manhattan Project scientists and technicians, directed by Dr. J.
+Robert Oppenheimer,* investigated the theoretical problems that had to
+be solved before a nuclear weapon could be developed (12).
+
+ * This report identifies by name only those LASL and MED personnel who
+ are well-known historical figures.
+
+During the first two years of the Manhattan Project, work proceeded at
+a slow but steady pace.  Significant technical problems had to be
+solved, and difficulties in the production of plutonium, particularly
+the inability to process large amounts, often frustrated the
+scientists.  Nonetheless, by 1944 sufficient progress had been made to
+persuade the scientists that their efforts might succeed.  A test of
+the plutonium implosion device was necessary to determine if it would
+work and what its effects would be.  In addition, the scientists were
+concerned about the possible effects if the conventional explosives in
+a nuclear device, particularly the more complex implosion-type device,
+failed to trigger the nuclear reaction when detonated over enemy
+territory.  Not only would the psychological impact of the weapon be
+lost, but the enemy might recover large amounts of fissionable
+material.
+
+In March 1944, planning began to test-fire a plutonium-fueled
+implosion device.  At LASL, an organization designated the X-2 Group
+was formed within the Explosives Division.  Its duties were "to make
+preparations for a field test in which blast, earth shock, neutron and
+gamma radiation would be studied and complete photographic records
+made of the explosion and any atmospheric phenomena connected with the
+explosion" (13).  Dr. Oppenheimer chose the name TRINITY for the
+project in September 1944 (12).
+
+
+1.2  THE PROJECT TRINITY SITE
+
+The TRINITY site was chosen by Manhattan Project scientists after
+thorough study of eight different sites.  The site selected was an
+area measuring 29 by 39 kilometers* in the northwest corner of the
+Alamogordo Bombing Range.  The Alamogordo Bombing Range was located in
+a desert in south-central New Mexico called the Jornada del Muerto
+("Journey of Death").  Figure 1-1 shows the location of the bombing
+range.  The site was chosen for its remote location and good weather
+and because it was already owned by the Government.  MED obtained
+permission to use the site from the Commanding General of the Second
+Air Force (Army Air Forces) on 7 September 1944 (12).  Figure 1-2
+shows the TRINITY site with its major installations.
+
+ * Throughout this report, surface distances are given in metric units.
+ The metric conversion factors include: 1 meter = 3.28 feet; 1 meter =
+ 1.09 yards; and 1 kilometer = 0.62 miles.  Vertical distances are
+ given in feet; altitudes are measured from mean sea level, while
+ heights are measured from surface level, unless otherwise noted.
+
+Ground zero for the TRINITY detonation was at UTM coordinates
+630266.**  Three shelters, located approximately 9,150 meters (10,000
+yards) north, west, and south of ground zero, were built for the
+protection of test personnel and instruments.  The shelters had walls
+of reinforced concrete and were buried under a few feet of earth.  The
+south shelter was the Control Point for the test (12).  The Base Camp,
+which was the headquarters for Project TRINITY, was located
+approximately 16 kilometers southwest of ground zero.  The principal
+buildings of the abandoned McDonald Ranch, where the active parts of
+the TRINITY device were assembled, stood 3,660 meters southeast of
+ground zero.  Seven guard posts, which were simply small tents or
+parked trucks like the ones shown in figures 1-3 and 1-4, dotted the
+test site (9).
+
+ ** Universal Transverse Mercator (UTM) coordinates are used in this
+ report.  The first three digits refer to a point on an east- west
+ axis, and the second three digits refer to a point on a north-south
+ axis.  The point so designated is the southwest corner of an area 100
+ meters square.
+
+
+1.3 THE PROJECT TRINITY ORGANIZATION
+
+The organization that planned and conducted Project TRINITY grew out
+of the X-2 Group.  LASL, though administered by the University of
+California, was part of the Manhattan Project, supervised by the Army
+Corps of Engineers Manhattan Engineer District.  The chief of MED was
+Maj. Gen. Leslie Groves of the Army Corps of Engineers.  Major General
+Groves reported to both the Chief of Engineers and the Army Chief of
+Staff.  The Army Chief of Staff reported to the Secretary of War, a
+Cabinet officer directly responsible to the President.  Figure 1-5
+outlines the organization of Project TRINITY.
+
+The director of the Project TRINITY organization was Dr. Kenneth
+Bainbridge.  Dr. Bainbridge reported to Dr. J. Robert Oppenheimer, the
+director of LASL.  A team of nine research consultants advised Dr.
+Bainbridge on scientific and technical matters (3).
+
+The Project TRINITY organization was divided into the following
+groups (3):
+
+o The TRINITY Assembly Group, responsible for assembling and arming
+the nuclear device
+
+o The TR-1 (Services) Group, responsible for construction, utilities,
+procurement, transportation, and communications
+
+o  The TR-2 Group, responsible for air-blast and earth-shock measurements
+
+o The TR-3 (Physics) Group, responsible for experiments concerning
+measurements of ionizing radiation
+
+o The TR-4 Group, responsible for meteorology
+
+o The TR-5 Group, responsible for spectrographic and photographic
+measurements
+
+o The TR-6 Group, responsible for the airblast-airborne condenser
+gauges
+
+o The TR-7 (Medical) Group, responsible for the radiological safety
+and general health of the Project TRINITY participants.
+
+Each of these groups was divided into several units.  Individuals were
+also assigned special tasks outside their groups, such as
+communications and tracking the TRINITY cloud with a searchlight (3).
+
+
+1.4 MILITARY AND CIVILIAN PARTICIPANTS IN PROJECT TRINITY
+
+From March 1944 until the beginning of 1946, several thousand people
+participated in Project TRINITY.  These included not only the LASL
+scientists, but also scientists, technicians, and workmen employed at
+MED installations throughout the United States.  According to entrance
+logs, film badge data, and other records, about 1,000 people either
+worked at or visited the TRINITY site from 16 July 1945 through 1946
+(1; 3; 8; 15; 16).
+
+Although supervised by Major General Groves and the Army Corps of
+Engineers, many Manhattan Project personnel were civilians.  Military
+personnel were assigned principally to support services, such as
+security and logistics, although soldiers with special skills worked
+with the civilians (7; 12).  Most of the military personnel were part
+of the Army Corps of Engineers, although Navy and other Army personnel
+were also assigned to the project (4; 12).
+
+
+
+CHAPTER 2
+
+THE ACTIVITIES AT PROJECT TRINITY
+
+
+The TRINITY nuclear device was detonated on a 100-foot tower (shown in
+figure 2-1) at UTM coordinates 630266 on the Alamogordo Bombing Range,
+New Mexico, at 0530 Mountain War Time, on 16 July 1945.  The
+detonation had a yield of 19 kilotons and left an impression 2.9
+meters deep and 335 meters wide.  The cloud resulting from the
+detonation rose to an altitude of 35,000 feet (5).  The TRINITY
+detonation is shown in figure 2-2.
+
+At shot-time, the temperature was 21.8 degrees Celsius, and the
+surface air pressure was 850 millibars.  Winds at shot-time were
+nearly calm at the surface but attained a speed of 10 knots from the
+southwest at 10,300 feet.  At 34,600 feet, the wind speed was 23 knots
+from the southwest.  The winds blew the cloud to the northeast (5).
+
+
+2.1  PRESHOT ACTIVITIES
+
+Construction of test site facilities on the Alamogordo Bombing Range
+began in December 1944.  The first contingent of personnel, 12
+military policemen, arrived just before Christmas.  The number of
+personnel at the test site gradually increased until the peak level of
+about 325 was reached the week before the detonation (2; 12).
+
+On 7 May 1945 at 0437 hours, 200 LASL scientists and technicians
+exploded 100 tons of conventional high explosives at the test site.
+The explosives were stacked on top of a 20-foot tower and contained
+tubes of radioactive solution to simulate, at a low level of activity,
+the radioactive products expected from a nuclear explosion.  The test
+produced a bright sphere which spread out in an oval form.  A column
+of smoke and debris rose as high as 15,000 feet before drifting
+eastward.  The explosion left a shallow crater 1.5 meters deep and 9
+meters wide.  Monitoring in the area revealed a level of radioactivity
+low enough to allow workers to spend several hours in the area (3;
+12).
+
+The planned firing date for the TRINITY device was 4 July 1945.  On 14
+June 1945, Dr. Oppenheimer changed the test date to no earlier than 13
+July and no later than 23 July.  On 30 June, the earliest firing date
+was moved to 16 July, even though better weather was forecast for 18
+and 19 July.  Because the Allied conference in Potsdam, Germany, was
+about to begin and the President needed the results of the test as
+soon as possible, the TRINITY test organization adjusted its schedules
+accordingly and set shot-time at 0400 hours on 16 July (3; 12; 14).
+
+The final preparations for the detonation started at 2200 on 15 July.
+To prevent unnecessary danger, all personnel not essential to the
+firing activities were ordered to leave the test site.  During the
+night of 15 July, these people left for viewing positions on Compania
+Hill,* 32 kilometers northwest of ground zero.  They were joined by
+several spectators from LASL (3; 12).
+
+ * "Compania" also appears as "Compana," "Campagne," or "Compagna" in
+ various sources.
+
+Project personnel not required to check instruments within the ground
+zero area stationed themselves in the three shelters or at other
+assigned locations.  The military police at Guard Posts 1, 2, and 4
+blocked off all roads leading into the test site, and the men at Guard
+Post 8, the only access to the ground zero area from the Base Camp,
+ensured that no unauthorized individuals entered the area (9; 12).
+
+At 0100 hours on 16 July, military policemen from Guard Posts 3, 5, 6,
+and 7 met to compare their logs of personnel authorized to be in the
+ground zero area.  The guards then traveled along the access roads to
+clear out all project personnel.  As individuals left for their
+assigned shelters or stations, their departures from the test area
+were recorded in the military police logs.  By 0200 the area sweep was
+completed, and the military police went to their shelters and
+stations.  A final check of personnel was made in each shelter (3; 9;
+12).
+
+At the time of detonation, 99 project personnel were in the three
+shelters: 29 in the north shelter, 37 in the west shelter, and 33 in
+the south shelter.  Dr. Oppenheimer, Dr. Bainbridge, and other key
+personnel awaited the firing at the south shelter, which served as the
+Control Point.  Figure 2-3 shows the exterior of the south shelter;
+figure 2-4 gives an interior view of one of the shelters, most likely
+the south.  Although most of the shelter occupants were civilians, at
+least 23 military participants were spread among the three shelters
+(1; 12).
+
+The remainder of the test site personnel were positioned at the Base
+Camp 16 kilometers south-southwest of ground zero, or on Compania
+Hill, or at the guard posts.  Important Government officials, such as
+General Groves and Dr. Vannevar Bush, Director of the U.S. Office of
+Scientific Research and Development, viewed the detonation from a
+trench at the Base Camp.  The Base Camp is depicted in figure 2-5.
+
+The military police of Guard Posts 1 and 2 were instructed to be in
+foxholes approximately five kilometers west and north, respectively,
+from their posts.  The military police of Guard Posts 3 and 4 were
+instructed to be in foxholes south of Mockingbird Gap.  A radiological
+safety monitor was assigned to the group from Guard Post 4.  Guard Post
+5 personnel were to be in the south shelter, Guard Post 6 personnel in
+the west shelter, and Guard Post 7 personnel in the north shelter.
+The military police of Guard Post 8 remained at that post, 400 meters
+east of the Base Camp (9).
+
+An evacuation detachment of between 144 and 160 officers and enlisted
+men was stationed near Guard Post 2, about 14 kilometers northwest of
+ground zero.  These men were on standby in case ranches and towns
+beyond the test site had to be evacuated.  Five radiological safety
+monitors were assigned to this detachment.  Ninety-four men of the
+evacuation detachment belonged to Provisional Detachment Number 1,
+Company "B," of the 9812th Technical Service Unit, Army Corps of
+Engineers, from LASL.  The identity of the remaining evacuation
+personnel has not been documented (3; 4; 8; 10; 15).
+
+With the exception of the shelter occupants (99 personnel) and
+evacuation detachment (between 144 and 160 men), the number of
+personnel at the test site at the time of detonation has not been
+documented.  Film badge records show that approximately 355 people
+were at the test site at some time during 16 July.  The shelter
+occupants and 44 men of the evacuation detachment are on this list.
+It has not been possible to pinpoint the location of many of the
+remaining personnel.  Some were at the Base Camp or on Compania Hill.
+Since many of these people returned to the test site after shot-time
+to work on experiments, their film badges registered exposures from
+residual radioactivity on 16 July.  Based on the documented personnel
+totals, at least the following 263 individuals were at the test site
+when the device was detonated (1; 4; 8-10; 13; 15):
+
+o 99 shelter occupants at shelters 9,150 meters north, south, and west
+of ground zero
+
+o 144 to 160 officers and enlisted men of the evacuation detachment,
+located 14 kilometers northwest of ground zero near Guard Post 2
+
+o Five radiological safety monitors assigned to the evacuation
+detachment to perform offsite monitoring of nearby towns and
+residences
+
+o One radiological safety monitor assigned to Guard Post 4
+
+o Two military policemen at each of the seven guard posts (indicated
+by photographs such as figures 1-3 and 1-4).
+
+
+2.2  DETONATION AND POSTSHOT ACTIVITIES
+
+Because of bad weather, the Project TRINITY director (Dr.  Bainbridge)
+delayed the detonation, which had been scheduled for 0400 hours.  By
+0445, however, the forecast was better, and shot-time was set for
+0530.  This gave the scientists 45 minutes to arm the device and
+prepare the instruments in the shelters.  The final countdown began at
+0510, and the device was detonated at 0529:45 Mountain War Time from
+the Control Point in the south shelter (3; 12).
+
+No one was closer than 9,150 meters to ground zero at the time of the
+detonation.  With the exception of a few men holding the ropes of
+barrage balloons or guiding cameras to follow the fireball as it
+ascended, all shelter personnel were in or behind the shelters.  Some
+left the shelters after the initial flash to view the fireball.  As a
+precautionary measure, they had been advised to lie on the ground
+before the blast wave arrived.  Project personnel located beyond the
+shelters, such as at the Base Camp and on Compania Hill, were also
+instructed to lie on the ground or in a depression until the blast
+wave had passed (1).  However, the blast wave at these locations was
+not as strong as had been expected.
+
+In order to prevent eye damage, Dr. Bainbridge ordered the
+distribution of welder's filter glass.  Because it was not known
+exactly how the flash might affect eyesight, it was suggested that
+direct viewing of the fireball not be attempted even with this
+protection.  The recommended procedure was to face away from ground
+zero and watch the hills or sky until the fireball illuminated the
+area.  Then, after the initial flash had passed, one could turn around
+and view the fireball through the filter glass.  Despite these
+well-publicized instructions, two participants did not take
+precautions.  They were temporarily blinded by the intense flash but
+experienced no permanent vision impairment (1; 17).
+
+People as far away as Santa Fe and El Paso saw the brilliant light of
+the detonation.  Windows rattled in the areas immediately surrounding
+the test site, waking sleeping ranchers and townspeople.  To dispel
+any rumors that might compromise the security of Project TRINITY, the
+Government announced that an Army munitions dump had exploded.
+However, immediately after the destruction of Hiroshima, the
+Government revealed to the public what had actually occurred in the
+New Mexico desert (12; 13).
+
+Immediately after the shot, Medical Group personnel began the
+radiological monitoring activities described in section 3.1.2.  At
+0815, when most of the monitoring activities were completed,
+preparations began for entrance into the ground zero area.  To
+regulate entry into the area, a "Going-in Board" was established,
+consisting of Dr. Bainbridge, the Chief of the Medical Group, and a
+special scientific consultant.  Its purpose was to determine whether a
+party had a valid reason for entering the ground zero area.  The board
+functioned for three days.
+
+Military police at Guard Post 4 and at three roadblocks set up along
+Broadway controlled entry into the area.  Guard Posts 3, 5, 6, and 7
+were within 3,000 meters of ground zero and thus remained unmanned.
+At the south shelter, the Medical Group set up a "going-in" station
+where personnel were required to stop to put on protective clothing
+(coveralls, booties, caps, and cotton gloves) and pick up monitoring
+equipment before entering the ground zero area.  Since it was not
+known how much radioactive material might be suspended in the air, all
+personnel entering the ground zero area wore complete protective
+covering and respirators for the first three days after the
+detonation.  Figure 2-6 shows two Project TRINITY personnel wearing
+protective clothing (1).
+
+On the day of the shot, five parties entered the ground zero area.
+One party consisted of eight members of the earth-sampling group.
+They obtained samples by driving to within 460 meters of ground zero
+in a tank specially fitted with rockets to which retrievable
+collectors were fastened in order to gather soil samples from a
+distance.  This group made several sampling excursions on 16 and 17
+July.  The tank carried two personnel (a driver and a passenger) each
+trip.  No member of this party received a radiation exposure of more
+than 1 roentgen (1).
+
+Five other men from the earth-sampling group entered the ground zero
+area in a second tank, lined with lead for radiation protection.  The
+tank, carrying the driver and one passenger, made five trips into the
+ground zero area to retrieve soil samples on 16 and 17 July.  On two
+trips, the tank passed over ground zero; on the others, it approached
+to within about 90 meters of ground zero.  The men scooped up soil
+samples through a trap door in the bottom of the tank.  One driver who
+made three trips into the ground zero area received the highest
+exposure, 15 roentgens (1).
+
+This lead-lined tank was also used by ten men to observe the radiation
+area.  These men, traveling two at a time, made five trips into the
+area on shot-day but never approached closer than 1,370 meters to
+ground zero.  The highest exposure among these ten men was 0.3
+roentgens (1).
+
+The next party to approach ground zero consisted of a photographer and
+a radiological safety monitor.  Wearing protective clothing and
+respirators, the two men were about 730 meters northwest of ground
+zero photographing "JUMBO" from 1100 to 1200 hours.  "JUMBO," shown in
+figure 2-7, was a massive container built to contain the
+high-explosive detonation of the TRINITY device and to allow recovery
+of the fissionable material if the device failed to produce a nuclear
+detonation.  The plan to use "JUMBO," however, was abandoned when the
+scientists concluded that a fairly large nuclear explosion was
+certain.  The container remained on the ground near the shot-tower
+during the detonation.  Both the photographer and the monitor received
+an estimated radiation exposure between 0.5 and 1 roentgen (1; 7).
+
+The last party to "go in" on shot-day consisted of six men retrieving
+neutron detectors.  They entered the test area at 1430 hours.  Three
+of the men went to a point 730 meters south of ground zero to pull out
+cables carrying neutron detectors located 550 meters south of ground
+zero.  The group wore protective clothing and respirators and spent
+about 30 minutes in the area.  The remaining three men drove as close
+as 320 meters southwest of ground zero to retrieve neutron detectors.
+They got out of their vehicle only once, at about 460 meters from
+ground zero, and spent a total of about ten minutes making this trip
+through the area.  Each man's radiation exposure measured less than 1
+roentgen (1).
+
+Most of the soldiers of the evacuation detachment remained in their
+bivouac area near Guard Post 2.  According to a report written by the
+detachment commander, a reinforced platoon was sent to the town of
+Bingham, about 29 kilometers northeast of the test site, while offsite
+radiological safety monitors surveyed the area.  The evacuation
+detachment was dismissed at 1300 hours on shot-day when it became
+evident from offsite monitoring that evacuations would not be
+undertaken.  The detachment returned to LASL at 0400 on 17 July (15).
+
+Two B-29 aircraft from Kirtland Field, Albuquerque, New Mexico,
+participated in post-shot events.  Their planned mission was to pass
+over the test area shortly before the explosion to simulate a bomb
+drop.  After the TRINITY device had been detonated, the aircraft would
+circle near ground zero, while the men onboard would measure the
+atmospheric effects of the nuclear explosion.  This would enable them
+to determine whether a delivery aircraft would be endangered.
+However, because of bad weather on shot-day, Dr. Oppenheimer canceled
+the aircraft's flight in the ground zero area.  Instead, the two
+B-29s, each with 12 men onboard, flew along the perimeter of the
+bombing range and observed the shot from a distance of 19 to 29
+kilometers.  Among those observers was a Navy captain who was also the
+MED Chief of Ordnance (6; 12; 13).
+
+
+2.3  ACTIVITIES AFTER 16 JULY 1945
+
+On 17, 18, and 19 July, all personnel and visitors had to receive
+permission to approach ground zero from the "Going-in Board."  On
+these three days, 21 groups were authorized to go beyond the Broadway
+roadblocks.  Most of those who sought this authorization were
+scientists and military support personnel whose job required that they
+work near ground zero.  Except for a group of two military men and
+three civilians who went to ground zero on 16 and 17 July and a group
+of two civilians who approached as close as 90 meters on 18 July, the
+reentry personnel came no closer than 180 meters to ground zero.  Of
+these personnel, the individual who received the highest exposure
+during the three days was an Army sergeant who received 15 roentgens.
+During the same period, two civilians received 10 roentgens and 7.5
+roentgens, respectively.  All other personnel received exposures of 5
+roentgens or less (1; 3).
+
+After the "Going-In Board" was disbanded on 19 July, permission to
+enter the ground zero area had to be obtained from Dr. Bainbridge or
+one of his deputies.  Many scientists entered the ground zero area
+after 19 July to retrieve instruments or to perform experiments.  The
+population of the TRINITY test site was diminishing, however, as the
+emphasis shifted to preparing the devices that were to be dropped on
+Japan (1).
+
+On 23 July, a week after the shot, chain barricades with prominent
+signs warning against trespassing were placed 910 meters north, south,
+and west of ground zero.  These barricades were supplemented with two
+concentric circles of red flags 1,830 and 2,740 meters from ground
+zero.  Except during bad weather, the entire ground zero area was
+visible from the roadblocks.  No unauthorized person was ever detected
+entering the ground zero area (1).
+
+On 10 August, the Broadway roadblocks were removed, and mounted
+military policemen began patrolling around ground zero at a distance
+of 730 meters.  Each guard was assigned to a daily six-hour shift for
+a period of two weeks; in the third week, the guard was assigned tasks
+away from the ground zero area.  The mounted guards and their horses
+wore film badges.  No exposure greater than 0.1 roentgen was
+registered.  On 1 September, the mounted patrol moved to a distance of
+460 meters from ground zero, just outside a fence installed a week
+earlier to seal off the area.  The same rotating patrol schedule was
+used.  The guards' film badge readings showed an average daily
+exposure of 0.02 roentgens.  The mounted patrol at the fence continued
+until early 1947 (1).
+
+Between 20 July 1945 and 21 November 1945, 67 groups entered the
+ground zero area.  Most of these parties entered in the month after
+shot-day.  These were the scientists and technicians conducting
+experiments or retrieving data.  By the beginning of September, most
+of those who entered the ground zero area were invited guests (1).
+
+Also during the period 20 July through 21 November, at least 71
+soldiers were at the TRINITY test site.  Twenty-five of these men were
+support personnel who never went within 460 meters of ground zero.
+The remaining 46 men were technical personnel, laborers who erected
+the 460-meter fence, or military policemen who served as guides.
+Eleven of these men, probably members of the fence detail, spent
+several days at about 460 meters from ground zero.  Working three to
+five hours per day between 9 August and 25 August, they would have
+been the only group to stay longer than one hour in the ground zero
+area.  Of the remaining personnel who approached within 460 meters
+from ground zero, 25 spent 15 minutes and ten spent between 30 minutes
+and one hour in the ground zero area.  Only 11 people received
+exposures of 3 to 5 roentgens between 20 July and 21 November.  Most
+received less than 1 roentgen.  After 21 November 1945, no one
+approached closer than the fence which was 460 meters from ground
+zero, although about 200 civilian and military personnel worked at or
+visited the TRINITY site through 1946 (1; 16).
+
+According to dosimetry data, entrance logs, and other records, about
+1,000 individuals were at the test site at some time between 16 July
+1945 and the end of 1946.  This number includes not only the
+scientists, technicians, and military personnel who were part of
+Project TRINITY but also many visitors.  Some of the scientists took
+their wives and children on a tour of the area near ground zero,
+particularly to view the green glass called "trinitite," which covered
+the crater floor.  Trinitite was the product of the detonation's
+extreme beat, which melted and mixed desert sand, tower steel, and
+other debris (1; 8; 9; 16).
+
+
+
+CHAPTER 3
+
+RADIATION PROTECTION AT PROJECT TRINITY
+
+
+The TR-7 or Medical Group, shown in the figure 1-5 organizational
+chart, was responsible for radiological safety at Project TRINITY.
+Many of the physicians and scientists in the Medical Group had worked
+with radioactive materials before and were trained in radiological
+safety procedures.  The Chief of the Medical Group supervised the
+radiological safety operations and reported to the TRINITY director.
+In addition to providing medical care to TRINITY personnel, this group
+established radiological safety programs to:
+
+o Minimize radiation exposure of personnel on the test site and in
+offsite areas
+
+o Provide monitors to conduct radiological surveys onsite and offsite
+
+o Provide and maintain radiation detection instruments
+
+o Provide protective clothing and equipment.
+
+An exposure limit of 5 roentgens during a two-month period was
+established.  Personnel were provided with radiation detection
+instruments to determine their exposures (1).
+
+
+3.1  ORGANIZATION
+
+The Medical Group consisted of physicians, scientists, and
+administrators, as well as radiological monitors.  Many of these
+personnel were nonmilitary, but all worked on the Manhattan Project
+under the administration of the Army Corps of Engineers Manhattan
+Engineer District.
+
+The Medical Group was divided into two monitoring groups, the Site
+Monitoring Group, which was responsible for onsite monitoring, and the
+Offsite Monitoring Group.  Each reported to the Chief of the Medical
+Group, and each communicated with the other during the monitoring
+activities.  In addition to these two groups, a small group of medical
+technicians provided radiation detection instruments to Medical Group
+personnel (1; 10).
+
+
+3.2  SITE MONITORING GROUP
+
+The Site Monitoring Group consisted of a chief monitor, three other
+monitors, and several medical doctors.  This group had the following
+functions (1; 10):
+
+o Conduct ground surveys of the test area and mark areas of
+radioactivity
+
+o Conduct surveys of the Base Camp and roads leading into the test
+area
+
+o Provide protective clothing and equipment, including film badges and
+pocket dosimeters, to personnel
+
+o Monitor all personnel for radioactive contamination and provide for
+their decontamination
+
+o Maintain a record of radiation exposures received by personnel.
+
+The Site Monitoring Group monitored the radiation exposures of
+personnel in the test area.  The time spent by personnel in radiation
+areas was limited, and radiation detection instruments were provided
+to permit continuous monitoring of exposure rates.  In many cases, a
+monitor from the Site Monitoring Group accompanied project personnel
+into the test area to monitor exposure rates (1; 10).
+
+Two members of the Site Monitoring Group, a monitor and a physician
+with radiological safety training, were assigned to each shelter.  The
+supervising monitor was stationed at the Base Camp and was in radio
+and telephone communication with all three shelters and the offsite
+ground and aerial survey teams.  Before any personnel were allowed to
+leave the shelter areas, a radiological safety monitor and a military
+policeman from each shelter advanced along the roads to Broadway to
+check radiation levels.  They wore respirators to prevent them from
+inhaling radioactive material (1; 10).
+
+Since it was expected that any dust from the cloud would fall on one
+of the shelter areas within 30 minutes of the shot, plans had been
+made to evacuate personnel as soon as the monitors completed their
+initial survey.  Because the cloud moved to the northeast, the south
+shelter (the Control Point) was not completely evacuated, although
+nonessential personnel were sent to the Base Camp.  The west shelter
+was emptied of all personnel except a searchlight crew spotlighting
+the cloud as it moved away (1; 10).
+
+Only at the north shelter did an emergency evacuation occur.  About 12
+minutes after the shot, a detection instrument indicated a rapid rise
+in the radiation levels within the shelter.  At the same time, a
+remote ionization monitoring device detected a rapid increase in
+radiation.  Because of these two readings, all north shelter personnel
+were immediately evacuated to the Base Camp, 25 kilometers to the
+south.  Film badges worn by personnel stationed at the north shelter,
+however, showed no radiation exposure above the detectable level.  It
+was later discovered that the meter of the detector in the north
+shelter had not retained its zero calibration setting, and radiation
+at the north shelter had not reached levels high enough to result in
+measurable exposures of the personnel who had been positioned there.
+However, fallout activity was later detected in the north shelter
+area, proof that part of the cloud did head in that direction.  This
+also explains why the monitoring device detected rising radiation
+levels (1; 12).
+
+After ascertaining that radiation levels along the roads leading from
+the shelters to Broadway were within acceptable limits, the
+radiological safety monitors and military police established
+roadblocks at important intersections leading to ground zero.  The
+north shelter monitor and military police set up a post where the
+North Shelter Road ran into Broadway.  The west shelter monitor and a
+military policeman blocked Vatican Road where it intersected Broadway.
+The south shelter monitor and military police set up a roadblock where
+Broadway intersected Pennsylvania Avenue (1).
+
+The monitor assigned to Guard Post 4 surveyed the Mockingbird Gap area
+to ensure that it was safe for the guards to return to their post.
+This position controlled access to the McDonald Ranch Road, which led
+directly to ground zero (1).
+
+At 0540 hours, the chief monitor departed from the Base Camp with a
+military policeman to monitor the entire length of Broadway.  They
+first checked the roadblock at Pennsylvania Avenue and Broadway.  Next
+they drove to the roadblock at Vatican Road and Broadway.  Upon the
+chief monitor's arrival, the west shelter monitor traveled about nine
+kilometers west on Vatican Road to monitor Guard Post 1 so that the
+military police could reoccupy the post.  The monitoring excursion to
+Guard Post 1 continued until the chief monitor had returned from Guard
+Post 2, located 17 kilometers northwest of the Vatican Road roadblock
+on Broadway (1; 18).
+
+The chief monitor arrived at Guard Post 2 at about 0550 hours and
+found the post empty.  He then continued five kilometers north along
+Broadway to the foxholes from which the military police had watched
+the detonation.  There he found the guards, the five radiological
+safety monitors assigned to the evacuation detachment, and the
+Commanding Officer of the evacuation detachment (1; 18).
+
+The military policemen refused to return to Guard Post 2, insisting
+that they had received orders over their two-way radio from the Base
+Commander to evacuate their post and head for San Antonio, New Mexico,
+a town 28 kilometers northwest of the Guard Post.  The Base Commander
+had noted that portions of the cloud were heading northwestward and,
+fearing that fallout from the cloud would contaminate Guard Post 2,
+had ordered the military police to evacuate.  The chief monitor,
+however, had found no significant radiation levels anywhere along the
+northern part of Broadway nor around Guard Post 2. The Base Commander,
+after being contacted by the chief monitor, drove to the foxholes and
+ordered the guards to return to their post.  This was the only
+unplanned incident during the onsite monitoring (1).
+
+After Guard Post 2 was reoccupied, the chief monitor returned to the
+roadblock at the intersection of Broadway and the North Shelter Road.
+The north shelter monitor informed the chief monitor of the sudden
+evacuation of the north shelter, whereupon the chief monitor surveyed
+the north shelter area and found intensities of only 0.01 and 0.02
+roentgens per hour (R/h).  The chief monitor then contacted the south
+shelter and informed Dr. Bainbridge that the north shelter region was
+safe for those who needed to return, that Broadway was safe from the
+Base Camp to Guard Post 2, and that Guard Post 2 was now manned so
+that personnel leaving for LASL could be checked out (1).
+
+The chief monitor then returned to the south shelter and assembled the
+monitors from the three roadblocks and Guard Post 4 to prepare for
+entrance into the ground zero area.  The time was about 0815 hours.
+The military police at the roadblocks were given radiation meters to
+survey the adjoining area.  Broadway from the south shelter to Guard
+Post 2 was remonitored occasionally to reassure the military police
+that there was no radiation problem.  Monitors also surveyed the Base
+Camp for 24 hours after the detonation.  No radiation above background
+levels was detected there (1).
+
+The following brief description of the radiological environment in the
+TRINITY test area is based primarily on the results of the remote
+gamma recorders situated in the test area and on results of the road
+surveys conducted after the detonation (1).
+
+Within about 1,400 meters of ground zero (except to the north),
+radiation intensities between 0.2 and 1.3 R/h were detected during the
+first few minutes after the detonation.  These readings decreased to
+less than 0.1 R/h within a few hours.  At greater distances to the
+east, south, and west, radiation levels above background were not
+detected (1).
+
+The cloud drifted to the northeast, and higher gamma readings due to
+fallout were encountered in this direction.  About five minutes after
+the detonation, a reading of 3 R/h was recorded 1,400 meters north of
+ground zero.  Several minutes later, the intensity there had increased
+to greater than 7 R/h, and it continued to increase for several more
+minutes.  Gamma detectors 9,150 meters north of ground zero, however,
+recorded no radiation above background levels.  This indicated that
+the cloud had passed over or near the 1,400-meter area and only
+partially over the 9,150-meter area where the north shelter was
+located.  Subsequent ground surveys of this area found no gamma
+intensities higher than 0.02 R/h (1).
+
+Gamma radiation levels at and around ground zero were much higher than
+in other onsite areas because of induced activity in the soil.
+Twenty-four hours after the detonation, the gamma intensity at ground
+zero was estimated to be 600 to 700 R/h.  This estimate was based on
+data provided by the tank crew that drove to ground zero to obtain
+soil samples.  The intensity decreased to about 2 R/h at 725 meters
+from ground zero.  Gamma intensities of 0.1 R/h or more were confined
+within a circular area extending about 1,100 meters from ground zero
+(except in areas of fallout).  One week after the shot, the gamma
+intensity at ground zero was about 45 R/h.  After 30 days, intensities
+at ground zero had decreased to 15 R/h, and intensities of 0.1 R/h or
+more were not encountered beyond about 365 meters from ground zero.
+Gamma intensities of 3 to 10 R/h were found at ground zero three
+months after the detonation (1; 19).
+
+
+3.3 OFFSITE MONITORING GROUP
+
+Four two-man teams and one five-man team supervised by the chief
+offsite monitor constituted the Offsite Monitoring Group.  Before the
+detonation, the four two-man teams established monitoring posts in
+towns outside the test area.  These towns were Nogal, Roswell, Fort
+Sumner, and Socorro, all in New Mexico.  The five-man team remained at
+Guard Post 2 to assist in evacuation of nearby residences if the
+TRINITY cloud drifted in that direction.  These residences, the Fite
+house and the homes in the town of Tokay, were 24 and 32 kilometers
+northwest of ground zero, respectively.  Since the cloud drifted to
+the northeast, evacuation was not required.  All offsite monitoring
+teams were in radio or telephone contact with personnel at the Base
+Camp (11).
+
+Offsite monitoring teams in areas northeast of ground zero encountered
+gamma readings ranging from 1.5 to 15 R/h two to four hours after the
+detonation.  Three hours after the detonation, surveys taken in
+Bingham, New Mexico (located 30 kilometers northeast of ground zero)
+found gamma intensities of about 1.5 R/h.  Radiation readings at the
+town of White, nine kilometers southeast of Bingham, were 6.5 R/h
+three hours after the detonation and 2.5 R/h two hours later.  Another
+team monitoring in a canyon 11 kilometers east of Bingham found a
+gamma intensity of about 15 R/h.  Five hours later, the intensity had
+decreased to 3.8 R/h.  It was estimated that peak intensities of gamma
+radiation from fallout on shot-day were about 7 R/h at an occupied
+ranch house in this canyon area (1; 11; 19).
+
+Monitoring teams resurveyed these towns about one month after the
+TRINITY detonation.  At Bingham, gamma readings of 0.003 R/h and
+0.0001 R/h were found at ground level outdoors and at waist level
+inside a building, respectively.  At the town of White, the highest
+outdoor gamma reading was 0.008 R/h.  Inside a building, the highest
+reading was 0.0005 R/h (11).
+
+Surveys taken in the canyon area one month after the detonation
+indicated that gamma intensities at ground level had decreased to
+0.032 R/h.  The occupied ranch house was also surveyed, both inside
+and outside.  The highest reading outdoors was 0.028 R/h, and the
+highest reading indoors was 0.004 R/h (11; 19).
+
+Monitoring was also conducted in offsite areas other than those to the
+north and northeast of ground zero.  Monitors found no radiation
+readings above background levels (11).
+
+Significant fallout from the TRINITY cloud did not reach the ground
+within about 20 kilometers northeast of ground zero.  From this point,
+the fallout pattern extended out 160 kilometers and was 48 kilometers
+wide.  Gamma intensities up to 15 R/h were measured in this region
+several hours after the detonation.  One month later, intensities had
+declined to 0.032 R/h or less (11).
+
+
+
+CHAPTER 4
+
+DOSIMETRY ANALYSIS OF PARTICIPANTS IN PROJECT TRINITY
+
+
+This chapter summarizes the radiation doses received by participants
+in various activities during Project TRINITY.  The sources of this
+dosimetry information are the safety and monitoring report for
+personnel at TRINITY, which includes a compilation of film badge
+readings for all participants up to 1 January 1946, and film badge
+data from the records of the Reynolds Electrical and Engineering
+Company, which contain readings through 1946 (1; 16).  These sources
+list individual participants with their cumulative gamma radiation
+exposures.
+
+
+4.1 FILM BADGE RECORDS
+
+During TRINITY, the film badge was the primary device used to measure
+the radiation dose received by individual participants.  The site
+monitoring plan indicates that film badges were to be issued to
+participants.  The film badge was normally worn at chest level on the
+outside of clothing and was designed to measure the wearer's exposure
+to gamma radiation from external sources.  These film badges were
+insensitive to neutron radiation and did not measure the amount of
+radioactive material that might have been inhaled or ingested (1).
+
+Personnel from the Medical Group had responsibility for issuing,
+receiving, processing, and interpreting film badges for Project
+TRINITY.  The Site Monitoring Group compiled the film badge records
+for both onsite and offsite personnel.  Radiological safety personnel
+and military police recorded the names and identification numbers of
+individuals as they entered the test area.  This information was
+recorded in an entry logbook and on a personal exposure data card.
+Upon leaving the test area, individuals returned their film badges to
+the check station.  When the film badges were processed and
+interpreted, the reading was entered on the individuals exposure data
+card.  In this manner, the number of times an individual entered the
+test area and his cumulative exposure history were recorded and
+maintained (1).
+
+
+4.2 GAMMA RADIATION EXPOSURE
+
+The safety and monitoring report lists film badge readings for about
+700 individuals who participated in Project TRINITY from 16 July 1945
+to 1 January 1946 (1).  This list includes both military and
+nonmilitary personnel who were involved with the TRINITY operation and
+postshot activities.  However, records are available for only 44 of
+the 144 to 160 members of the evacuation detachment (1).  In addition,
+some of these film badge listings may be for personnel who were only
+peripherally involved with TRINITY activities, such as family members
+and official guests who visited the site.
+
+According to the safety and monitoring report, by 1 January 1946, 23
+individuals had received cumulative gamma exposures greater than 2 but
+less than 4 roentgens.  An additional 22 individuals received gamma
+exposures between 4 and 15 roentgens.  Personnel who received gamma
+exposures exceeding 2 roentgens represent less than six percent of the
+Project TRINITY participants with recorded exposures.  As described
+below, these exposures generally resulted when personnel approached
+ground zero several times (1).
+
+Information is available regarding the activities of some of these
+personnel.  One of the drivers of the earth-sampling group's
+lead-lined tank, an Army sergeant who traveled three times to ground
+zero, received an exposure of 15 roentgens.  A second tank driver,
+also an Army sergeant, received an exposure of 3.3 roentgens.  Three
+members of the earth-sampling group, all of whom traveled in the tank
+to ground zero, received exposures of 10, 7.5, and 5 roentgens.  An
+Army photographer who entered the test area six times between 23 July
+and 20 October received 12.2 roentgens (1).
+
+Four individuals involved with excavating the buried supports of the
+TRINITY tower from 8 October to 10 October 1945 received gamma
+exposures ranging from 3.4 to 4.7 roentgens.  Film badge readings for
+this three-day period indicate that the two individuals who operated
+mechanical shovels received 3.4 and 4.3 roentgens, while the two who
+supervised and monitored the excavation received exposures of 4.2 and
+4.7 roentgens.  The individual receiving 4.7 roentgens during the
+excavation operation had received 1.3 roentgens from a previous
+exposure, making his total exposure 6 roentgens (1).
+
+An Army captain who accompanied all test and observer parties into the
+ground zero area between 1 September and 11 October 1945 received a
+total gamma exposure of 2.6 roentgens (1).  The activities and times
+of exposure are not known for other personnel with exposures over 2
+roentgens.
+
+According to the dosimetry records for 1946, about 115 people visited
+the test site that year.  No one ventured inside the fence surrounding
+ground zero, and no one received an exposure greater than 1 roentgen
+(1; 16).
+
+
+
+REFERENCE LIST
+
+
+The following list of references represents the documents consulted in
+preparation of the Project TRINITY volume.
+
+
+AVAILABILITY INFORMATION
+
+An availability statement has been included at the end of the
+reference citation for those readers who wish to read or obtain copies
+of source documents.  Availability statements were correct at the time
+the bibliography was prepared.  It is anticipated that many of the
+documents marked unavailable may become available during the
+declassification review process.  The Coordination and Information
+Center (CIC) and the National Technical Information Service (NTIS)
+will be provided future DNA-WT documents bearing an EX after the
+report number.
+
+Source documents bearing an availability statement of CIC may be
+reviewed at the following address:
+
+ Department of Energy
+ Coordination and Information Center
+ (Operated by Reynolds Electrical & Engineering Co., Inc.)
+ ATTN: Mr. Richard V. Nutley
+ 2753 S. Highland
+ P.O. Box 14100
+ Las Vegas, Nevada 89114
+
+ Phone: (702) 734-3194
+ FTS: 598-3194
+
+
+Source documents bearing an availability statement of NTIS may be
+purchased from the National Technical Information Service.  When
+ordering by mail or phone, please include both the price code and the
+NTIS number.  The price code appears in parentheses before the NTIS
+order number.
+
+ National Technical Information Service
+ 5285 Port Royal Road
+ Springfield, Virginia 22161
+ Phone:   (703) 487-4650
+ (Sales Office)
+
+Additional ordering information or assistance may be obtained by
+writing to the NTIS, Attention: Customer Service, or by calling (703)
+487-4660.
+
+
+PROJECT TRINITY REFERENCES
+
+ *Available from NTIS; order number appears before the asterisk.
+ **Available at CIC.
+ ***Not available, see Availability Information page.
+ ****Requests subject to Privacy Act restrictions.
+
+1.  Aebersold, Paul.  July 16th Nuclear Explosion-Safety and
+Monitoring of Personnel (U).  Los Alamos Scientific Laboratory, Atomic
+Energy Commission.  Los Alamos, NM.: LASL.  LA-616.  January 9, 1947.
+170 Pages.***
+
+2.  Bainbridge, K. T.  Memorandum to All Concerned, Subject: TR
+Circular No. 18--Total Personnel at TR.  [Base Camp, Trinity Site:
+NM.]  July 3, 1945.  1 Page.**
+
+3.  Bainbridge, K. T.  TRINITY.  Los Alamos Scientific Laboratory.
+Los Alamos, NM.: LASL, LA-6300-H and Washington, D.  C.: GPO.  May
+1976.  82 Pages.**
+
+4.  Bramlet, Walt.  Memorandum for Thomas J. Hirons, Subject: DOD
+Participants in Atmospheric Tests, wo/encl.  Los Alamos Scientific
+Laboratory.  Los Alamos, NM. ISD-5.  February 20, 1979.  4 Pages.**
+
+5.  General Electric Company--TEMPO.  Compilation of Local Fallout
+Data from Test Detonations 1945-1962.  Vol. 1: "Continental US Tests."
+Washington, D. C.: Defense Nuclear Agency.  DNA 1251-1(EX.).  1979.
+619 Pages.  (A99) AD/AO79 309.*
+
+6.  Groves, Leslie R., LTG, USA.  Memorandum for Secretary of War,
+[Subject: TRINITY].  [Washington, D.C.]  18 July 1945.  13 Pages.**
+
+7.  Groves, Leslie R., LTG, USA (Ret.).  Now It Can Be Told: The Story
+of the Manhattan Project.  New York, NY.: Harper and Row.  1962.  444
+Pages.
+
+8.  Headquarters, 9812th Technical Service Unit, Provisional
+Detachment No. I (Company "B").  [Extract from: Daily Diary,
+Provisional Detachment No. 1 (Company "B"), 9812th Technical Service
+Unit.]  Army Corps of Engineers, Department of War.  [Santa Fe, NM.]
+14 July 1945.  2 Pages.**
+
+9.  Headquarters, Special Service Detachment.  Supplemental Special
+Guard Orders, with Appendix.  Los Alamos Scientific Laboratory,
+Manhattan Engineer District.  [Alamogordo, NM.]  14 July 1945.  4
+Pages.**
+
+10.  Hempelmann, L. H., M.D.  [Extracts from: "Preparation and
+Operational Plan of Medical Group (TR-7) for Nuclear Explosion 16 July
+1945."]  Los Alamos Scientific Laboratory, Atomic Energy Commission.
+Los Alamos, NM.: LASL.  LA-631(Deleted).  June 13, 1947.  32 Pages.***
+
+11.  Hoffman, J. G.  [Extracts from "Health Physics Report on
+Radioactive Contamination throughout New Mexico Following the Nuclear
+Explosion, Part A--Physics."]  Los Alamos Scientific Laboratory,
+Manhattan Engineer District.  [Los Alamos, NM.]  [1945.]  31 Pages.**
+
+12.  Lamont, Lansing.  Day of TRINITY.  New York, NY.: Atheneum.
+1965.  331 Pages.
+
+13.  Los Alamos Scientific Laboratory, Public Relations Office.  "Los
+Alamos: Beginning of an Era, 1943-1945."  Atomic Energy Commission.
+Los Alamos, NM.: LASL.  1967.  65 Pages.**
+
+14.  Oppenheimer, J. R.  Memorandum for Group Leaders, Subject:
+TRINITY Test.  Los Alamos Scientific Laboratory.  Los Alamos, NM.
+June 14, 1945.  2 Pages.**
+
+15.  Palmer, T. O., Maj., USA.  Evacuation Detachment at TRINITY.
+[Manhattan Engineer District, Army Corps of Engineers.]  [Los Alamos,
+NM.]  [18 July 1945.]  2 Pages.**
+
+16.  Reynolds Electrical & Engineering Company, Inc.  [Personnel
+Radiation Exposures, 1945, 1946] Las Vegas, NV.  Microfilm.****
+
+17.  Warren, S. L., COL., USA.  Directions for Personnel at Base Camp
+at Time of Shot.  Los Alamos Scientific Laboratory, Manhattan Engineer
+District.  [Alamogordo, NM.]  15 July 1945.  1 Page.**
+
+18.  Warren, S. L., COL, USA; Hempelmann, L. H., M.D.  Extracts from:
+Personal Notes, Subject: Events in Camp Immediately Following
+Shot--July 16, 1945.  1945.  2 Pages.**
+
+19.  Weisskopf, V.; Hoffman, J.; Aebersold, Paul; Hempelmann, L.  H.
+Memorandum for George Kistiakowsky, Subject: Measurement of Blast,
+Radiation, Heat and Light and Radioactivity at Trinity.  [Los Alamos,
+NM.]  5 September 1945.  2 Pages.**
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Project Trinity 1945-1946, by 
+Carl Maag and Steve Rohrer
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PROJECT TRINITY 1945-1946 ***
+
+***** This file should be named 548.txt or 548.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/4/548/
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

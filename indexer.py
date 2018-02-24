@@ -4,6 +4,7 @@ import re
 import os
 from filedump import *
 regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
+from stopwords import *
 
 '''
 Take the common portion make into one pdf and text part
@@ -19,8 +20,7 @@ def main_search(tableold,input_file):
 	return tableold
 '''
 
-
-def search_PDF(tableold, input_file):
+def search_PDF(tableold, input_file,enc):
 	table={}
 	if check_dump(input_file):
 		table = load_dump(input_file)
@@ -31,53 +31,64 @@ def search_PDF(tableold, input_file):
 			i = i+1
 			x = list(filter(None,re.split('(?:'+regex_query+')+',page)))
 			for word in x:
-				wordl = word.lower()
-				if wordl in table:
-					table[wordl].append(str(i))
-				else:
-					table[wordl] = [str(i)]
+				if word.lower() not in stopwords:
+					wordl = word.lower()
+					if wordl in table:
+						table[wordl].append(str(i))
+					else:
+						table[wordl] = [str(i)]
 		save_dump(table,input_file)
 
-	tableold = merge_dump(tableold,table,input_file)
+	tableold = merge_dump(tableold,table,enc)
 	return tableold
 
-def search_text(tableold, input_file):
+def search_text(tableold, input_file,enc):
 	table={}
 	if check_dump(input_file):
 		table = load_dump(input_file)
 	else:
-		text = open(input_file,'r')
-		text = re.split("\\n|\\r|\\t", str(text.read()))
+		text = open(input_file,'rb')
+		text = re.split("\r\n|\n", text.read().decode("utf-8",errors = "ignore"))
 		i = 0
 		for line in text:
 			i = i+1
 			x = list(filter(None,re.split('(?:'+regex_query+')+',line)))
 			for word in x:
-				wordl = word.lower()
-				if wordl in table:
-					table[wordl].append(str(i))
-				else:
-					table[wordl] = [str(i)]
+				if not word.lower() in stopwords:
+					wordl = word.lower()
+					if wordl in table:
+						table[wordl].append(str(i))
+					else:
+						table[wordl] = [str(i)]
 		save_dump(table,input_file)
 
-	tableold = merge_dump(tableold,table,input_file)
+	tableold = merge_dump(tableold,table,enc)
 	return tableold
 
-def index_folder(table,input_dir):
+def index_folder(table,input_dir,file_chart):
 	listed_files = list_files(input_dir)
+	val = len(listed_files[0]) + len(listed_files[1])
+	# progress_dialog_ini(val)
 	ini_time = time.time()
+	i = 0
 	for text in listed_files[0]:
-			z= time.time()
-			table=search_text(table, text)
-			y= time.time()
-			print ("Indexed " + text.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+		file_chart[hex(i)] = text
+		z= time.time()
+		table=search_text(table, text, hex(i))
+		y= time.time()
+		print ("Indexed " + text.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+		i = i + 1
+		# progress_dialog_update(i,val)
 	for pdf in listed_files[1]:
-			z= time.time()
-			table=search_PDF(table, pdf)
-			y= time.time()
-			print ("Indexed " + pdf.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
-	fin_time = time.time()
-	return table
+		file_chart[hex(i)] = pdf
+		z= time.time()
+		table=search_PDF(table, pdf, hex(i))
+		y= time.time()
+		print ("Indexed " + pdf.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
+		i = i + 1
+		# progress_dialog_update(i,val)
+	fin_time = time.time()	
+	return [table,file_chart]
 
 def list_files(folder):
 	list_folder = os.listdir(folder)

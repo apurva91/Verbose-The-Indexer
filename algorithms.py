@@ -1,6 +1,7 @@
 import time
 import re
 import os
+from stopwords import *
 
 regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
 

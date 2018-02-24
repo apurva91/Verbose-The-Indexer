@@ -23,11 +23,11 @@ def check_dump(filename):
 	else:
 		return False
 
-def merge_dump(table,newtable,filename):
+def merge_dump(table,newtable,enc):
 	for word in newtable.keys():
 		if word in table:
-			table[word][filename] = newtable[word]
+			table[word][enc] = newtable[word]
 		else:
 			table[word] = {}
-			table[word][filename] = newtable[word]
+			table[word][enc] = newtable[word]
 	return table

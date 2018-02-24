@@ -1,11 +1,11 @@
 import pdftotext, sys, time, re, os
-from indexer import *
 from algorithms import *
+from indexer import *
 from filedump import *
 
 input_dir="Files"
 table = {}
-
+file_chart = {}
 from ui import *
 
 '''

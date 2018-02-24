@@ -1,0 +1,1703 @@
+Project Gutenberg's Latin Vulgate, Esther: Liber Esther, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Latin Vulgate, Esther: Liber Esther
+
+Author: Anonymous
+
+Posting Date: April 15, 2013 [EBook #826]
+Release Date: February, 1997
+First Posted: February 11, 1997
+
+Language: Latin
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LATIN VULGATE, ESTHER ***
+
+
+
+
+Produced by Dennis McCarthy
+
+
+
+
+
+
+
+
+(Latin Vulgate, Esther) : Liber Esther
+
+
+
+This is a complete electronic ASCII text of the Book of Esther from the
+Latin Clementine Vulgate, sections translated from the Greek Septuagint
+included, with section headers, footnotes, and appendicies.
+
+
+
+notes concerning this file:
+
+
+transcriber:
+Dennis McCarthy
+261 South Colonial Homes Circle, N.W.
+Atlanta, Georgia 30309-1226
+
+
+
+Dedicated to the Memory of
+Agnes Dorothy [Baxter] Aldridge (1909 November 22 - 1996 April 20)
+
+1996 December 08
+1997 February 02 (revised)
+
+Source:
+ P. Michael Hetzenauer, Ord. Min. Cap. editor.
+   Biblia Sacra Vulgatae Editionis:
+   Sixti V Pont. Max. Iussa Recognita et Clemens VIII Auctoritate Edita.
+   Neo Eboraci et Cincinnati: apud Fr. Pustet & Co. 1914.
+
+
+I have transcribed from this source as accurately as possible for
+this e-text, with the following changes:
+1) I formatted each verse into a separate line and added the chapter
+number to each verse number.  In doing this I lost the source's
+paragraph structure.
+2) I exploded the ligatures for "ae" and "oe" into two characters
+rather than one character for each diphthong.
+3) I capitalized all of the section headings which were either in
+bold or italicized print originally.  These sections headings may
+not be original to the Vulgate, but then neither are verse numbers.
+4) I have included alternate line numbers in the headers to the
+sections translated from the Greek Sepuagint version.  These
+alternate chater/verse numbers correspond to the numbering of these
+sections in the New American Bible, which follows the Septuagint
+arrangement, rather than the Vulgate arrangement which places all
+of those sections at the end.
+5) In all references to verses I used a colon to separate the
+chapter number and verse number rather than a comma as in the source.
+6) I placed the footnote designators in parentheses and re-lettered
+them for the whole body of the text.  The original recycled to "a"
+for each new page.  I also arranged the cross reference footnotes
+themselves into one chart at the end of the text.
+7) I moved the marginal notations into an appendix.
+
+Please note that some sentence-like sections end with a period, but
+the following line does not begin with a capital letter.  I recommend
+that this format remain.  The source's editor seems to have been
+quite confident in the propriety of this approach.  I have retained
+all of the source's capitalization and punctuation except for the
+section headers.
+
+65 is the target line length, but because of the length of many
+of the Latin words, my desire not to create "orphan" words, and
+a genuine lack of talent on the part of the transcriber for such
+matters, the margination is rather ragged.
+
+
+
+
+
+
+LIBER ESTHER.
+
+
+
+
+
+PARS PRIOR.
+NARRATIONES PROTOCANONICAE, 1:1-10:3.
+
+
+
+
+I. PERICULUM IUDAEORUM, 1:1-4:17.
+
+
+1. REGINA VASTHI EICITUR, 1:1-22.
+
+
+1:1 In diebus Assueri, qui regnavit ab India usque Aethiopiam
+super centum viginti septem provincias:
+
+1:2 quando sedit in solio regni sui, Susan civitas regni eius
+exordium fuit.
+
+1:3 Tertio igitur anno imperii sui fecit grande convivium cunctis
+principibus, et pueris suis, fortissimis Persarum, et Medorum inclytis,
+et praefectis provinciarum coram se,
+
+1:4 ut ostenderet divitias gloriae regni sui, ac magnitudinem,
+atque iactantiam potentiae suae, multo tempore, centum videlicet
+et octoginta diebus.
+
+1:5 Cumque implerentur dies convivii, invitavit omnem populum,
+qui inventus est in Susan, a maximo usque ad minimum: et iussit
+septem diebus convivium praeparari in vestibulo horti, et nemoris,
+quod regio cultu et manu consitum erat.
+
+1:6 Et pendebant ex omni parte tentoria aerii coloris et carbasini
+ac hyacinthini, sustentata funibus byssinis, atque purpureis,
+qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur.
+Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario
+stratum lapide, dispositi erant: quod mira varietate pictura decorabat.
+
+1:7 Bibebant autem qui invitati erant, aureis poculis, et aliis
+atque aliis vasis cibi inferebantur.  Vinum quoque, ut magnificentia
+regia dignum erat, abundans, et praecipuum ponebatur.
+
+1:8 Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat,
+praeponens mensis singulos de principibus suis ut sumeret unusquisque
+quod vellet.
+
+1:9 Vasthi quoque regina fecit convivium feminarum in palatio,
+ubi rex Assuerus manere consueverat.
+
+1:10 Itaque die septimo, cum rex esset hilarior, et post nimiam
+potationem incaluisset mero, praecepit Maumam, et Bazatha, et Harbona,
+et Bagatha et Abgatha, et Zethar, et Charchas, septem eunuchis,
+qui in conspectu eius ministrabant,
+
+1:11 ut introducerent reginam Vasthi coram rege, posito super caput
+eius diademate, ut ostenderet cunctis populis et principibus
+pulchritudinem illius: erat enim pulchra valde.
+
+1:12 Quae renuit, et ad regis imperium, quod per eunuchos mandaverat,
+venire contempsit.  Unde iratus rex, et nimio furore succensus,
+
+1:13 interrogavit sapientes, qui ex more regio semper ei aderant,
+et illorum faciebat cuncta consilio, scientium leges, ac iura maiorum:
+
+(1:14 erant autem primi et proximi, Charsena, et Sethar, et Admatha,
+et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum,
+atque Medorum, qui videbant faciem regis, et primi post eum residere
+soliti erant)
+
+1:15 cui sententiae Vasthi regina subiaceret, quae Assueri regis
+imperium, quod per eunuchos mandaverat, facere noluisset.
+
+1:16 Responditque Mamuchan, audiente rege, atque principibus,
+Non solum regem laesit regina Vasthi, sed et omnes populos,
+et principes, qui sunt in cunctis provinciis regis Assueri.
+
+1:17 Egredietur enim sermo reginae ad omnes mulieres, ut contemnant
+viros suos, et dicant: Rex Assuerus iussit ut regina Vasthi intraret
+ad eum, et illa noluit.
+
+1:18 Atque hoc exemplo omnes principum coniuges Persarum atque Medorum,
+parvipendent imperia maritorum: unde regis iusta est indignatio.
+
+1:19 Si tibi placet, egrediatur edictum a facie tua, et scribatur
+iuxta legem Persarum atque Medorum, quam praeteriri illicitum est,
+ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius,
+altera, quae melior est illa, accipiat.
+
+1:20 Et hoc in omne (quod latissimum est) provinciarum tuarum
+divulgetur imperium, et cunctae uxores tam maiorum, quam minorum
+deferant maritis suis honorem.
+
+1:21 placuit consilium eius regi, et principibus: fecitque rex iuxta
+consilium Mamuchan,
+
+1:22 et misit epistolas ad universas provincias regni sui, ut quaeque
+gens audire et legere poterat, diversis linguis et litteris, esse viros
+principes ac maiores in domibus suis: et hoc per cunctos populos divulgari.
+
+
+
+2. ESTHER ELIGITUR REGINA, 2:1-18.
+
+
+2:1 His ita gestis, postquam regis Assueri indignatio deferbuerat,
+recordatus est Vasthi, et quae fecisset, vel quae passa esset:
+
+2:2 dixeruntque pueri regis, ac ministri eius: Quaerantur regi
+puellae virgines ac speciosae,
+
+2:3 et mittantur qui considerent per universas provincias puellas
+speciosas et virgines: et adducant eas ad civitatem Susan, et tradant
+eas in domum feminarum sub manu Egei eunuchi, qui est praepositus
+et custos mulierum regiarum: et accipiant mundum muliebrem, et cetera
+ad usus necessaria.
+
+2:4 Et quaecumque inter omnes oculis regis placuerit, ipsa regnet
+pro Vasthi.  Placuit sermo regi: et ita, ut suggesserant, iussit fieri.
+
+2:5 Erat vir Iudaeus in Susan civitate, vocabulo Mardochaeus
+filius Iair, filii Semei, filii Cis, de stirpe Iemini,
+
+2:6 (a) qui translatus fuerat de Ierusalem eo tempore, quo Iechoniam
+regem Iuda Nabuchodonosor rex Babylonis transtulerat,
+
+2:7 qui fuit nutritius filiae fratris sui Edissae, quae altero
+nomine vocabatur Esther: et utrumque parentem amiserat: pulchra nimis,
+et decora facie.  Mortuisque patre eius ac matre, Mardochaeus sibi eam
+adoptavit in filiam.
+
+2:8 Cumque percrebruisset regis imperium, et iuxta mandatum illius
+multae pulchrae virgines adducerentur Susan, et Egeo traderentur
+Eunucho; Esther quoque inter ceteras puellas ei tradita est,
+ut servaretur in numero feminarum.
+
+2:9 Quae placuit ei, et invenit gratiam in conspectu illius.
+Et praecepit eunucho, ut acceleraret mundum muliebrem, et traderet
+ei partes suas, et septem puellas speciosissimas de domo regis,
+et tam ipsam, quam pedissequas eius ornaret atque excoleret.
+
+2:10 Quae noluit indicare ei populum et patriam suam:
+Mardochaeus enim praeceperat ei, ut de hac re omnino reticeret:
+
+2:11 qui deambulabat quotidie ante vestibulum domus, in qua electae
+virgines servabantur, curam agens salutis Esther, et scire volens
+quid ei accideret.
+
+2:12 Cum autem venisset tempus singularum per ordinem puellarum,
+ut intrarent ad regem, expletis omnibus, quae ad cultum muliebrem
+pertinebant, mensis duodecimus vertebatur: ita dumtaxat, ut sex
+mensibus oleo ungerentur myrrhino, et aliis sex quibusdam pigmentis
+et aromatibus uterentur.
+
+2:13 Ingredientesque ad regem, quidquid postulassent ad ornatum
+pertinens, accipiebant: et ut eis placuerat, compositae de triclinio
+feminarum ad regis cubiculum transibant.
+
+2:14 Et quae intraverat vespere, egrediebatur mane, atque inde in
+secundas aedes deducebatur, quae sub manu Susagazi eunuchi erant,
+qui concubinis regis praesidebat: nec habebat potestatem ad regem
+ultra redeundi, nisi voluisset rex, et eam venire iussisset ex nomine.
+
+2:15 Evoluto autem tempore per ordinem, instabat dies, quo Esther
+filia Abihail fratris Mardochaei, quam sibi adoptaverat in filiam,
+deberet intrare ad regem.  Quae non quaesivit muliebrem cultum,
+sed quaecumque voluit Egeus eunuchus custos virginum, haec ei ad
+ornatum dedit.  Erat enim formosa valde, et incredibili pulchritudine,
+omnium oculis gratiosa et amabilis videbatur.
+
+2:16 Ducta est itaque ad cubiculum regis Assueri mense decimo,
+qui vocatur Tebeth, septimo anno regni eius.
+
+2:17 Et adamavit eam rex plus quam omnes mulieres, habuitque gratiam
+et misericordiam coram eo super omnes mulieres, et posuit diadema
+regni in capite eius, fecitque eam regnare in loco Vasthi.
+
+2:18 Et iussit convivium praeparari permagnificum cunctis principibus,
+et servis suis pro coniunctione, et nuptiis Esther.  Et dedit requiem
+universis provinciis, ac dona largitus est iuxta magnificentiam principalem.
+
+
+
+3. MARDOCHAEUS CONIURATIONEM IANITORUM PATEFACIT, 2:19-23.
+
+
+2:19 Cumque secundo quaererentur virgines et congregarentur,
+Mardochaeus manebat ad ianuam regis:
+
+2:20 necdum prodiderat Esther patriam, et populum suum, iuxta
+mandatum eius.  Quidquid enim ille praecipiebat, observabat Esther:
+et ita cuncta faciebat ut eo tempore solita erat, quo eam
+parvulam nutriebat.
+
+2:21 Eo igitur tempore, quo Mardochaeus ad regis ianuam morabatur,
+irati sunt Bagathan, et Thares duo eunuchi regis, qui ianitores erant,
+et in primo palatii limine praesidebant: volueruntque insurgere
+in regem, et occidere eum.
+
+2:22 Quod Mardochaeum non latuit, statimque nunciavit reginae Esther:
+et illa regi ex nomine Mardochaei, qui ad se rem detulerat.
+
+2:23 Quaesitum est, et inventum: et appensus est uterque eorum
+in patibulo.  Mandatumque est historiis, et annalibus traditum
+coram rege.
+
+
+
+4. AMAN POPULUM IUDAEORUM PERDERE VULT, 3:1-15.
+
+
+3:1 Post haec rex Assuerus exaltavit Aman filium Amadathi, qui erat
+de stirpe Agag: et posuit solium eius super omnes principes, quos habebat.
+
+3:2 Cunctique servi regis, qui in foribus palatii versabantur,
+flectebant genua, et adorabant Aman: sic enim praeceperat eis imperator.
+solus Mardochaeus non flectebat genu, neque adorabat eum.
+
+3:3 Cui dixerunt pueri regis, qui ad fores palatii praesidebant:
+Cur praeter ceteros non observas mandatum regis?
+
+3:4 Cumque hoc crebrius dicerent, et ille nollet audire,
+nunciaverunt Aman, scire cupientes utrum perseveraret in sententia:
+dixerat enim eis se esse Iudaeum.
+
+3:5 Quod cum audisset Aman, et experimento probasset quod Mardochaeus
+non flecteret sibi genu, nec se adoraret, iratus est valde,
+
+3:6 et pro nihilo duxit in unum Mardochaeum mittere manus suas:
+audierat enim quod esset gentis Iudaeae. magisque voluit omnem Iudaeorum,
+qui erant in regno Assueri, perdere nationem.
+
+3:7 Mense primo (cuius vocabulum est Nisan) anno duodecimo regni Assueri,
+missa est sors in urnam, quae Hebraice dicitur phur, coram Aman,
+quo die et quo mense gens Iudaeorum deberet interfici: et exivit
+mensis duodecimus, qui vocatur Adar.
+
+3:8 Dixitque Aman regi Assuero: Est populus per omnes provincias
+regni tui dispersus, et a se mutuo separatus, novis utens legibus
+et ceremoniis, insuper et regis scita contemnens.  Et optime
+nosti quod non expediat regno tuo ut insolescat per licentiam.
+
+3:9 si tibi placet, decerne, ut pereat, et decem millia talentorum
+appendam arcariis gazae tuae.
+
+3:10 Tulit ergo rex annulum, quo utebatur, de manu sua, et dedit
+eum Aman filio Amadathi de progenie Agag, hosti Iudaeorum,
+
+3:11 dixitque ad eum: Argentum, quod tu polliceris, tuum sit.
+de populo age quod tibi placet.
+
+3:12 Vocatique sunt scribae regis mense primo Nisan, tertiadecima
+die eiusdem mensis: et scriptum est, ut iusserat Aman, ad omnes
+satrapas regis, et iudices provinciarum, diversarumque gentium,
+ut quaeque gens legere poterat, et audire pro varietate linguarum
+ex nomine regis Assueri: et litterae signatae ipsius annulo,
+
+3:13 missae sunt per cursores regis ad universas provincias ut
+occiderent atque delerent omnes Iudaeos, a puero usque ad senem,
+parvulos, et mulieres, uno die, hoc est tertiodecimo mensis duodecimi,
+qui vocatur Adar, et bona eorum diriperent.
+
+3:14 Summa autem epistolarum haec fuit, ut omnes provinciae scirent,
+et pararent se ad praedictam diem.
+
+3:15 Festinabant cursores, qui missi erant, regis imperium explere.
+Statimque in Susan pependit edictum, rege et Aman celebrante convivium,
+et cunctis Iudaeis, qui in urbe erant, flentibus.
+
+
+
+5. MARDOCHAEUS REGINAM INVOCAT, 4:1-17.
+
+
+4:1 Quae cum audisset Mardochaeus, scidit vestimenta sua, et indutus
+est sacco, spargens cinerem capiti: et in platea mediae civitatis
+voce magna clamabat, ostendens amaritudinem animi sui,
+
+4:2 et hoc eiulatu usque ad fores palatii gradiens.  Non enim erat
+licitum indutum sacco aulam regis intrare.
+
+4:3 In omnibus quoque provinciis, oppidis, ac locis, ad quae crudele
+regis dogma pervenerat, planctus ingens erat apud Iudaeos, ieiunium,
+ululatus, et fletus, sacco et cinere multis pro strato utentibus.
+
+4:4 Ingressae autem sunt puellae Esther et eunuchi, nunciaveruntque ei.
+Quod audiens consternata est: et vestem misit, ut ablato sacco
+induerent eum: quam accipere noluit.
+
+4:5 Accitoque Athach eunucho, quem rex ministrum ei dederat,
+praecepit ei ut iret ad Mardochaeum, et disceret ab eo cur hoc faceret.
+
+4:6 Egressusque Athach, ivit ad Mardochaeum stantem in platea civitatis,
+ante ostium palatii:
+
+4:7 qui indicavit ei omnia, quae acciderant, quo modo Aman promisisset,
+ut in thesauros regis pro Iudaeorum nece inferret argentum.
+
+4:8 exemplar quoque edicti, quod pendebat in Susan, dedit ei,
+ut reginae ostenderet, et moneret eam, ut intraret ad regem,
+et deprecaretur eum pro populo suo.
+
+4:9 Regressus Athach, nunciavit Esther omnia, quae Mardochaeus dixerat.
+
+4:10 Quae repondit ei, et iussit ut diceret Mardochaeo:
+
+4:11 Omnes servi regis, et cunctae, quae sub ditione eius sunt,
+norunt provinciae, quod sive vir, sive mulier non vocatus,
+interius atrium regis intraverit, absque ulla cunctatione statim
+interficiatur: nisi forte rex auream virgam ad eum tetenderit pro
+signo clementiae, atque ita possit vivere.  Ego igitur quo modo ad
+regem intrare potero, quae triginta iam diebus non sum vocata ad eum?
+
+4:12 Quod cum audisset Mardochaeus,
+
+4:13 rursum mandavit Esther, dicens: Ne putes quod animam tuam
+tantum liberes, quia in domo regis es prae cunctis Iudaeis:
+
+4:14 si enim nunc silueris, per aliam occasionem liberabuntur Iudaei:
+et tu, et domus patris tui peribitis.  Et quis novit utrum idcirco ad
+regnum veneris, ut in tali tempore parareris?
+
+4:15 Rursumque Esther haec Mardochaeo verba mandavit:
+
+4:16 Vade et congrega omnes Iudaeos, quos in Susan repereris,
+et orate pro me.  Non comedatis, et non bibatis tribus diebus,
+et tribus noctibus: et ego cum ancillis meis similiter ieiunabo,
+et tunc ingrediar ad regem contra legem faciens, non vocata,
+tradensque me morti et periculo.
+
+4:17 Ivit itaque Mardochaeus, et fecit omnia, quae ei Esther praeceperat.
+
+
+
+II. SALUS IUDAEORUM, 5:1-10:3.
+
+
+1. ESTHER A XERXE BENIGNE SUSCIPITUR, 5:1-8.
+
+
+5:1 Die autem tertio induta est Esther regalibus vestimentis,
+et stetit in atrio domus regiae, quod erat interius, contra
+basilicam regis: at ille sedebat super solium suum in consistorio
+palatii contra ostium domus.
+
+5:2 Cumque vidisset Esther reginam stantem, placuit oculis eius,
+et extendit contra eam virgam auream, quam tenebat manu:
+Quae accedens, osculata est summitatem virgae eius:
+
+5:3 Dixitque ad eam rex: Quid vis Esther regina? quae est petitio tua?
+etiam si dimidiam partem regni petieris, dabitur tibi.
+
+5:4 At illa respondit: Si regi placet, obsecro ut venias ad me hodie,
+et Aman tecum ad convivium, quod paravi.
+
+5:5 Statimque Rex, Vocate, inquit, cito Aman ut Esther obediat voluntati.
+Venerunt itaque rex et Aman ad convivium, quod eis regina paraverat.
+
+5:6 Dixitque ei rex, postquam vinum biberat abundanter: Quid petis
+ut detur tibi? et pro qua re postulas? etiam si dimidiam partem
+regni mei petieris, impetrabis.
+
+5:7 Cui respondit Esther: Petitio mea, et preces sunt istae:
+
+5:8 Si inveni in conspectu regis gratiam, et si regi placet ut det
+mihi quod postulo, et meam impleat petitionem: veniat rex et Aman
+ad convivium quod paravi eis, et cras aperiam regi voluntatem meam.
+
+
+
+2. AMAN PRO MARDOCHAEO PATIBULUM PARAT, 5:9-14.
+
+
+5:9 Egressus est itaque illo die Aman laetus et alacer.
+Cumque vidisset Mardochaeum sedentem ante fores palatii,
+et non solum non assurrexisse sibi, sed nec motum quidem
+de loco sessionis suae, indignatus est valde:
+
+5:10 et dissimulata ira, reversus in domum suam, convocavit ad se
+amicos suos, et Zares uxorem suam:
+
+5:11 et exposuit illis magnitudinem divitiarum suarum,
+filiorumque turbam, et quanta eum gloria super omnes principes
+et servos suos rex elevasset.
+
+5:12 Et post haec ait: Regina quoque Esther nullum alium vocavit
+ad convivium cum rege, praeter me: apud quam etiam cras cum rege
+pransurus sum.
+
+5:13 Et cum haec omnia habeam, nihil me habere puto, quamdiu videro
+Mardochaeum Iudaeum sedentem ante fores regias.
+
+5:14 Responderuntque ei Zales uxor eius, et ceteri amici:
+Iube parari excelsam trabem, habentem altitudinis quinquaginta cubitos,
+et dic mane regi ut appendatur super eam Mardochaeus,
+et sic ibis cum rege laetus ad convivium.  Placuit ei consilium,
+et iussit excelsam parari crucem.
+
+
+
+3. MARDOCHAEUS A REGE HONORATUR, 6:1-13.
+
+
+6:1 Noctem illam duxit rex insomnem, iussitque sibi afferri historias
+et annales priorum temporum.  Quae cum illo praesente legerentur,
+
+6:2 ventum est ad illum locum ubi scriptum erat quo modo nunciasset
+Mardochaeus insidias Bagathan, et Thares eunuchorum, regem Assuerum
+iugulare cupientium.
+
+6:3 Quod cum audisset rex, ait: Quid pro hac fide honoris ac praemii
+Mardochaeus consecutus est?  Dixerunt ei servi illius ac ministri:
+Nihil omnino mercedis accepit.
+
+6:4 Statimque rex, Quis est, inquit, in atrio?  Aman quippe interius
+atrium domus regiae intraverat, ut suggereret regi, et iuberet
+Mardochaeum affigi patibulo, quod ei fuerat praeparatum.
+
+6:5 Responderunt pueri: Aman stat in atrio.  Dixitque rex: Ingrediatur.
+
+6:6 Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex
+honorare desiderat?  Cogitans autem in corde suo Aman, et reputans
+quod nullum alium rex, nisi se, vellet honorare,
+
+6:7 respondit: Homo, quem rex honorare cupit,
+
+6:8 debet indui vestibus regiis, et imponi super equum, qui de sella
+regis est, et accipere regium diadema super caput suum,
+
+6:9 et primus de regiis principibus, ac tyrannis teneat equum eius,
+et per plateam civitatis incedens clamet, et dicat: Sic honorabitur,
+quemcumque voluerit rex honorare.
+
+6:10 Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es,
+Mardochaeo Iudaeo, qui sedet ante fores palatii.  Cave ne quidquam de his,
+quae locutus es, praetermittas.
+
+6:11 Tulit itaque Aman stolam et equum, indutumque Mardochaeum in
+platea civitatis, et impositum equo praecedebat, atque clamabat:
+Hoc honore condignus est, quemcumque rex voluerit honorare.
+
+6:12 Reversusque est Mardochaeus ad ianuam palatii: et Aman festinavit
+ire in domum suam, lugens et operto capite:
+
+6:13 narravitque Zares uxori suae, et amicis omnia quae evenissent sibi.
+Cui responderunt sapientes, quos habebat in consilio, et uxor eius:
+Si de semine Iudaeorum est Mardochaeus, ante quem cadere coepisti,
+non poteris ei resistere, sed cades in conspectu eius.
+
+
+
+4. AMAN SUSPENDITUR ET MARDOCHAEUS PROMOVETUR, 6:14-8:2.
+
+
+6:14 Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum
+ad convivium, quod regina paraverat, pergere compulerunt.
+
+7:1 Intravit itaque rex et Aman, ut biberent cum regina.
+
+7:2 Dixitque ei rex etiam secunda die, postquam vino incaluerat:
+Quae est petitio tua Esther ut detur tibi? et quid vis fieri?
+etiam si dimidiam partem regni mei petieris, impetrabis.
+
+7:3 Ad quem illa respondit: Si inveni gratiam in oculis tuis o rex,
+et si tibi placet, dona mihi animam meam pro qua rogo, et populum
+meum pro quo obsecro.
+
+7:4 Traditi enim sumus ego et populus meus, ut conteramur, iugulemur,
+et pereamus.  Atque utinam in servos et famulas venderemur:
+esset tolerabile malum, et gemens tacerem: nunc autem hostis noster est,
+cuius crudelitas redundat in regem.
+
+7:5 Respondensque rex Assuerus ait: Quis est iste, et cuius potentiae,
+ut haec audeat facere?
+
+7:6 Dixitque Esther: Hostis et inimicus noster pessimus iste est Aman.
+Quod ille audiens, illico obstupuit, vultum regis ac reginae ferre
+non sustinens.
+
+7:7 Rex autem iratus surrexit, et de loco convivii intravit in
+hortum arboribus consitum.  Aman quoque surrexit ut rogaret Esther
+reginam pro anima sua, intellexit enim a rege sibi paratum malum.
+
+7:8 Qui cum reversus esset de horto nemoribus consito, et intrasset
+convivii locum, reperit Aman super lectulum corruisse, in quo
+iacebat Esther, et ait: Etiam reginam vult opprimere, me praesente,
+in domo mea.  Necdum verbum de ore regis exierat, et statim operuerunt
+faciem eius.
+
+7:9 Dixitque Harbona, unus de eunuchis, qui stabant in ministerio regis:
+En lignum, quod paraverat Mardochaeo, qui locutus est pro rege,
+stat in domo Aman, habens altitudinis quinquaginta cubitos.
+Cui dixit rex: Appendite eum in eo.
+
+7:10 Suspensus est itaque Aman in patibulo quod paraverat Mardochaeo:
+et regis ira quievit.
+
+8:1 Die illo dedit rex Assuerus Esther reginae domum Aman
+adversarii Iudaeorum, et Mardochaeus ingressus est ante faciem regis.
+Confessa est enim ei Esther quod esset patruus suus.
+
+8:2 Tulitque rex annulum, quem ab Aman recipi iusserat, et tradidit
+Mardochaeo.  Esther autem constituit Mardochaeum super domum suam.
+
+
+
+5. EDICTUM EDICTO REPELLITUR, 8:3-17.
+
+
+8:3 Nec his contenta, procidit ad pedes regis, flevitque et locuta
+ad eum oravit ut malitiam Aman Agagitae, et machinationes eius pessimas,
+quas excogitaverat contra Iudaeos, iuberet irritas fieri.
+
+8:4 At ille ex more sceptrum aureum protendit manu, quo signum
+clementiae monstrabatur: illaque consurgens stetit ante eum,
+
+8:5 et ait: Si placet regi, et si inveni gratiam in oculis eius,
+et deprecatio mea non ei videtur esse contraria, obsecro, ut novis
+epistolis, veteres Aman litterae, insidiatoris et hostis Iudaeorum,
+quibus eos in cunctis regis provinciis perire praeceperat, corrigantur.
+
+8:6 Quo modo enim potero sustinere necem et interfectionem populi mei?
+
+8:7 Responditque rex Assuerus Esther reginae, et Mardochaeo Iudaeo:
+Domum Aman concessi Esther, et ipsum iussi affigi cruci, quia ausus
+est manum mittere in Iudaeos.
+
+8:8 Scribite ergo Iudaeis, sicut vobis placet, regis nomine,
+signantes litteras annulo meo.  Haec enim consuetudo erat,
+ut epistolis, quae ex regis nomine mittebantur, et illius annulo
+signatae erant, nemo auderet contradicere.
+
+8:9 Accitisque scribis et librariis regis (erat autem tempus tertii
+mensis, qui appellatur Siban) vigesima et tertia die illius scriptae
+sunt epistolae, ut Mardochaeus voluerat, ad Iudaeos, et ad principes,
+procuratoresque et iudices, qui centum vigintiseptem provinciis ab
+India usque ad Aethiopiam praesidebant: provinciae atque provinciae,
+populo et populo iuxta linguas et litteras suas, et Iudaeis,
+prout legere poterant, et audire.
+
+8:10 Ipsaeque epistolae, quae regis nomine mittebantur, annulo ipsius
+obsignatae sunt, et missae per veredarios: qui per omnes provincias
+discurrentes, veteres litteras novis nunciis praevenirent.
+
+8:11 Quibus imperavit rex, ut convenirent Iudaeos per singulas civitates,
+et in unum praeciperent congregari ut starent pro animabus suis,
+et omnes inimicos suos cum coniugibus ac liberis et universis domibus,
+interficerent atque delerent, et spolia eorum diriperent.
+
+8:12 Et constituta est per omnes provincias una ultionis dies,
+id est tertiadecima mensis duodecimi Adar.
+
+8:13 Summaque epistolae haec fuit, ut in omnibus terris ac populis,
+qui regis Assueri subiacebant imperio, notum fieret, paratos esse
+Iudaeos ad capiendam vindictam de hostibus suis.
+
+8:14 Egressique sunt veredarii celeres nuncia perferentes,
+et edictum regis pependit in Susan.
+
+8:15 Mardochaeus autem de palatio, et de conspectu regis egrediens,
+fulgebat vestibus regiis, hyacinthinis videlicet et aeriis,
+coronam auream portans in capite, et amictus serico pallio atque purpureo.
+Omnisque civitas exultavit, atque laetata est.
+
+8:16 Iudaeis autem nova lux oriri visa est, gaudium, honor, et tripudium.
+
+8:17 Apud omnes populos, urbes, atque provincias, quocumque regis
+iussa veniebant, mira exultatio, epulae atque convivia, et festus dies:
+in tantum ut plures alterius gentis et sectae eorum religioni et ceremoniis
+iungerentur.  Grandis enim cunctos Iudaici nominis terror invaserat.
+
+
+
+6. IUDAEI AB INIMICIS SE VINDICANT, 9:1-19.
+
+
+9:1 Igitur duodecimi mensis, quem Adar vocari ante iam diximus,
+tertiadecima die, quando cunctis Iudaeis interfectio parabatur,
+et hostes eorum inhiabant sanguini, versa vice Iudaei superiores
+esse coeperunt, et se de adversariis vindicare.
+
+9:2 Congregatique sunt per singulas civitates, oppida, et loca ut
+extenderent manum contra inimicos, et persecutores suos.
+Nullusque ausus est resistere, eo quod omnes populos magnitudinis
+eorum formido penetrarat.
+
+9:3 Nam et provinciarum indices, et duces, et procuratores,
+omnisque dignitas, quae singulis locis ac operibus praeerat,
+extollebant Iudaeos timore Mardochaei:
+
+9:4 quem principem esse palatii, et plurimum posse cognoverant:
+fama quoque nominis eius crescebat quotidie, et per cunctorum ora volitabat.
+
+9:5 Itaque percusserunt Iudaei inimicos suos plaga magna,
+et occiderunt eos, reddentes eis quod sibi paraverant facere:
+
+9:6 in tantum ut etiam in Susan quingentos viros interficerent,
+extra decem filios Aman Agagitae hostis Iudaeorum: quorum ista sunt nomina:
+
+9:7 Pharsandatha, et Delphon, et Esphatha,
+
+9:8 et Phoratha, et Adalia, et Aridatha,
+
+9:9 et Phermesta et Arisai, et Aridai, et Iezatha.
+
+9:10 Quos cum occidissent, praedas de substantiis eorum tangere noluerunt.
+
+9:11 Statimque numerus eorum, qui occisi erant in Susan,
+ad regem relatus est.
+
+9:12 Qui dixit reginae: In urbe Susan interfecerunt Iudaei
+quingentos viros, et alios decem filios Aman: quantam putas eos
+exercere caedem in universis provinciis?  Quid ultra postulas,
+et quid vis ut fieri iubeam?
+
+9:13 Cui illa respondit: Si regi placet, detur potestas Iudaeis,
+ut sicut fecerunt hodie in Susan, sic et cras faciant, et decem
+filii Aman in patibulis suspendantur.
+
+9:14 Praecepitque rex ut ita fieret.  Statimque in Susan pependit edictum,
+et decem filii Aman suspensi sunt.
+
+9:15 Congregatis Iudaeis quartadecima die mensis Adar, interfecti sunt
+in Susan trecenti viri: nec eorum ab illis direpta substantia est.
+
+9:16 Sed et per omnes provincias, quae ditioni regis subiacebant,
+pro animabus suis steterunt Iudaei, interfectis hostibus ac
+persecutoribus suis: in tantum ut septuagintaquinque millia occisorum
+implerentur, et nullus de substantiis eorum quidquam contingeret.
+
+9:17 Dies autem tertiusdecimus mensis Adar primus apud omnes
+interfectionis fuit, et quartadecima die caedere desierunt.
+Quem constituerunt esse sollemnem, ut in eo omni tempore deinceps
+vacarent epulis, gaudio atque conviviis.
+
+9:18 At hi, qui in urbe Susan caedem exercuerant, tertiodecimo
+et quartodecimo die eiusdem mensis in caede versati sunt:
+quintodecimo autem die percutere desierunt.  Et idcirco eundem diem
+constituerunt sollemnem epularum atque laetitiae.
+
+9:19 Hi vero Iudaei, qui in oppidis non muratis ac villis morabantur,
+quartumdecimum diem mensis Adar conviviorum et gaudii decreverunt,
+ita ut exultent in eo, et mittant sibi mutuo partes epularum et ciborum.
+
+
+
+7. CELEBRATIO FESTI PHURIM SANCITUR, 9:20-32.
+
+
+9:20 Scripsit itaque Mardochaeus omnia haec, et litteris comprehensa
+misit ad Iudaeos, qui in omnibus regis provinciis morabantur,
+tam in vicino positis, quam procul,
+
+9:21 ut quartamdecimam et quintamdecimam diem mensis Adar pro festis
+susciperent, et revertente semper anno sollemni celebrarent honore:
+
+9:22 quia in ipsis diebus se ulti sunt Iudaei de inimicis suis,
+et luctus atque tristitia in hilaritatem gaudiumque conversa sunt,
+essentque dies isti epularum atque laetitiae, et mitterent sibi
+invicem ciborum partes, et pauperibus munuscula largirentur.
+
+9:23 Susceperuntque Iudaei in sollemnem ritum cuncta quae eo tempore
+facere coeperant, et quae Mardochaeus litteris facienda mandaverat.
+
+9:24 Aman enim, filius Amadathi stirpis Agag, hostis et adversarius
+Iudaeorum, cogitavit contra eos malum, ut occideret illos,
+atque deleret: et misit phur, quod nostra lingua vertitur in sortem.
+
+9:25 Et postea ingressa est Esther ad regem, obsecrans ut conatus eius,
+litteris regis irriti fierent: et malum, quod contra Iudaeos cogitaverat,
+reverteretur in caput eius.  Denique et ipsum et filios eius
+affixerunt cruci,
+
+9:26 atque ex illo tempore dies isti appellati sunt phurim, id est sortium:
+eo quod phur, id est sors, in urnam missa fuerit.  Et cuncta,
+quae gesta sunt, epistolae, id est libri huius volumine continentur:
+
+9:27 quaeque sustinuerunt, et quae deinceps immutata sunt,
+susceperunt Iudaei super se et semen suum, et super cunctos,
+qui religioni eorum voluerunt copulari, ut nulli liceat duos
+hos dies absque sollemnitate transigere: quos scriptura testatur,
+et certa expetunt tempora, annis sibi iugiter succedentibus.
+
+9:28 Isti sunt dies, quos nulla umquam delebit oblivio: et per
+singulas generationes cunctae in toto orbe provinciae celebrabunt:
+nec est ulla civitas, in qua dies phurim, id est sortium, non observentur
+a Iudaeis, et ab eorum progenie, quae his ceremoniis obligata est.
+
+9:29 Scripseruntque Esther regina filia Abihail, et Mardochaeus
+Iudaeus etiam secundam epistolam, ut omni studio dies ista sollemnis
+sanciretur in posterum.
+
+9:30 et miserunt ad omnes Iudaeos, qui in centum viginti septem
+provinciis regis Assueri versabantur, ut haberent pacem,
+et susciperent veritatem,
+
+9:31 observantes Dies sortium, et suo tempore cum gaudio celebrarent:
+sicut constituerant Mardochaeus et Esther, et illi observanda
+susceperunt a se, et a semine suo ieiunia, et clamores, et Sortium dies,
+
+9:32 et omnia, quae libri huius, qui vocatur Esther, historia continentur.
+
+
+
+8. SUMMA DIGNITAS MARDOCHAEI, 10:1-3.
+
+
+10:1 Rex vero Assuerus omnem terram, et cunctas maris insulas
+fecit tributarias:
+
+10:2 cuius fortitudo et imperium, et dignitas atque sublimitas,
+qua exaltavit Mardochaeum, scripta sunt in libris Medorum, atque Persarum:
+
+10:3 et quomodo Mardochaeus Iudaici generis secundus a rege Assuero fuerit:
+et magnus apud Iudaeos et acceptabilis plebi fratrum suorum, quaerens
+bona populo suo, et loquens ea, quae ad pacem seminis sui pertinerent.
+
+
+
+
+
+PARS ALTERA.
+SUPPLEMENTA DEUTEROCANONICA, 10:4-16:24.
+
+
+
+
+1. FINIS LIBRI, 10:4-11:1 [F:1-11].
+
+QUAE HABENTUR IN HEBRAEO, PLENA FIDE EXPRESSI.  HAEC AUTEM,
+QUAE SEQUUNTUR, SCRIPTA REPERI IN EDITIONE VULGATA, QUAE GRAECORUM
+LINGUA ET LITTERIS CONTINENTUR: ET INTERIM POST FINEM LIBRI HOC
+CAPITULUM FEREBATUR: QUOD IUXTA CONSUETUDINEM NOSTRAM OBELO,
+ID EST VERU PRAENOTAVIMUS.
+
+
+10:4 Dixitque Mardochaeus: A Deo facta sunt ista.
+
+10:5 Recordatus sum somnii, quod videram, haec eadem significantis:
+nec eorum quidquam irritum fuit.
+
+10:6 Parvus fons, qui crevit in fluvium, et in lucem, solemque
+conversus est, et in aquas plurimas redundavit: Esther est, quam rex
+accepit uxorem, et voluit esse reginam.
+
+10:7 Duo autem dracones: ego sum, et Aman.
+
+10:8 Gentes, quae convenerant: hi sunt, qui conati sunt delere
+nomen Iudaeorum.
+
+10:9 Gens autem mea: Israel est, quae clamavit ad Dominum, et salvum
+fecit Dominus populum suum: liberavitque nos ab omnibus malis,
+et fecit signa magna atque portenta inter Gentes:
+
+10:10 et duas sortes esse praecepit, unam Populi Dei, et alteram
+cunctarum Gentium.
+
+10:11 Venitque utraque sors in statutum ex illo iam tempore diem
+coram Deo universis gentibus:
+
+10:12 et recordatus est Dominus populi sui, ac misertus est hereditatis suae.
+
+10:13 Et observabuntur dies isti in mense Adar quartadecima,
+et quintadecima die eiusdem mensis, cum omni studio, et gaudio
+in unum coetum populi congregati, in cunctas deinceps generationes
+populi Israel.
+
+11:1 Anno quarto regnantibus Ptolemaeo, et Cleopatra, attulerunt
+Dosithaeus, qui se Sacerdotem, et Levitici generis ferebat,
+et Ptolemaeus filius eius hanc epistolam phurim, quam dixerunt
+interpretatum esse Lysimachum Ptolemaei filium in Ierusalem.
+
+
+
+2. INITIUM LIBRI, 11:2-12:6a [A:1-17].
+
+HOC QUOQUE PRINCIPIUM ERAT IN EDITIONE VULGATA, QUOD NEC IN HEBRAEO,
+NEC APUD ULLUM FERTUR INTERPRETUM.
+
+
+11:2 Anno secundo, regnante Artaxerxe maximo, prima die mensis Nisan,
+vidit somnium Mardochaeus filius Iairi, filii Semei, filii Cis,
+de tribu Beniamin:
+
+11:3 homo Iudaeus, qui habitabat in urbe Susis, vir magnus,
+et inter primos aulae regiae.
+
+11:4 (b) Erat autem de eo numero captivorum, quos transtulerat
+Nabuchodonosor rex Babylonis de Ierusalem cum Ieconia rege Iuda:
+
+11:5 et hoc eius somnium fuit: Apparuerunt voces, et tumultus,
+et tonitrua, et terraemotus, et conturbatio super terram:
+
+11:6 et ecce duo dracones magni, paratique contra se in praelium.
+
+11:7 Ad quorum clamorem cunctae concitatae sunt nationes,
+ut pugnarent contra gentem iustorum.
+
+11:8 Fuitque dies illa tenebrarum et discriminis, tribulationis
+et angustiae, et ingens formido super terram.
+
+11:9 Conturbataque est gens iustorum timentium mala sua,
+et praeparata ad mortem.
+
+11:10 Clamaveruntque ad Deum: et illis vociferantibus, fons parvus
+crevit in fluvium maximum, et in aquas plurimas redundavit.
+
+11:11 Lux et sol ortus est, et humiles exaltati sunt,
+et devoraverunt inclytos.
+
+11:12 Quod cum vidisset Mardochaeus, et surrexisset de strato,
+cogitabat quid Deus facere vellet: et fixum habebat in animo,
+scire cupiens quid significaret somnium.
+
+12:1 Morabatur (c) autem eo tempore in aula regis cum Bagatha et Thara
+eunuchis regis, qui ianitores erant palatii.
+
+12:2 Cumque intellexisset cogitationes eorum, et curas diligentius
+pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere,
+et nunciavit super eo regi.
+
+12:3 Qui de utroque, habita quaestione, confessos iussit duci ad mortem.
+
+12:4 Rex autem quod gestum erat, scripsit in commentariis:
+sed et Mardochaeus rei memoriam litteris tradidit.
+
+12:5 Praecepitque ei rex, ut in aula palatii moraretur,
+datis ei pro delatione muneribus.
+
+12:6a Aman vero filius Amadathi bugaeus erat gloriosissimus coram rege,
+et voluit nocere Mardochaeo, et populo eius pro duobus eunuchis regis,
+qui fuerant interfecti.
+
+HUCUSQUE PROOEMIUM.
+
+
+
+3. AD 3:14 SUPPLEMENTUM, 12:6b-13:7 [B:1a-7].
+
+QUAE SEQUUTUR, IN EO LOCO POSITA ERANT, UBI SCRIPTUM EST IN VOLUMINE,
+Et diripuerunt bona, vel substantias eorum.  QUAE IN SOLA VULGATA
+EDITIONE REPERIMUS.
+
+
+12:6b Epistolae autem hoc exemplar fuit.
+
+13:1 Rex maximus Artaxerxes ab India usque Aethiopiam centum
+vigintiseptem provinciarum principibus, et ducibus, qui eius
+imperio subiecti sunt, salutem.
+
+13:2 Cum plurimis gentibus imperarem, et universum orbem meae
+ditioni subiugassem, volui nequaquam abuti potentiae magnitudine,
+sed clementia et lenitate gubernare subiectos, ut absque ullo terrore
+vitam silentio transigentes, optata cunctis mortalibus pace fruerentur.
+
+13:3 Quaerente autem me a consiliariis meis quomodo posset hoc impleri,
+unus qui sapientia et fide ceteros praecellebat, et erat post regem
+secundus, Aman nomine,
+
+13:4 indicavit mihi in toto orbe terrarum populum esse dispersum,
+qui novis uteretur legibus, et contra omnium Gentium consuetudinem
+faciens, Regum iussa contemneret, et universarum concordiam nationum
+sua dissensione violaret.
+
+13:5 Quod cum didicissemus, videntes unam gentem rebellem adversus
+omne hominum genus perversis uti legibus, nostrisque iussionibus contraire,
+et turbare subiectarum nobis provinciarum pacem atque concordiam,
+
+13:6 iussimus ut quoscumque Aman, qui omnibus provinciis praepositus est,
+et secundus a rege, et quem patris loco colimus, monstraverit,
+cum coniugibus ac liberis deleantur ab inimicis suis, nullusque eorum
+misereatur, quartadecima die duodecimi mensis Adar anni praesentis:
+
+13:7 ut nefarii homines uno die ad inferos descendentes,
+reddant imperio nostro pacem, quam turbaverant.
+
+HUCUSQUE EXEMPLAR EPISTOLAE.
+
+
+
+4. AD 4:17 SUPPLEMENTUM, 13:8-14:19 [C:1-30].
+
+QUAE SEQUUNTUR, POST EUM LOCUM SCRIPTA REPERI, UBI LEGITUR,
+Pergensque Mardochaeus, fecit omnia, quae ei mandaverat Esther.
+NEC TAMEN HABENTUR IN HEBRAICO ET APUD NULLUM PENITUS FERUNTUR INTERPRETUM.
+
+
+13:8 Mardochaeus autem deprecatus est Dominum, memor omnium operum eius,
+
+13:9 et dixit: Domine Domine rex omnipotens, in ditione enim tua
+cuncta sunt posita, et non est qui possit tuae resistere voluntati,
+si decreveris salvare Israel.
+
+13:10 Tu fecisti caelum et terram, et quidquid caeli ambitu continetur.
+
+13:11 Dominus omnium es, nec est qui resistat maiestati tuae.
+
+13:12 Cuncta nosti, et scis quia non pro superbia et contumelia, et
+aliqua gloriae cupiditate fecerim hoc, ut non adorarem Aman superbissimum,
+
+13:13 (Libenter enim pro salute Israel etiam vestigia pedum eius
+deosculari paratus essem,)
+
+13:14 sed timui ne honorem Dei mei transferrem ad hominem,
+et ne quemquam adorarem, excepto Deo meo.
+
+13:15 Et nunc Domine rex Deus Abraham miserere populi tui,
+quia volunt nos inimici nostri perdere, et hereditatem tuam delere.
+
+13:16 Ne despicias partem tuam, quam redemisti tibi de Aegypto.
+
+13:17 Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo,
+et converte luctum nostrum in gaudium, ut viventes laudemus nomen
+tuum Domine, et ne claudas ora te canentium.
+
+13:18 Omnis quoque Israel pari mente et obsecratione clamavit
+ad Dominum, eo quod eis certa mors impenderet.
+
+14:1 Esther quoque regina confugit ad Dominum, pavens periculum,
+quod imminebat.
+
+14:2 Cumque deposuisset vestes regias, fletibus et luctui apta
+indumenta suscepit, et pro unguentis variis, cinere et stercore
+implevit caput, et corpus suum humiliavit ieiuniis: omniaque loca,
+in quibus antea laetari consueverat, crinium laceratione complevit.
+
+14:3 Et deprecabatur Dominum Deum Israel, dicens: Domine mi,
+qui rex noster es solus, adiuva me solitariam, et cuius praeter
+te nullus est auxiliator alius.
+
+14:4 Periculum meum in manibus meis est.
+
+14:5 Audivi a patre meo (d) quod tu Domine tulisses Israel de
+cunctis Gentibus, et patres nostros ex omnibus retro maioribus suis,
+ut possideres hereditatem sempiternam, fecistique eis sicut locutus es.
+
+14:6 Peccavimus in conspectu tuo, et idcirco tradidisti nos in
+manus inimicorum nostrorum:
+
+14:7 coluimus enim deos eorum.  Iustus es Domine:
+
+14:8 et nunc non eis sufficit, quod durissima nos opprimunt servitute,
+sed robur manuum suarum, idolorum potentiae deputantes,
+
+14:9 volunt tua mutare promissa, et delere hereditatem tuam,
+et claudere ora laudantium te, atque extinguere gloriam templi
+et altaris tui,
+
+14:10 ut aperiant ora Gentium, et laudent idolorum fortitudinem,
+et praedicent carnalem regem in sempiternum.
+
+14:11 Ne tradas Domine sceptrum tuum his, qui non sunt, ne rideant
+ad ruinam nostram: sed converte consilium eorum super eos, et eum,
+qui in nos coepit saevire, disperde.
+
+14:12 Memento Domine, et ostende te nobis in tempore tribulationis nostrae,
+et da mihi fiduciam Domine rex deorum, et universae potestatis:
+
+14:13 tribue sermonem compositum in ore meo in conspectu leonis,
+et transfer cor illius in odium hostis nostri, ut et ipse pereat,
+et ceteri, qui ei consentiunt.
+
+14:14 Nos autem libera manu tua, et adiuva me, nullum aliud
+auxilium habentem, nisi te, Domine, qui habes omnium scientiam,
+
+14:15 et nosti quia oderim gloriam iniquorum, et detester cubile
+incircumcisorum, et onmis alienigenae.
+
+14:16 Tu scis necessitatem meam, quod abominer signum superbiae et
+gloriae meae, quod est super caput meum in diebus ostentationis meae,
+et detester illud quasi pannum menstruatae, et non portem in diebus
+silentii mei,
+
+14:17 et quod non comederim in mensa Aman, nec mihi placuerit
+convivium regis, et non biberim vinum libaminum:
+
+14:18 et numquam laetata sit ancilla tua, ex quo huc translata
+sum usque in praesentem diem, nisi in te Domine Deus Abraham.
+
+14:19 Deus fortis super omnes, exaudi vocem eorum, qui nullam aliam
+spem habent, et libera nos de manu iniquorum, et erue me a timore meo.
+
+
+
+5. AD 4:8 SUPPLEMENTUM, 15:1-3 [B:7.5, B:8, & 4:9a].
+
+HAEC QUOQUE ADDITA REPERI IN EDITIONE VULGATA.
+
+
+15:1 Et mandavit ei (haud dubium quin esset Mardochaeus) ut
+ingrederetur ad regem, et rogaret pro populo suo et pro patria sua.
+
+15:2 Memorare (inquit) dierum humilitatis tuae, quomodo nutrita sis
+in manu mea, quia Aman secundus a rege locutus est contra nos in mortem:
+
+15:3 et tu invoca Dominum, et loquere regi pro nobis, et libera nos de morte.
+
+
+
+6. AD 5:1 S. SUPPLEMENTUM, 15:4-19 [D:1-16].
+
+NECNON ET ISTA QUAE SUBDITA SUNT.
+
+
+15:4 Die autem tertio deposuit vestimenta ornatus sui,
+et circumdata est gloria sua.
+
+15:5 Cumque regio fulgeret habitu, et invocasset omnium rectorem
+et salvatorem Deum, assumpsit duas famulas,
+
+15:6 et super unam quidem innitebatur, quasi prae deliciis et
+nimia teneritudine corpus suum ferre non sustinens:
+
+15:7 altera autem famularum sequebatur dominam, defluentia in
+humum indumenta sustentans.
+
+15:8 Ipsa autem roseo colore vultum perfusa, et gratis ac nitentibus
+oculis tristem celabat animum, et nimio timore contractum.
+
+15:9 Ingressa igitur cuncta per ordinem ostia, stetit contra regem,
+ubi ille residebat super solium regni sui, indutus vestibus regiis,
+auroque fulgens, et pretiosis lapidibus, eratque terribilis aspectu.
+
+15:10 Cumque elevasset faciem, et ardentibus oculis furorem pectoris
+indicasset, regina corruit, et in pallorem colore mutato, lassum super
+ancillulam reclinavit caput.
+
+15:11 Convertitque Deus spiritum regis in mansuetudinem, et festinus
+ac metuens exilivit de solio, et sustentans eam ulnis suis,
+donec rediret ad se, his verbis blandiebatur:
+
+15:12 Quid habes Esther?  Ego sum frater tuus, noli metuere.
+
+15:13 Non morieris: non enim pro te, sed pro omnibus haec lex constituta est.
+
+15:14 Accede igitur, et tange sceptrum.
+
+15:15 Cumque illa reticeret, tulit auream virgam, et posuit super
+collum eius, et osculatus est eam, et ait: Cur mihi non loqueris?
+
+15:16 Quae respondit: Vidi te domine quasi Angelum Dei,
+et conturbatum est cor meum prae timore gloriae tuae.
+
+15:17 Valde enim mirabilis es domine, et facies tua plena est gratiarum.
+
+15:18 Cumque loqueretur, rursus corruit, et pene exanimata est.
+
+15:19 Rex autem turbabatur, et omnes ministri eius consolabantur eam.
+
+
+
+7. AD 8:13 SUPPLEMENTUM, 16:1-24 [E:1-24].
+
+EXEMPLAR EPISTOLAE REGIS ARTAXERXIS, QUAM PRO IUDAEIS AD TOTAS REGNI
+SUI PROVINCIAS MISIT: QUOD ET IPSUM IN HEBRAICO VOLUMINE NON HABETUR.
+
+
+16:1 Rex magnus Artaxerxes (e) ab India usque Aethiopiam centum
+vigintiseptem provinciarum ducibus ac principibus, qui nostrae
+iussioni obediunt, salutem dicit.
+
+16:2 Multi bonitate principum et honore, qui in eos collatus est,
+abusi sunt in superbiam:
+
+16:3 et non solum subiectos regibus nituntur opprimere, sed datam
+sibi gloriam non ferentes, in ipsos, qui dederunt, moliuntur insidias.
+
+16:4 Nec contenti sunt gratias non agere beneficiis, et humanitatis
+in se iura violare, sed Dei quoque cuncta cernentis arbitrantur se
+posse fugere sententiam.
+
+16:5 Et in tantum vesaniae proruperunt, ut eos, qui credita sibi
+officia diligenter observant, et ita cuncta agunt ut omnium laude
+digni sint, mendaciorum cuniculis conentur subvertere,
+
+16:6 dum aures principum simplices, et ex sua natura alios aestimantes,
+callida fraude decipiunt.
+
+16:7 Quae res et ex veteribus probatur historiis, et ex his,
+quae geruntur quotidie, quo modo malis quorumdam suggestionibus
+regum studia depraventur.
+
+16:8 Unde providendum est paci omnium provinciarum.
+
+16:9 Nec putare debetis, si diversa iubeamus, ex animi nostri
+venire levitate, sed pro qualitate et necessitate temporum,
+ut reipublicae poscit utilitas, ferre sententiam.
+
+16:10 Et ut manifestius quod dicimus, intelligatis, (f) Aman filius
+Amadathi, et animo et gente Macedo, alienusque a Persarum sanguine,
+et pietatem nostram sua crudelitate commaculans, peregrinus a nobis
+susceptus est:
+
+16:11 et tantam in se expertus humanitatem, ut pater noster vocaretur,
+et adoraretur ab omnibus post regem secundus:
+
+16:12 qui in tantum arrogantiae tumorem sublatus est, ut regno
+privare nos niteretur et spiritu.
+
+16:13 Nam Mardochaeum, cuius fide et beneficiis vivimus,
+et consortem regni nostri Esther cum omni gente sua novis
+quibusdam atque inauditis machinis expetivit in mortem:
+
+16:14 hoc cogitans ut illis interfectis, insidiaretur nostrae
+solitudini, et regnum Persarum transferret in Macedonas.
+
+16:15 Nos autem a pessimo mortalium Iudaeos neci destinatos,
+in nulla penitus culpa reperimus, sed econtrario iustis utentes legibus,
+
+16:16 et filios altissimi et maximi, semperque viventis Dei,
+cuius beneficio et patribus nostris et nobis regnum est traditum,
+et usque hodie custoditur.
+
+16:17 Unde eas litteras, quas sub nomine nostro ille direxerat,
+sciatis esse irritas.
+
+16:18 Pro quo scelere ante portas huius urbis, id est, Susan,
+et ipse qui machinatus est, et omnis cognatio eius pendet in patibulis:
+non nobis, sed Deo reddente ei quod meruit.
+
+16:19 Hoc autem edictum, quod nunc mittimus, in cunctis
+urbibus proponatur, ut liceat Iudaeis uti legibus suis.
+
+16:20 Quibus debetis esse adminiculo, ut eos, qui se ad necem eorum
+paraverant, possint interficere tertiadecima die mensis duodecimi,
+qui vocatur Adar.
+
+16:21 hanc enim diem, Deus omnipotens, moeroris et luctus,
+eis vertit in gaudium.
+
+16:22 Unde et vos inter ceteros festos dies, hanc habetote diem,
+et celebrate eam cum omni laetitia, ut et in posterum cognoscatur,
+
+16:23 onmes, qui fideliter Persis obediunt, dignam pro fide recipere
+mercedem: qui autem insidiantur regno eorum, perire pro scelere.
+
+16:24 Omnis autem provincia et civitas, quae noluerit sollemnitatis
+huius esse particeps, gladio et igne pereat, et sic deleatur,
+ut non solum hominibus, sed etiam bestiis invia sit in sempiternum,
+pro exemplo contemptus, et inobedientiae.
+
+
+
+
+
+PARALLELISMUS MEMBRORUM.
+
+
+(a)   2: 6   2Rg 24:15; Inf 11:4.
+(b)  11: 4   2Rg 24:15; Sup 2:6.
+(c)  12: 1   Sup 2:21; 6:2.
+(d)  14: 5   Dt 4:34.
+(e)  16: 1   Sup 1:1.
+(f)  16:10   Sup 3:1.
+
+
+
+
+
+NOTAE MARGINALES.
+
+[THESE NOTES STOOD IN THE MARGINS OF THE PRINTED VERSION OF THIS TEXT.
+THE VERSE NUMBERS IN BRACKETS INDICATE THEIR APPROXIMATE LOCATIONS.
+THEY TEND TO BE MORE SYNOPTIC IN NATURE THAN INTERPRETIVE.]
+
+
+[ 1: 1]  Assuerus seu Xerxes convivium publicum apparat,
+[ 1: 9]  Vasthi viris vinolentis se non monstrat,
+[ 1:12b] ideoque regno privatur.
+[ 2: 1]  Pro Xerxe virgines adducuntur,
+[ 2: 5]  Edissa seu Esther quoque
+[ 2: 9]  pro rege paratur
+[ 2:15]  atque regina eligitur.
+[ 2:19]  Bagathan et Thares regem occidere volebant.
+[ 3: 1]  A Mardochaeo non adoratus
+[ 3: 7]  sortem mittit
+[ 3:12]  et edictum regium constituit.
+[ 4: 1]  Mardochaeus cum ceteris Iudaeis ululat,
+[ 4: 4]  reginam ad regem mittit,
+[ 4: 9]  obedire nolentem
+[ 4:12]  graviter et severe monet,
+[ 4:15]  pro periclitante ieiunat et orat.
+[ 5: 1]  Invitat regem et Aman
+[ 5: 5b] semel atque iterum.
+[ 5: 9]  Mardochaeus ante convivium alterum suspendendus.
+[ 6: 1]  Mardochaeus coniurationem patefaciens
+[ 6: 4]  iussu Xerxis
+[ 6:11]  ab Aman circumducitur,
+[ 6:12]  de inimico triumphaturus.
+[ 6:14]  In convivio altero
+[ 7: 1]  Aman ab Esther accusatur
+[ 7: 6b] et a Xerxe ad patibulum damnatur,
+[ 8: 1]  Mardochaeus autem ei sufficitur.
+[ 8: 3]  Ab Esther rogatus rex mandat,
+[ 8: 9]  ut Iudaei hostes suos occiderent,
+[ 8:15]  quocirca Iudaei tripudiant.
+[ 9: 1]  Susis die 13 Adar 500 viri
+[ 9:11]  ac die 14 Adar 300 percutiuntur,
+[ 9:16]  in provinciis die 13 Adar 75000 occiduntur;
+[ 9:17]  in provinciis die 14, Susis die 15 Iudaei quiescunt ac laetantur.
+[ 9:20]  Die 14 et 15 Adar Iudaei laetentur,
+[ 9:29]  die quodam ieiunent.
+[10: 1]  Secundus a rege.
+[10: 4]  Somnium Mardochaei explicatur,
+[11: 1]  liber Esther in Aegyptum fertur.
+[11: 2]  Somnium Mardochaei narratur,
+[12: 1]  Mardochaeus coniurationem ianitorum patefacit.
+[12: 6b] Prior epistola Artaxerxis vel potius Xerxis.
+[13: 8]  Deprecatio Mardochaei,
+[14: 1]  obsecratio reginae Esther.
+[15: 1]  Mardochaeus reginam monet.
+[15: 4]  Esther ad regem ingreditur.
+[16: 1]  Altera epistola Artaxerxis vel potius Xerxis.
+
+
+
+
+
+APPENDIX CRITICA.
+
+DISCREPANTIA LECTIONUM CLEMENTINARUM ATQUE
+HEBRAICARUM ET GRAECARUM AB ANGELO ROCCA NOTATA.
+
+
+Nulla differentia inter Vulgatam ac textum Heb. et Gr. a Rocca notatur.
+
+
+
+
+
+
+
+
+
+
+End of Project Gutenberg's Latin Vulgate, Esther: Liber Esther, by Anonymous
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LATIN VULGATE, ESTHER ***
+
+***** This file should be named 826.txt or 826.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/8/2/826/
+
+Produced by Dennis McCarthy
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -15,6 +15,7 @@ builder.add_from_file("verbose.glade")
 prev_entry=""
 
 def on_click_result_func(data):
+	global file_chart
 	if(data[0].endswith(".pdf")):
 		os.system("okular " + data[0] + " -p " + data[1] + " &")
 	else:
@@ -24,9 +25,9 @@ def generate_result_list(result_flist):
 	list_box2 = builder.get_object("result_list")
 	for row in list_box2.get_children():
 		list_box2.remove(row)
-
+	global file_chart
 	for data in result_flist:
-		list_box2.insert(ListBoxRowWithData(data[1]+ "-No.: " + data[0]),0)
+		list_box2.insert(ListBoxRowWithData(file_chart[data[1]]+ "-No.: " + data[0]),0)
 	list_box2.connect('row-activated', lambda widget, row: on_click_result_func(row.data.split("-No.: ")))
 	list_box2.show_all()
 
@@ -78,7 +79,10 @@ class Handlers:
 			return
 		dialog.destroy()
 		global table
-		table = index_folder(table,input_dir)
+		global file_chart
+		p = index_folder(table,input_dir,file_chart)
+		table = p[0]
+		file_chart = p[1]
 
 	def search_button_clicked(self,button):
 		global prev_entry
