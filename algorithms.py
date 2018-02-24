@@ -14,12 +14,19 @@ def recent_search_read():
 			x = f.read()
 		x = x.split("||")[::-1]
 		x.pop()
-		return x
+		return list(set(x))
 	else:
 		return []
 
 def did_you_mean():
 	print ("DID YOU MEAN XYZ")
+
+def rank_result(answer):
+	f_list = []
+	for k in sorted(answer, key=lambda k: len(answer[k]), reverse=True):
+		for i in answer[k]:
+			f_list.append([i,k])
+	return f_list
 
 def result(table,query):
 	x = time.time()
@@ -27,7 +34,7 @@ def result(table,query):
 	answer = intersect_file(table,query)
 	y = time.time()
 	
-	return ["Searched in " + str(y-x) + " seconds.",answer]
+	return ["Searched in " + str(y-x) + " seconds.",rank_result(answer)]
 
 	for dkey in answer:
 		print ("Filename: " + dkey.split("/")[-1])

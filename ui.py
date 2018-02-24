@@ -14,12 +14,29 @@ builder = Gtk.Builder()
 builder.add_from_file("verbose.glade")
 prev_entry=""
 
+def on_click_result_func(data):
+	if(data[0].endswith(".pdf")):
+		os.system("okular " + data[0] + " -p " + data[1] + " &")
+	else:
+		os.system("gedit " + data[0] + " +" + data[1] + " &")
+
+def generate_result_list(result_flist):
+	list_box2 = builder.get_object("result_list")
+	for row in list_box2.get_children():
+		list_box2.remove(row)
+
+	for data in result_flist:
+		list_box2.insert(ListBoxRowWithData(data[1]+ "-No.: " + data[0]),0)
+	list_box2.connect('row-activated', lambda widget, row: on_click_result_func(row.data.split("-No.: ")))
+	list_box2.show_all()
+
 def search_it(entry):
 	global table
 	stats = result(table,entry)
 	print ("searched for" + entry)
+	builder.get_object("result_stats").set_text(stats[0])
+	generate_result_list(stats[1])
 	builder.get_object("main_notebook").set_current_page(1)
-	builder.get_object("result_stats").set_text(stats)
 
 class ListBoxRowWithData(Gtk.ListBoxRow):
 
@@ -71,8 +88,9 @@ class Handlers:
 			global table
 			stats = result(table,entry)
 			builder.get_object("recent_list").add(ListBoxRowWithData(entry))
+			generate_result_list(stats[1])
+			builder.get_object("result_stats").set_text(stats[0])
 			builder.get_object("main_notebook").set_current_page(1)
-			builder.get_object("result_stats").set_text(stats)
 			list_insert(entry)
 
 builder.connect_signals(Handlers())
