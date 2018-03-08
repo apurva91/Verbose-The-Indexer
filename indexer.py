@@ -5,7 +5,8 @@ import os
 from filedump import *
 regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
 from stopwords import *
-
+from nltk import PorterStemmer
+stemmer = PorterStemmer()
 '''
 Take the common portion make into one pdf and text part
 Something like this
@@ -32,7 +33,7 @@ def search_PDF(tableold, input_file,enc):
 			x = list(filter(None,re.split('(?:'+regex_query+')+',page)))
 			for word in x:
 				if word.lower() not in stopwords:
-					wordl = word.lower()
+					wordl = stemmer.stem(word)
 					if wordl in table:
 						table[wordl].append(str(i))
 					else:
@@ -55,7 +56,7 @@ def search_text(tableold, input_file,enc):
 			x = list(filter(None,re.split('(?:'+regex_query+')+',line)))
 			for word in x:
 				if not word.lower() in stopwords:
-					wordl = word.lower()
+					wordl = stemmer.stem(word)
 					if wordl in table:
 						table[wordl].append(str(i))
 					else:
@@ -65,7 +66,7 @@ def search_text(tableold, input_file,enc):
 	tableold = merge_dump(tableold,table,enc)
 	return tableold
 
-def index_folder(table,input_dir,file_chart):
+def index_folder(table,input_dir,file_chart,rev_file_chart):
 	listed_files = list_files(input_dir)
 	val = len(listed_files[0]) + len(listed_files[1])
 	# progress_dialog_ini(val)
@@ -73,6 +74,7 @@ def index_folder(table,input_dir,file_chart):
 	i = 0
 	for text in listed_files[0]:
 		file_chart[hex(i)] = text
+		rev_file_chart[text] = hex(i)
 		z= time.time()
 		table=search_text(table, text, hex(i))
 		y= time.time()
@@ -81,6 +83,7 @@ def index_folder(table,input_dir,file_chart):
 		# progress_dialog_update(i,val)
 	for pdf in listed_files[1]:
 		file_chart[hex(i)] = pdf
+		rev_file_chart[pdf] = hex(i)
 		z= time.time()
 		table=search_PDF(table, pdf, hex(i))
 		y= time.time()
@@ -88,7 +91,7 @@ def index_folder(table,input_dir,file_chart):
 		i = i + 1
 		# progress_dialog_update(i,val)
 	fin_time = time.time()	
-	return [table,file_chart]
+	return [table,file_chart,rev_file_chart]
 
 def list_files(folder):
 	list_folder = os.listdir(folder)

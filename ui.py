@@ -14,30 +14,55 @@ builder = Gtk.Builder()
 builder.add_from_file("verbose.glade")
 prev_entry=""
 
-def on_click_result_func(data):
+
+def on_click_result_func(entry,data):
 	global file_chart
-	if(data[0].endswith(".pdf")):
-		os.system("okular " + data[0] + " -p " + data[1] + " &")
+	print(entry + " " + data)
+	# return
+	if(entry.endswith(".pdf")):
+		os.system("okular " + entry + " -p " + data + " &")
 	else:
-		os.system("gedit " + data[0] + " +" + data[1] + " &")
+		os.system("gedit " + entry + " +" + data + " &")
 
 def generate_result_list(result_flist):
 	list_box2 = builder.get_object("result_list")
 	for row in list_box2.get_children():
 		list_box2.remove(row)
 	global file_chart
+	global last_result
 	for data in result_flist:
-		list_box2.insert(ListBoxRowWithData(file_chart[data[1]]+ "-No.: " + data[0]),0)
-	list_box2.connect('row-activated', lambda widget, row: on_click_result_func(row.data.split("-No.: ")))
+		list_box2.insert(ListBoxRowWithData("File:" + file_chart[data].replace("/","->")),0)
+	list_box2.connect('row-activated', lambda widget, row: get_particular_result(row.data))
+	list_box2.show_all()
+
+def generate_page_list(entry):
+	list_box2 = builder.get_object("page_list")
+	for row in list_box2.get_children():
+		list_box2.remove(row)
+	global file_chart
+	global rev_file_chart
+	global last_result
+	for data in last_result[1][rev_file_chart[entry]]:
+		list_box2.insert(ListBoxRowWithData("Page Number: " + data) ,0)
+	list_box2.connect('row-activated', lambda widget, row: on_click_result_func(entry,row.data.split("Number: ")[-1]))
 	list_box2.show_all()
 
 def search_it(entry):
 	global table
-	stats = result(table,entry)
-	print ("searched for" + entry)
-	builder.get_object("result_stats").set_text(stats[0])
-	generate_result_list(stats[1])
+	global last_result
+	last_result = result(table,entry)
+	print ("Searched for " + entry)
+	builder.get_object("result_stats").set_text(last_result[0])
+	generate_result_list(last_result[2])
 	builder.get_object("main_notebook").set_current_page(1)
+
+def get_particular_result(entry):
+	dec_entry = entry.replace("->","/").split("File:")[-1]
+	list_box2 = builder.get_object("page_list")
+	builder.get_object("result_expand").set_text(dec_entry.split("/")[-1])
+	generate_page_list(dec_entry)
+	builder.get_object("main_notebook").set_current_page(2)
+
 
 class ListBoxRowWithData(Gtk.ListBoxRow):
 
@@ -48,6 +73,12 @@ class ListBoxRowWithData(Gtk.ListBoxRow):
 
 def list_insert(entry):
 	list_box2 = builder.get_object("recent_list")
+	list_box2.insert(ListBoxRowWithData(entry),0)
+	list_box2.connect('row-activated', lambda widget, row: search_it(row.data))
+	list_box2.show_all()
+
+def list_insert_page(entry):
+	list_box2 = builder.get_object("page_list")
 	list_box2.insert(ListBoxRowWithData(entry),0)
 	list_box2.connect('row-activated', lambda widget, row: search_it(row.data))
 	list_box2.show_all()
@@ -80,9 +111,11 @@ class Handlers:
 		dialog.destroy()
 		global table
 		global file_chart
-		p = index_folder(table,input_dir,file_chart)
+		global rev_file_chart
+		p = index_folder(table,input_dir,file_chart,rev_file_chart)
 		table = p[0]
 		file_chart = p[1]
+		rev_file_chart = p[2]
 
 	def search_button_clicked(self,button):
 		global prev_entry
@@ -90,10 +123,11 @@ class Handlers:
 		if  prev_entry != entry:
 			prev_entry = entry
 			global table
-			stats = result(table,entry)
+			global last_result
+			last_result = result(table,entry)
 			builder.get_object("recent_list").add(ListBoxRowWithData(entry))
-			generate_result_list(stats[1])
-			builder.get_object("result_stats").set_text(stats[0])
+			generate_result_list(last_result[2])
+			builder.get_object("result_stats").set_text(last_result[0])
 			builder.get_object("main_notebook").set_current_page(1)
 			list_insert(entry)
 

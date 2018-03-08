@@ -6,6 +6,9 @@ from filedump import *
 input_dir="Files"
 table = {}
 file_chart = {}
+rev_file_chart = {}
+
+last_result = []
 from ui import *
 
 '''

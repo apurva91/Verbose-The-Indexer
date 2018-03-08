@@ -2,6 +2,7 @@ import time
 import re
 import os
 from stopwords import *
+from nltk import PorterStemmer
 
 regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
 
@@ -25,9 +26,9 @@ def did_you_mean():
 def rank_result(answer):
 	f_list = []
 	for k in sorted(answer, key=lambda k: len(answer[k]), reverse=True):
-		for i in answer[k]:
-			f_list.append([i,k])
+		f_list.append(k)
 	return f_list
+
 
 def result(table,query):
 	x = time.time()
@@ -35,7 +36,7 @@ def result(table,query):
 	answer = intersect_file(table,query)
 	y = time.time()
 	
-	return ["Searched in " + str(y-x) + " seconds.",rank_result(answer)]
+	return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer)]
 
 	for dkey in answer:
 		print ("Filename: " + dkey.split("/")[-1])
@@ -43,6 +44,8 @@ def result(table,query):
 
 def intersect_file(table,query):
 	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
+	stemmer = PorterStemmer()
+	listofwords = [stemmer.stem(x) for x in listofwords]
 	try:
 		books = set(table[listofwords[0].lower()].keys())		
 		for i in range(1,len(listofwords)):
