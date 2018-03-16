@@ -5,7 +5,7 @@ import os
 from indexer import *
 from main import *
 from algorithms import *
-
+from filedump import *
 s = Gdk.Screen.get_default()
 screen_width = s.get_width()
 screen_height = s.get_height()
@@ -13,7 +13,6 @@ screen_height = s.get_height()
 builder = Gtk.Builder()
 builder.add_from_file("verbose.glade")
 prev_entry=""
-
 
 def on_click_result_func(entry,data):
 	global file_chart
@@ -26,6 +25,7 @@ def on_click_result_func(entry,data):
 
 def generate_result_list(result_flist):
 	list_box2 = builder.get_object("result_list")
+	list_box2.unselect_all()
 	for row in list_box2.get_children():
 		list_box2.remove(row)
 	global file_chart
@@ -37,14 +37,16 @@ def generate_result_list(result_flist):
 
 def generate_page_list(entry):
 	list_box2 = builder.get_object("page_list")
+	list_box2.unselect_all()
 	for row in list_box2.get_children():
 		list_box2.remove(row)
 	global file_chart
 	global rev_file_chart
 	global last_result
 	for data in last_result[1][rev_file_chart[entry]]:
-		list_box2.insert(ListBoxRowWithData("Page Number: " + data) ,0)
-	list_box2.connect('row-activated', lambda widget, row: on_click_result_func(entry,row.data.split("Number: ")[-1]))
+		list_box2.insert(ListBoxRowWithDataMod("Page Number: " + data,entry) ,0)
+	# list_box2.connect('key-release-event', on_key_enter(entry,row.data))
+	# list_box2.connect('row-selected', lambda widget, row: print(entry + row.data.split("Number: ")[1]) )
 	list_box2.show_all()
 
 def search_it(entry):
@@ -70,6 +72,23 @@ class ListBoxRowWithData(Gtk.ListBoxRow):
         super(Gtk.ListBoxRow, self).__init__()
         self.data = data
         self.add(Gtk.Label(data))
+
+class ListBoxRowWithDataMod(Gtk.ListBoxRow):
+
+    def __init__(self, data,id):
+        super(Gtk.ListBoxRow, self).__init__()
+        self.data = data
+        self.id = id
+
+        box = Gtk.EventBox()
+        label = Gtk.Label(data)
+        box.add(label)
+        # box.connect("enter-notify-event", self.on_mouse)
+        box.connect("button-release-event",self.on_click)
+        self.add(box)
+
+    def on_click(self,widget,data=None):
+    	on_click_result_func(self.id,self.data.split("Number: ")[1])
 
 def list_insert(entry):
 	list_box2 = builder.get_object("recent_list")

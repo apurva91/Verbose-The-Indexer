@@ -3,7 +3,7 @@ import time
 import re
 import os
 from filedump import *
-regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
+regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|_|\(|-|\?|\"|:|—|”|;|\\|\'"
 from stopwords import *
 from nltk import PorterStemmer
 stemmer = PorterStemmer()
@@ -28,16 +28,21 @@ def search_PDF(tableold, input_file,enc):
 	else:
 		text_pdf = pdftotext.PDF(open(input_file,'rb'))
 		i = 0
+		j = 0
 		for page in text_pdf:
 			i = i+1
 			x = list(filter(None,re.split('(?:'+regex_query+')+',page)))
 			for word in x:
-				if word.lower() not in stopwords:
+				if word.lower() not in stopwords or 1:
 					wordl = stemmer.stem(word)
+					j = j+1
 					if wordl in table:
-						table[wordl].append(str(i))
+						if i in table[wordl]:
+							table[wordl][i].append(j)
+						else:
+							table[wordl][i] = [j]
 					else:
-						table[wordl] = [str(i)]
+						table[wordl] = {i:[j]}
 		save_dump(table,input_file)
 
 	tableold = merge_dump(tableold,table,enc)
@@ -51,16 +56,21 @@ def search_text(tableold, input_file,enc):
 		text = open(input_file,'rb')
 		text = re.split("\r\n|\n", text.read().decode("utf-8",errors = "ignore"))
 		i = 0
+		j=0
 		for line in text:
 			i = i+1
 			x = list(filter(None,re.split('(?:'+regex_query+')+',line)))
 			for word in x:
-				if not word.lower() in stopwords:
+				if not word.lower() in stopwords or 1:
 					wordl = stemmer.stem(word)
+					j = j+1
 					if wordl in table:
-						table[wordl].append(str(i))
+						if i in table[wordl]:
+							table[wordl][i].append(j)
+						else:
+							table[wordl][i] = [j]
 					else:
-						table[wordl] = [str(i)]
+						table[wordl] = {i:[j]}
 		save_dump(table,input_file)
 
 	tableold = merge_dump(tableold,table,enc)

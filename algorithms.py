@@ -3,8 +3,9 @@ import re
 import os
 from stopwords import *
 from nltk import PorterStemmer
-
-regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|-|\?|\"|:|—|”|;|\\|\'"
+from indexer import *
+import math
+regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|\(|_|-|\?|\"|:|—|”|;|\\|\'"
 
 def recent_search_write(query):
 	with open("recent.dump", "a") as myfile:
@@ -20,12 +21,31 @@ def recent_search_read():
 	else:
 		return []
 
+def calc_glfi(fi,glt,gli):
+	if gli is not 0:
+		return math.log(glt/gli) * fi
+	else:
+		return 0
+
+def calc_glfi_for_phrase(k,fiof,glof,query,wfof):
+	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
+	stemmer = PorterStemmer()
+	listofwords = [x for x in listofwords if x not in stopwords]
+	listofwords = [stemmer.stem(x) for x in listofwords]
+	ans = 0
+	for x in listofwords:
+		ans = ans + calc_glfi(fiof[k][x],len(fiof),wfof[x])/len(fiof[k])/len(listofwords)
+	print(ans)
+	return ans
+
 def did_you_mean():
 	print ("DID YOU MEAN XYZ")
 
-def rank_result(answer):
+def rank_result(answer,query):
 	f_list = []
-	for k in sorted(answer, key=lambda k: len(answer[k]), reverse=True):
+	global fiof, glof, wfof
+
+	for k in sorted(answer, key=lambda k: calc_glfi_for_phrase(k,fiof,glof,query,wfof), reverse=True):
 		f_list.append(k)
 	return f_list
 
@@ -36,16 +56,16 @@ def result(table,query):
 	answer = intersect_file(table,query)
 	y = time.time()
 	
-	return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer)]
+	return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer,query)]
 
-	for dkey in answer:
-		print ("Filename: " + dkey.split("/")[-1])
-		print (answer[dkey])
 
 def intersect_file(table,query):
 	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
+	
 	stemmer = PorterStemmer()
+	listofwords = [x for x in listofwords if x not in stopwords]
 	listofwords = [stemmer.stem(x) for x in listofwords]
+	
 	try:
 		books = set(table[listofwords[0].lower()].keys())		
 		for i in range(1,len(listofwords)):
@@ -53,6 +73,8 @@ def intersect_file(table,query):
 		return multiple_words(table,list(books),listofwords)
 	except KeyError:
 		did_you_mean()
+
+
 
 def multiple_words(table,list_books,listofwords):
 	answer = {}

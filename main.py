@@ -3,12 +3,12 @@ from algorithms import *
 from indexer import *
 from filedump import *
 
-input_dir="Files"
+input_dir="sdc"
 table = {}
 file_chart = {}
 rev_file_chart = {}
-
 last_result = []
+
 from ui import *
 
 '''
