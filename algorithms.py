@@ -59,8 +59,16 @@ def result(table,query):
 	
 	return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer,query)]
 
+def exact_check(c):
+	if c == "\"" or c =="\'":
+		return 1
+	else:
+		return 0
 
 def intersect_file(table,query):
+	exact = 0
+	if exact_check(query[0]) and exact_check(query[-1]):
+		exact = 1 
 	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
 	
 	stemmer = PorterStemmer()
@@ -71,28 +79,29 @@ def intersect_file(table,query):
 		books = set(table[listofwords[0].lower()].keys())		
 		for i in range(1,len(listofwords)):
 			books = books & set(table[listofwords[i].lower()].keys())
-		return multiple_words(table,list(books),listofwords)
+		return multiple_words(table,list(books),listofwords,exact)
 	except KeyError:
 		did_you_mean()
 
 
 
-def multiple_words(table,list_books,listofwords):
+def multiple_words(table,list_books,listofwords,exact):
 	answer = {}
 	epage = exact_search(listofwords,table,list_books)
 	try:
 		for book in list_books:
+			if exact is 0:
+				intersect = set(table[listofwords[0].lower()][book].keys())		
+				for i in range(1,len(listofwords)):
+					intersect = intersect & set(table[listofwords[i].lower()][book].keys())
 
-			intersect = set(table[listofwords[0].lower()][book].keys())		
-			for i in range(1,len(listofwords)):
-				intersect = intersect & set(table[listofwords[i].lower()][book].keys())
-
-			if book in epage:
-				print(epage[book])
-				answer[book] = [x for x in list(intersect) if str(x) not in epage[book]] + [x for x in epage[book]]
+				if book in epage:
+					print(epage[book])
+					answer[book] = [x for x in list(intersect) if str(x) not in epage[book]] + [x for x in epage[book]]
+				else:
+					answer[book] = list(intersect)
 			else:
-				answer[book] = list(intersect)
-	
+				answer[book] = [x for x in epage[book]]
 		return answer
 	except KeyError:
 		did_you_mean()
