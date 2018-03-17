@@ -20,11 +20,8 @@ def time_calc_test(cmd):
 
 
 import re
-from collections import Counter
 
 def words(text): return re.findall(r'\w+', text.lower())
-
-glof = Counter(words(open('sdc/big.txt').read()))
 
 def P(word, N=sum(glof.values())): 
     "Probability of `word`."

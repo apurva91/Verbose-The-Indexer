@@ -30,7 +30,7 @@ def calc_glfi(fi,glt,gli):
 def calc_glfi_for_phrase(k,fiof,glof,query,wfof):
 	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
 	stemmer = PorterStemmer()
-	listofwords = [x for x in listofwords if x not in stopwords]
+	# listofwords = [x for x in listofwords if x not in stopwords]
 	listofwords = [stemmer.stem(x) for x in listofwords]
 	ans = 0
 	for x in listofwords:
@@ -50,6 +50,7 @@ def rank_result(answer,query):
 	return f_list
 
 
+
 def result(table,query):
 	x = time.time()
 	recent_search_write(query)
@@ -63,7 +64,7 @@ def intersect_file(table,query):
 	listofwords = list(filter(None,re.split('(?:'+regex_query+')+',query)))
 	
 	stemmer = PorterStemmer()
-	listofwords = [x for x in listofwords if x not in stopwords]
+	# listofwords = [x for x in listofwords if x not in stopwords]
 	listofwords = [stemmer.stem(x) for x in listofwords]
 	
 	try:
@@ -78,15 +79,47 @@ def intersect_file(table,query):
 
 def multiple_words(table,list_books,listofwords):
 	answer = {}
+	epage = exact_search(listofwords,table,list_books)
 	try:
 		for book in list_books:
-			intersect = set(table[listofwords[0].lower()][book])		
+
+			intersect = set(table[listofwords[0].lower()][book].keys())		
 			for i in range(1,len(listofwords)):
-				intersect = intersect & set(table[listofwords[i].lower()][book])
-			answer[book] = list(intersect)
+				intersect = intersect & set(table[listofwords[i].lower()][book].keys())
+
+			if book in epage:
+				print(epage[book])
+				answer[book] = [x for x in list(intersect) if str(x) not in epage[book]] + [x for x in epage[book]]
+			else:
+				answer[book] = list(intersect)
+	
 		return answer
 	except KeyError:
 		did_you_mean()
+
+def exact_search(listofwords, table, list_books):
+	elist = {}
+	epage = {}
+	try:
+		for book in list_books:
+			a = []
+			for i , word in enumerate(listofwords):
+				a.append([ y - i for x in table[word][book].values() for y in x])
+			elist[book] = set(a[0]).intersection(*a)
+
+
+		for book in elist:
+			epage[book] = []
+			tof = elist[book]
+			for key in table[listofwords[0].lower()][book]:
+				for ind in list(tof):
+					if ind in table[listofwords[0].lower()][book][str(key)]:
+						epage[book].append(key)
+
+		return epage
+	except KeyError:
+		"NO RESULTS"
+
 
 def search_keys(table,query):
 	myre = re.compile("[\w]*" + query + "[\w-]*")
