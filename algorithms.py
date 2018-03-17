@@ -38,8 +38,18 @@ def calc_glfi_for_phrase(k,fiof,glof,query,wfof):
 	print(ans)
 	return ans
 
-def did_you_mean():
-	print ("DID YOU MEAN XYZ")
+def did_you_mean(table,query,listofwords):
+	if len(listofwords) is 1:
+		answer = {}
+		if exact_check(query[0]) and exact_check(query[-1]):
+			answer =  intersect_file(table,'"' + correction(stemmer.stem(listofwords[0])) + '"')
+		else:
+			answer =  intersect_file(table,correction(stemmer.stem(listofwords[0])))
+		global dym
+		dym = 1
+		return answer
+	else:
+		return 0
 
 def rank_result(answer,query):
 	f_list = []
@@ -50,14 +60,21 @@ def rank_result(answer,query):
 	return f_list
 
 
+dym = 0
 
 def result(table,query):
 	x = time.time()
 	recent_search_write(query)
 	answer = intersect_file(table,query)
 	y = time.time()
-	
-	return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer,query)]
+	if answer is 0:
+		return ["No result Found",{},{}]
+	else:
+		if dym is 1:
+			ny = correction(stemmer.stem(list(filter(None,re.split("\'|\"",query)))[0]))
+			return ["Searched in " + str(y-x) + " seconds.\nShowing Results For Did You Mean " + ny ,answer,rank_result(answer,ny)]
+		else:	
+			return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer,query)]
 
 def exact_check(c):
 	if c == "\"" or c =="\'":
@@ -74,15 +91,15 @@ def intersect_file(table,query):
 	stemmer = PorterStemmer()
 	# listofwords = [x for x in listofwords if x not in stopwords]
 	listofwords = [stemmer.stem(x) for x in listofwords]
-	
+	global dym
+	dym = 0
 	try:
 		books = set(table[listofwords[0].lower()].keys())		
 		for i in range(1,len(listofwords)):
 			books = books & set(table[listofwords[i].lower()].keys())
 		return multiple_words(table,list(books),listofwords,exact)
 	except KeyError:
-		did_you_mean()
-
+		return did_you_mean(table,query,listofwords)
 
 
 def multiple_words(table,list_books,listofwords,exact):
@@ -144,7 +161,36 @@ def open_text(filename, linenumber):
 def open_pdf(filename, pagenumber):
 	os.system("okular +"+filename + " -p " + pagenumber)
 
-'''
-Now what about how will you index
-inedxing is simple add occurence on 
-'''
+def words(text): return re.findall(r'\w+', text.lower())
+
+def P(word): 
+    "Probability of `word`."
+    global glof
+    return glof[word] / sum(glof.values())
+
+def correction(word): 
+    "Most probable spelling correction for word."
+    return max(candidates(word), key=P)
+
+def candidates(word): 
+    "Generate possible spelling corrections for word."
+    return (known([word]) or known(edits1(word)) or known(edits2(word)) or [word])
+
+def known(words): 
+    "The subset of `words` that appear in the dictionary of glof."
+    global glof
+    return set(w for w in words if w in glof)
+
+def edits1(word):
+    "All edits that are one edit away from `word`."
+    letters    = 'abcdefghijklmnopqrstuvwxyz'
+    splits     = [(word[:i], word[i:])    for i in range(len(word) + 1)]
+    deletes    = [L + R[1:]               for L, R in splits if R]
+    transposes = [L + R[1] + R[0] + R[2:] for L, R in splits if len(R)>1]
+    replaces   = [L + c + R[1:]           for L, R in splits if R for c in letters]
+    inserts    = [L + c + R               for L, R in splits for c in letters]
+    return set(deletes + transposes + replaces + inserts)
+
+def edits2(word): 
+    "All edits that are two edits away from `word`."
+    return (e2 for e1 in edits1(word) for e2 in edits1(e1))
