@@ -1,0 +1,4 @@
+pdftotext
+nltk
+gi
+pyGObject

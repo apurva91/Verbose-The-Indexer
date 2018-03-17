@@ -111,14 +111,20 @@ def multiple_words(table,list_books,listofwords,exact):
 				intersect = set(table[listofwords[0].lower()][book].keys())		
 				for i in range(1,len(listofwords)):
 					intersect = intersect & set(table[listofwords[i].lower()][book].keys())
-
-				if book in epage:
-					print(epage[book])
-					answer[book] = [x for x in list(intersect) if str(x) not in epage[book]] + [x for x in epage[book]]
+				if bool(epage):
+					if book in epage:
+						print(epage[book])
+						answer[book] = [x for x in list(intersect) if str(x) not in epage[book]] + [x for x in epage[book]]
+					else:
+						answer[book] = list(intersect)
 				else:
 					answer[book] = list(intersect)
 			else:
-				answer[book] = [x for x in epage[book]]
+				answer[book] = [x for x in epage[book] if len(epage[book]) is not 0]
+			if len(answer[book]) is 0:
+				del answer[book]
+		if len(answer) is 0:
+			return 0
 		return answer
 	except KeyError:
 		did_you_mean()

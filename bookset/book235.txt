@@ -1,0 +1,784 @@
+The Project Gutenberg EBook of William Gibson Interviewed, by Giuseppe Salza
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: William Gibson Interviewed
+
+Author: Giuseppe Salza
+
+Posting Date: March 18, 2012 [EBook #235]
+Release Date: March, 1995
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WILLIAM GIBSON INTERVIEWED ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+William Gibson Interview
+
+by Giuseppe Salza
+
+http://www.sct.fr/cyber/gibson.html
+
+
+
+
+Copyright Giuseppe Salza, 1994.
+giusal@world-net.sct.fr
+
+
+STANDARD DISCLAIMER:
+This document can be freely copied under the following conditions:
+it must circulate in its entire form (including this disclaimer);
+it is meant for personal and non-commercial usage.  This entire
+document or parts of it are not to be sold or distributed for a fee
+without prior permission. Send permission requests to
+"giusal@world-net.sct.fr".  This document is provided "as is", without
+express of implied warranty. In other words, use it at your own risk.
+
+INTERVIEW WITH WILLIAM GIBSON
+by Giuseppe Salza
+
+
+****This interview will be included in the book "Net-Surfers"
+(tentative title) by Giuseppe Salza, to be published by
+"Theoria Edizioni" in Italy in Spring 1995****
+
+
+CANNES. William Gibson was in Cannes in May 1994 to promote
+the filming of "Johnny Mnemonic", a $26 million science fiction
+movie based on his short story, and starring megastar Keanu
+Reeves as the main character. Directed by the concept artist (and
+Gibson's pal) Robert Longo - with a few music video and TV credits,
+but for the first time in charge of a feature, the film also stars Ice-T,
+Dolph Lundgren, Takeshi Kitano (of the cult "Sonatine"), Udo Kier,
+Henry Rollins and Dina Meyer. William Gibson also wrote the
+screenplay of his original story, which was published in the anthology
+"Burning Chrome". "Johnny Mnemonic" goes into wide release
+in current 1995.
+
+In this interview, William Gibson talks at length about "Johnny
+Mnemonic", movies, SF, net culture and issues.
+
+
+What are your initial impressions on how "Johnny Mnemonic" is
+turning out ?
+
+I have just seen the pre-assembled 10-minute show reel. I think it is
+fantastic! It felt very good seeing the universe of "Johnny Mnemonic"
+taking a life on its own.  If it had been different, I wouldn't probably
+be here. But it can be safe to say that "Johnny Mnemonic" has been
+the optimal screen experience so far.
+
+Robert (Longo, the film director) and I kind of had a mutual
+experience with it.  We first tried to make a screen adaptation of
+"Johnny Mnemonic" back in 1989, so we started pitching it around
+film companies, asking for money.  Didn't work out.  We realized
+afterwards that our major mistake was asking too little money.
+Our aim back then was to make a little art movie, we figured that
+we would need less than 2 million dollars. Jean-Luc Godard's
+"Alphaville" was our main inspiration back then.  We should have
+asked more money.
+
+We went through several script drafts and stages.  It became very
+painful pursuing the project.  If it were just for me, I would have
+given up long ago.  It was really Robert's faith and persistence
+in getting this film done that made it possible.
+
+
+Have you written any film scripts before, besides this and the ill-
+fated drafts for "Alien3"?
+
+Yeah, I have done a couple of screen adaptations that never got
+made.  One was "Burning Chrome" (ED.Kathryn Bigelow was
+involved in it for a while) and the other was "Neuro-Hotel".
+
+
+What happened ?
+
+I don't really feel like talking about them.  Let's just say that
+these projects have been... developed to death.  It was getting
+more and more frustrating, and I didn't like that.
+
+
+Have you ever been involved in any other movie or TV project
+before that ?
+
+I was gonna write a story for the "Max Headroom" series, but the
+network pulled the plug.  My friend John Shirley did a couple of
+scripts for them.  He's the one who convinced me I should have
+written one, too.
+
+
+The only thing which was left of your script for "Alien3" was the
+prisoners with the bar code tattooed on the back of their necks.
+What do you think in retrospect of this misadventure ?
+
+My script for "Alien3" was kind of Tarkovskian. Vincent Ward
+(ED.the director of "The Navigator") came late to the project
+(ED.after a number of other directors had been unsuccessfully
+approached), but I think he got the true meaning of my story.
+It would have been fun if he stayed on. (ED.he eventually quit.
+"Alien3" was finally directed by David Fincher)
+
+
+You seem very detached from your previous experiences in movies.
+"Johnny Mnemonic", on the other hand, seems very personal to you.
+Why is that ?
+
+I wrote the original story in 1980. I think it was perhaps the second
+piece of fiction I ever wrote in my life.  It held up very good after all
+these years.  "Johnny" was a start for many creative processes:
+it was in fact the root source of "Neuromancer" and "Count Zero".
+It is only fair that the first script of mine that goes into production
+should come from that, from my early career.
+
+The world of "Johnny Mnemonic" takes for granted the Berlusconi
+completion process, I mean the media baron becoming one of the
+Country's leaders.  I think the distinction between politicians and
+media is gonna disappear. It already has, in effect. It is very sad.
+
+
+It's like saying that the theories you imagined in your science fiction
+stories are becoming real...
+
+Yeah, but people shouldn't look at science fiction like they look at
+"real" fiction.  They shouldn't expect that this is what the future
+is gonna look like.  We (ED. science fiction writers) are sort of
+charlatans: we come up with a few ideas and we make a living out of that.
+
+When I wrote "Neuromancer", I would have never imagined AIDS
+and the collapse of the USSR.  We never get the future right.
+I always thought that USSR was this big winter bear that would
+always exist. And look at what happened.  In 1993 I wrote an
+afterword for the Hungarian version of "Neuromancer".  I wrote that
+nothing lives forever, and that it's time that the winds of democracy
+blow over the East.  But now, after the arrival of people like
+Zhirinowsky, I have second thoughts again and I fear for them.
+
+
+Now you also write "geo-anthropological" reports...
+
+That's right.  I did a portrait of Singapore for "Wired Magazine".
+That place gave me the creeps.
+
+
+You are considered the true father of cyberpunk.  What do you think
+of how this word has spread in the world and has gained new meanings ?
+
+It depends whether you believe in such a thing.  "Cyberpunk" has
+become a historical word, one of these words which you use to
+describe a definite period of time.  The risk is that it could suddenly
+become outdated, passe.  Now it is a very fashionable thing to say:
+wearing cyberpunk outfit or behaving cyberpunk has become hip:
+you see it on MTV.  I was never comfortable with this interpretation.
+Billy Idol (ED. he released in 1993 the album "Cyberpunk") has
+turned it into something very silly.
+
+Finally, I think that cyberpunk is one of these journalistic terms,
+that media like to rely on.  I am aware that most young writers
+are delighted being considered cyberpunk authors.  But I'm older.
+I remember well the Sixties.  I know that once you have a "label"
+attached onto you, it is over.
+
+
+Let's go back to "Johnny Mnemonic".  Which direction have you
+given the screenplay ?
+
+"Johnny" is about the politics of Information.  It's an action film
+of course, but it doesn't forego for flashy and graphic FX: there's too
+much of that already on MTV.  Besides, Billy Idol burned that look.
+We preferred opting for an anti-realistic look: we want to plunge
+the audience into a very strange but consistent universe.  In short,
+we have decided to tell a story.  That's what science fiction
+literature has often managed to achieve, unlike most films.
+
+
+Which science fiction movies you like most ?
+
+I like "Blade Runner", Andrej Tarkowski's "Stalker", Chris Marker's
+"La jetee", and also the British pilot for the "Max Headroom"
+series.  (ED. it was directed by Rocky Morton & Annabel Jenkel)
+
+
+"Johnny Mnemonic" has a superstar, Keanu Reeves.  What do you
+think of his portrayal of your character ?
+
+Keanu is fantastic! I have this problem: I have never been able to
+describe the character of Johnny, until he came aboard.  One day in
+the early stages of developement, we were discussing the character,
+and I wasn't making a good job of doing that.  But he really
+got Johnny from day one. It helped me better understand this
+person that I had imagined, so I was able to make small
+adjustments to the story. I have always had a good attitude
+towards actors, and Keanu helped me reinforce that idea.
+Once "Johnny" got its second chance, Robert (Longo) and I have
+talked to each others on the phone at least once every day.
+Subsequently, I was often on the sets during the filming, doing
+rewrites.  The sets of this picture were awesome!  Everything was
+hung 50 feet up in the air.  They were quite dangerous:  you really
+had to watch where to put your feet.  But I was able to not black out.
+
+
+You and Bruce Sterling are the forefathers of the new science fiction.
+Isn't it ironical that he is very fascinated by hackers and the new edge,
+whereas you're not a technical person ?
+
+Bruce practically lives on the Internet. I don't even have a modem
+or e-mail. My computer is outdated by any standards of criteria.
+I never was a technical guy and never will be.  I'm a writer,
+and poetry and pop culture are the two things which fascinate me most.
+I'm not deeply excited by hi-tech.  The Edge of the U2 was over here
+the other day and he was showing me Net stuff. He showed how he
+could telnet to his Los Angeles computer and he was very excited.
+I'll never be like that.  However, I feel obliged to be ambivalent
+towards technology.  I can't be a "techie", but I can't hate it, either.
+
+
+You have written "Virtual Light".  So, what do you think of Virtual
+Reality ?
+
+If we take what I consider the "Sunday paper supplement" of VR,
+I mean Goggles & Gloves, I think that it has become very obvious,
+very cliche.  I think that real VR is gonna come out from the new
+generation of visual effects in movies.  I met Jim Cameron when he
+was editing "Terminator 2": he showed me the clips of the T-1000
+emerging from fire in the L.A. canal.  He said they were gonna use
+the actor for the whole shot, but it was easier for them to do it in
+digital.  This is the future. One day there will be entire virtual
+replicas of real actors.
+
+Incidentally, the book I'm writing now is about virtual celebrities.
+It's the story of a guy who becomes obsessed with the virtual replica of
+a star, and falls in love with her.
+
+
+You're not fascinated by technology, and yet you come up with ideas
+on the edge...
+
+When I write my books, my favorite part is always "art direction",
+not the plot.  I admit I like giving people a visual impression
+of the world I'm creating. Then, I have to remind myself that
+I have to tell a story, foremost.
+
+
+Another issue you focus on are Information Superhighways.
+What actions have you taken ?
+
+Bruce Sterling and I went to the National Academy in Washington to
+address the Al Gore people.  We told them that this is the last
+chance to give the poorest schools equal chances than the richest.
+In a few years it will be too late and we won't be able to fill up the gap.
+
+To me, Information Highways are best described by the most
+interesting image I've seen on TV during the Los Angeles riot.
+A Radio Shack shop (ED. a chain of shops selling consumer
+electronics gear) was being looted.  Next to that there was an Apple
+shop, and it was untouched.  People wanted to steal portable TVs
+and CD players, not computers.  I think this clearly indicated the
+gaps of culture, or simply the gaps of chances, in our society.
+Besides, the Information Highway issue gives the public a false
+perception.  They don't wanna offer you exhaustive accesses to
+information; they wanna offer you a new shopping mall.
+
+
+What do you think of the Clipper issue ?
+
+The NSA wants to legislate that every computer manifactured in the
+U.S. will have a chip built inside that will allow the Government
+to decrypt the information.  The worst thing is that people are not
+informed of what is at stake here.  Who would buy a computer with a
+spy inside?  The Clipper chip is an admission of incompetence.
+They say they wanna be able to decrypt the information that would
+jeopardize National Security.  But to can prevent the Medellin cartel
+to buy - say - into a Swiss corporation which comes up with a new
+encryption system which totally cuts out the Clipper ?
+
+Encryption programs are stronger and stronger.  There is a new one
+called Stego, which is free on Internet.  It takes written material and
+hides it in visual elements.  I send a digitized e-postcard from
+Cannes and there is half a novel hidden in its data.  I've seen it work.
+I haven't understood the half of it yet.
+
+Man, the Clipper chip is fucked anyway.  Most of the new edge guys
+are into computers, and they're coming up with new gear nobody
+had the slightest clue about five years ago.  I saw recently a
+prototype which looked like a beeper, but it was a virtual telephone.
+Unfortunately, we have to deal with more paper than before.  We are
+submerged by tons of paper!
+
+
+Wait a second.  A few minutes you said you're not into hi-tech, and
+now you're raving about it...
+
+I'm not a techie.  I don't know how these things work.  But I like
+what they do, and the new human processes that they generate.
+
+
+What is in your opinion the most important technological
+breakthrough of our society in recent years ?
+
+My favorite piece of technology is the Walkman. It forever changed
+the way we perceive music.  The Walkman has given us the opportunity
+to listen to whatever kind of music we wanted wherever we wanted.
+
+The Fax machine is also an amazing thing.  We live in a
+very different world because of that:  instantaneous written
+communication everywhere. It is also a very political technology,
+as the Tien An Men Square events told us.
+
+
+What about e-mail ?
+
+E-mail is very glamorous.  Way too glamorous.
+
+
+Copyright Giuseppe Salza, 1994.
+giusal@world-net.sct.fr
+
+
+STANDARD DISCLAIMER:
+This document can be freely copied under the following conditions:
+it must circulate in its entire form (including this disclaimer);
+it is meant for personal and non-commercial usage.  This entire
+document or parts of it are not to be sold or distributed for a fee
+without prior permission. Send permission requests to
+"giusal@world-net.sct.fr".  This document is provided "as is", without
+express of implied warranty. In other words, use it at your own risk.
+
+END FILE
+  -------------------------------------------------------
+ /    -- Giuseppe Salza --            ~~~~e-mail~~~~     \
+ |    Il manifesto                      ----------        |
+ | Tel. +33 - 1 - 43.71.60.69     giusal@world-net.sct.fr |
+ | Fax: +33 - 1 - 43.71.43.29     compuserve: 73544,1205  |
+ \                                                       /
+  -------------------------------------------------------
+
+
+
+
+
+
+
+
+End of Project Gutenberg's William Gibson Interviewed, by Giuseppe Salza
+
+*** END OF THIS PROJECT GUTENBERG EBOOK WILLIAM GIBSON INTERVIEWED ***
+
+***** This file should be named 235.txt or 235.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/235/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
