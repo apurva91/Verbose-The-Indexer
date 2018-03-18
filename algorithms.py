@@ -1,7 +1,7 @@
 import time
 import re
 import os
-from stopwords import *
+# from stopwords import *
 from nltk import PorterStemmer
 from indexer import *
 import math

@@ -4,7 +4,7 @@ import re
 import os
 from filedump import *
 regex_query="(?<!\d(?=\.\d))\.|\s|,|˚|\)|_|\(|-|\?|\"|:|—|”|;|\\|\'"
-from stopwords import *
+# from stopwords import *
 from nltk import PorterStemmer
 stemmer = PorterStemmer()
 '''
@@ -33,7 +33,7 @@ def search_PDF(tableold, input_file,enc):
 			i = i+1
 			x = list(filter(None,re.split('(?:'+regex_query+')+',page)))
 			for word in x:
-				if word.lower() not in stopwords or 1:
+				if 1:
 					wordl = stemmer.stem(word)
 					j = j+1
 					if wordl in table:
@@ -61,7 +61,7 @@ def search_text(tableold, input_file,enc):
 			i = i+1
 			x = list(filter(None,re.split('(?:'+regex_query+')+',line)))
 			for word in x:
-				if not word.lower() in stopwords or 1:
+				if 1:
 					wordl = stemmer.stem(word)
 					j = j+1
 					if wordl in table:
