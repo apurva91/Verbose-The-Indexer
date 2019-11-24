@@ -72,7 +72,7 @@ def result(table,query):
 	else:
 		if dym is 1:
 			ny = correction(stemmer.stem(list(filter(None,re.split("\'|\"",query)))[0]))
-			return ["Searched in " + str(y-x) + " seconds.\nShowing Results For Did You Mean " + ny ,answer,rank_result(answer,ny)]
+			return ["Searched in " + str(y-x) + " seconds.\nShowing results for " + ny + " instead",answer,rank_result(answer,ny)]
 		else:	
 			return ["Searched in " + str(y-x) + " seconds.",answer,rank_result(answer,query)]
 

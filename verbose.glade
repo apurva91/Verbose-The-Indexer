@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated with glade 3.20.0 -->
+<!-- Generated with glade 3.22.1 -->
 <interface>
   <requires lib="gtk+" version="3.20"/>
   <object class="GtkImage" id="image1">
@@ -14,6 +14,9 @@
     <property name="default_height">400</property>
     <property name="icon_name">accessories-dictionary</property>
     <child>
+      <placeholder/>
+    </child>
+    <child>
       <object class="GtkBox" id="main_layout">
         <property name="visible">True</property>
         <property name="can_focus">False</property>
@@ -22,10 +25,9 @@
           <object class="GtkHeaderBar" id="main_header">
             <property name="visible">True</property>
             <property name="can_focus">False</property>
-            <property name="title">Verbose</property>
             <child>
               <object class="GtkButton" id="folder_chooser">
-                <property name="label" translatable="yes">Folder</property>
+                <property name="label" translatable="yes">Select Folder</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
                 <property name="receives_default">True</property>

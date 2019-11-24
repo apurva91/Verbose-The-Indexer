@@ -31,7 +31,7 @@ def generate_result_list(result_flist):
 	global file_chart
 	global last_result
 	for data in result_flist:
-		list_box2.insert(ListBoxRowWithData("File:" + file_chart[data].replace("/","->")),0)
+		list_box2.insert(ListBoxRowWithData("File:" + file_chart[data]),0)
 	list_box2.connect('row-activated', lambda widget, row: get_particular_result(row.data))
 	list_box2.show_all()
 

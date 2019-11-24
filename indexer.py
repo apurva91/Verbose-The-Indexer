@@ -76,29 +76,31 @@ def search_text(tableold, input_file,enc):
 	tableold = merge_dump(tableold,table,enc)
 	return tableold
 
+file_number = 0
+
 def index_folder(table,input_dir,file_chart,rev_file_chart):
+	global file_number
 	listed_files = list_files(input_dir)
 	val = len(listed_files[0]) + len(listed_files[1])
 	# progress_dialog_ini(val)
 	ini_time = time.time()
-	i = 0
 	for text in listed_files[0]:
-		file_chart[hex(i)] = text
-		rev_file_chart[text] = hex(i)
+		file_chart[hex(file_number)] = text
+		rev_file_chart[text] = hex(file_number)
 		z= time.time()
-		table=search_text(table, text, hex(i))
+		table=search_text(table, text, hex(file_number))
 		y= time.time()
 		print ("Indexed " + text.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
-		i = i + 1
+		file_number += 1
 		# progress_dialog_update(i,val)
 	for pdf in listed_files[1]:
-		file_chart[hex(i)] = pdf
-		rev_file_chart[pdf] = hex(i)
+		file_chart[hex(file_number)] = pdf
+		rev_file_chart[pdf] = hex(file_number)
 		z= time.time()
-		table=search_PDF(table, pdf, hex(i))
+		table=search_PDF(table, pdf, hex(file_number))
 		y= time.time()
 		print ("Indexed " + pdf.split("/")[-1] + " in " + str(y-z)[0:5] + " seconds.")
-		i = i + 1
+		file_number += 1
 		# progress_dialog_update(i,val)
 	fin_time = time.time()	
 	return [table,file_chart,rev_file_chart]
